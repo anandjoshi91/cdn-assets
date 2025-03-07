@@ -1,0 +1,14 @@
+[
+    {
+      "name": "kasparov_topalov_1999", 
+      "displayName": "Kasparov vs. Topalov, Wijk aan Zee 1999"
+    },
+    {
+      "name": "morphy_duke_karl_count_isouard_1858.pgn", 
+      "displayName": "Morphy vs. Allies, Paris Opera 1858"
+    },
+    {
+        "name": "aronian_anand_2013.pgn", 
+        "displayName": "Aronian vs. Anand, Wijk aan Zee 2013"
+    }
+  ]

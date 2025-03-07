@@ -10,5 +10,33 @@
     {
         "name": "aronian_anand_2013.pgn", 
         "displayName": "Aronian vs. Anand, Wijk aan Zee 2013"
+    },
+    {
+        "name": "karpov_kasparov_1985.pgn", 
+        "displayName": "Karpov vs. Kasparov, World Championship 1985, game 16"
+    },
+    {
+        "name": "byrne_fischer_1956.pgn", 
+        "displayName": "Byrne vs. Fischer, New York 1956"
+    },
+    {
+        "name": "ivanchuk_yusupov_1991.pgn", 
+        "displayName": "Ivanchuk vs. Yusupov, Brussels 1991"
+    },
+    {
+        "name": "short_timman_1991.pgn", 
+        "displayName": "Short vs. Timman, Tilburg 1991"
+    },
+    {
+        "name": "bai_ding_liren_2017.pgn", 
+        "displayName": "Bai Jinshi vs. Ding Liren, Chinese League 2017"
+    },
+    {
+        "name": "rotlewi_rubinstein_1907.pgn", 
+        "displayName": "Rotlewi vs. Rubinstein, Lodz 1907"
+    },
+    {
+        "name": "geller_euwe_1953.pgn", 
+        "displayName": "Geller vs. Euwe, Zurich 1953"
     }
-  ]
+]

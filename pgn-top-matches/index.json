@@ -1,7 +1,7 @@
 [
     {
       "name": "kasparov_topalov_1999.pgn", 
-      "displayName": "Kasparov vs. Topalov, Wijk aan Zee 1999"
+      "displayName": "Kasparov's Immortal - Kasparov vs. Topalov, 1999"
     },
     {
       "name": "morphy_duke_karl_count_isouard_1858.pgn", 
@@ -17,11 +17,11 @@
     },
     {
         "name": "byrne_fischer_1956.pgn", 
-        "displayName": "Byrne vs. Fischer, New York 1956"
+        "displayName": "Fischer's Immortal-The Game Of The Century Byrne vs. Fischer 1956"
     },
     {
         "name": "ivanchuk_yusupov_1991.pgn", 
-        "displayName": "Ivanchuk vs. Yusupov, Brussels 1991"
+        "displayName": "Yusupov's Immortal - Ivanchuk vs. Yusupov, Brussels 1991"
     },
     {
         "name": "short_timman_1991.pgn", 
@@ -33,10 +33,30 @@
     },
     {
         "name": "rotlewi_rubinstein_1907.pgn", 
-        "displayName": "Rotlewi vs. Rubinstein, Lodz 1907"
+        "displayName": "Rubinstein's Immortal - Rotlewi vs. Rubinstein, Lodz 1907"
     },
     {
         "name": "geller_euwe_1953.pgn", 
         "displayName": "Geller vs. Euwe, Zurich 1953"
+    },
+    {
+        "name": "ding_liren_gukesh_2024.pgn", 
+        "displayName": "Ding Liren vs Dommaraju Gukesh 2024 Final Match"
+    },
+    {
+        "name": "beliavsky_nunn_1985.pgn", 
+        "displayName": "Nunn's Immortal - Alexander Beliavsky vs John Nunn, 1985"
+    },
+    {
+        "name": "polugaevsky_nezhmetdinov_1958.pgn", 
+        "displayName": "Lev Polugaevsky vs Rashid Nezhmetdinov, 1958"
+    },
+    {
+        "name": "carlsen_vachier-lagrave_2005.pgn", 
+        "displayName": "Magnus Carlsen vs Maxime Vachier-Lagrave, 2005"
+    },
+    {
+        "name": "carlsen_anand_2008.pgn", 
+        "displayName": "Magnus Carlsen vs Viswanathan Anand, 2008"
     }
 ]

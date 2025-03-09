@@ -58,5 +58,17 @@
     {
         "name": "carlsen_anand_2008.pgn", 
         "displayName": "Magnus Carlsen vs Viswanathan Anand, 2008"
+    },
+    {
+        "name": "praggnanandhaa_sarana_2025.pgn", 
+        "displayName": "Rameshbabu Praggnanandhaa vs Alexey Sarana, 2025"
+    },
+    {
+        "name": "carlsen_caruana_2018.pgn", 
+        "displayName": "Carlsen vs. Caruana, World Championship 2018"
+    },
+    {
+        "name": "tal_larsen_1965.pgn", 
+        "displayName": "Tal vs. Larsen, Bled 1965"
     }
 ]

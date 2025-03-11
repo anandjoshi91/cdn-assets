@@ -82,5 +82,9 @@
     {
         "name": "geller_liebert_1970.pgn", 
         "displayName": "Efim Geller vs Heinz Liebert, 1970"
+    },
+    {
+        "name": "jon_ludvig_hammer_magnus_carlsen_2003.pgn", 
+        "displayName": "Magnus Carlsen vs Jon Ludvig Hamer, Word Championship Junior, 2003" 
     }
 ]

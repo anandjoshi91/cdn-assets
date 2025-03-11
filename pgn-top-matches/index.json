@@ -90,5 +90,9 @@
     {
         "name": "anderssen_NN_1866.pgn", 
         "displayName": "Anderssen vs. NN, Berlin 1866" 
+    },
+    {
+        "name": "richardson_eugene_delmar_1887.pgn", 
+        "displayName": "Richardson vs. Eugene Delmar, New York 1887" 
     }
 ]

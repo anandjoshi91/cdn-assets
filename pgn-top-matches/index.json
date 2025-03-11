@@ -86,5 +86,9 @@
     {
         "name": "jon_ludvig_hammer_magnus_carlsen_2003.pgn", 
         "displayName": "Magnus Carlsen vs Jon Ludvig Hamer, Word Championship Junior, 2003" 
+    },
+    {
+        "name": "anderssen_NN_1866.pgn", 
+        "displayName": "Anderssen vs. NN, Berlin 1866" 
     }
 ]

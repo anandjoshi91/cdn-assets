@@ -101,6 +101,10 @@
     },
     {
         "name": "polgar_bareev_moscow_1996.pgn", 
-        "displayName": "Polgar vs. Bareev, Moscow ,  1996" 
+        "displayName": "Polgar vs. Bareev, Moscow, 1996" 
+    },
+    {
+        "name": "fischer_benko_1965.pgn", 
+        "displayName": "Robert James Fischer vs Pal Benko" 
     }
 ]

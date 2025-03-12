@@ -106,5 +106,9 @@
     {
         "name": "fischer_benko_1965.pgn", 
         "displayName": "Robert James Fischer vs Pal Benko" 
+    },
+    {
+        "name": "kramnik_houze_2001.pgn", 
+        "displayName": "Vladimir Kramnik vs C Houze, Lyons, 2001" 
     }
 ]

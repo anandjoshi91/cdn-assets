@@ -110,5 +110,9 @@
     {
         "name": "kramnik_houze_2001.pgn", 
         "displayName": "Vladimir Kramnik vs C Houze, Lyons, 2001" 
+    },
+    {
+        "name": "yan_girya_2019.pgn", 
+        "displayName": "Yan, Tianqi vs Girya, Olga (China, 2019)" 
     }
 ]

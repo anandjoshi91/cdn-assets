@@ -113,6 +113,14 @@
     },
     {
         "name": "yan_girya_2019.pgn", 
-        "displayName": "Yan, Tianqi vs Girya, Olga (China, 2019)" 
+        "displayName": "Yan Tianqi vs Girya Olga (China, 2019)" 
+    },
+    {
+        "name": "hendrix_kok_2005.pgn", 
+        "displayName": "Hendrix Judith vs Kok Donna (Rijswijk, 2005)" 
+    },
+    {
+        "name": "clawitter_elier_2024.pgn", 
+        "displayName": "Clawitter Craig vs Elier Ali (chess.com INT, 2024)" 
     }
 ]

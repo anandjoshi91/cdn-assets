@@ -122,5 +122,21 @@
     {
         "name": "clawitter_elier_2024.pgn", 
         "displayName": "Clawitter Craig vs Elier Ali (chess.com INT, 2024)" 
+    },
+    {
+        "name": "de_muyser_aubert_2011.pgn", 
+        "displayName": "De Muyser Xavier vs Aubert Laurane,  EU-ch 12th, Aix les Bains 2011" 
+    },
+    {
+        "name": "sickmann_devaev_2024.pgn", 
+        "displayName": "De Muyser Xavier vs Aubert Laurane,  EU-ch 12th, Aix les Bains 2011" 
+    },
+    {
+        "name": "vargas_chayka_2024.pgn", 
+        "displayName": "De Muyser Xavier vs Aubert Laurane,  EU-ch 12th, Aix les Bains 2011" 
+    },
+    {
+        "name": "heerlein_mueller_1998.pgn", 
+        "displayName": "Heerlein Gerd vs Mueller Roland2  Rieneck, 1998" 
     }
 ]

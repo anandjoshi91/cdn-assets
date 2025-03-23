@@ -17,7 +17,7 @@ dilena_board_theme = ['#FFE5B6', '#B16228'];
 uscf_board_theme = ['#C3C6BE', '#727FA2'];
 symbol_board_theme = ['#FFFFFF', '#58AC8A'];
 wisteria_board_dreams_theme = ['#F5F0FF', '#967BB6'];
-sakura_whisper_board_theme = ['#FFFFFF', '#FFDBE5'];
+sakura_whisper_board_theme = ['#FFFFFF', '#FFCAD8']
 
 var chsspieces =  {
   "alpha": {

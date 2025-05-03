@@ -178,5 +178,13 @@
     {
         "name": "alen_rakhimzhan_vs_alibek_lgambergenov_2019.02.20.pgn", 
         "displayName": "Alen Rakhimzhan vs Alibek Igambergenov, Alma-Ata, 2019" 
+    },
+    {
+        "name": "korensky_sergey_vs_sergey_karjakin_2002.pgn", 
+        "displayName": "Sergey Korensky vs Sergey Karjakin, Internet, 2002" 
+    },
+    {
+        "name": "peter_svidler_viswanathan_anand_2013.pgn", 
+        "displayName": "Peter Svidler vs. Viswanathan Anand, 2013" 
     }
 ]

@@ -1,0 +1,1001 @@
+id,fen,mateIn,composer
+71d83d4b,1nQ2b2/1P6/p1N4p/P1pk4/2N4p/PBp1P2K/8/8 w - - 0 1,3,Géza Kálniczky
+d3510643,8/3BK3/8/8/8/3kN3/8/2Q5 w - - 0 1,3,Ferhat Karmil
+8de19f1b,3K4/3B4/3k4/R4p2/1p3p2/2P2p2/8/3rn3 w - - 0 1,3,Alphonse Grunenwald
+cf3647d1,8/4B3/4p1N1/2PpP3/3k4/b2P4/2K3N1/8 w - - 0 1,3,Orest Jewetzky
+e4442b68,7r/P1N1b1n1/1p6/1Bk2N2/3p2P1/P2p1R2/2P4B/5nK1 w - - 0 1,3,William Meredith
+8e06c8fa,2N4b/3p4/4P1KB/2p1k1N1/PpP4p/1n1pr1p1/Q7/8 w - - 0 1,3,Павел Павлович Бобров
+aff3a02a,1KN1B3/2N5/p3p1Q1/k1pp4/1p6/1p4pb/1b3pq1/5n2 w - - 0 1,3,Yehuda Lubton
+537e3b4e,1K6/1p3p2/kP3R1R/p4PP1/P2P4/8/8/8 w - - 0 1,3,Alain Campbell White
+72cf02f2,1b2Q3/ppr1pp2/3kp3/r7/p3P1N1/N1B1PP2/K2P4/8 w - - 0 1,3,Hans Bincer
+5adbaeaf,1B1n4/4n2b/KppRp3/2kp4/2N3r1/NpP3p1/1P4B1/8 w - - 0 1,3,Samuel Loyd
+7e5b2686,3b4/K2p2n1/1p1R1p2/1p1n1p2/2NkN3/8/3B4/3Q4 w - - 0 1,3,William Finlayson
+17995376,8/p2B1b2/3pp1pK/3kp1Pp/1BN1p2P/1P2P3/3P3Q/5r2 w - - 0 1,3,Леонід Аврамович Любашевський
+e2148bc5,8/2B3p1/p2p4/NkPpp1R1/N3pn1p/Kp5r/1P1P4/4Q3 w - - 0 1,3,Pieter le Grand
+ae482386,8/8/2N3p1/N5Q1/p5P1/P2P4/2k5/B5K1 w - - 0 1,3,Микола Іванович Мироненко
+d93b237e,R7/1Q6/3k4/6N1/8/8/8/K7 w - - 0 1,3,Peter Vogel
+08916f1a,1nN5/7K/1PpRp2n/4k1P1/1Q1N4/5p2/7P/6rb w - - 0 1,3,Joseph Juchli
+26d97462,1k6/p4BR1/1P1K4/8/6n1/8/8/8 w - - 0 1,3,Milenko Đukić
+a97b6d91,2KNR1Q1/3Np3/3k2P1/1p4n1/4p3/b2pP3/1r5R/BB6 w - - 0 1,3,Harry A. Boardman
+1819e967,8/8/2P2p2/4pN1P/p1P1k3/P4pPp/7P/3K2Q1 w - - 0 1,3,Joseph Henry Scott Finlinson
+94ad0416,8/7b/6B1/8/6R1/2K3p1/8/2k5 w - - 0 1,3,Олег Павлович Сакс
+a07d298e,1bK4N/7p/3p3n/3N1k1B/2pp1Ppp/7b/4Q3/r6r w - - 0 1,3,Никтополион Павлович Кащеев
+07340996,8/2pN4/5pBB/2P5/3kpN2/R7/8/3K4 w - - 0 1,3,Петрашин Петрашиновић
+1f0cf9e4,rQ6/3pN2K/q2P1p1B/1n1p1P2/r2pkP2/1p1R2PB/3PP3/7b w - - 0 1,3,Петко Андонов Петков
+7237789b,4Bk2/1q2R3/2b3K1/8/1B6/8/8/8 w - - 0 1,3,Hartmut Brozus
+c805d1f1,5Q2/1p4K1/1p6/1rp3p1/1pB1k1p1/3N4/5p2/n4N1n w - - 0 1,3,Josef Drnek
+df2ecbf0,8/4Nq1N/5pp1/1Q5p/2R1Pk2/R4p1r/1K3P2/8 w - - 0 1,3,Otakar Votruba
+a84357ae,8/1p3p2/5R2/2Nk4/4p1p1/pp6/3K1P2/Q7 w - - 0 1,3,Jiří Chocholouš
+99e4f261,2r5/q3B2N/r7/1P1k1p2/4R3/2RPbK2/4P3/3N4 w - - 0 1,3,Iosif Schlarko
+93fd4812,8/2R4Q/5qp1/P1pPp1k1/2P1Pp1b/4rP2/6PP/5K2 w - - 0 1,3,Милан Велимировић
+84e4b060,3k4/4p3/2n5/3N4/K7/7Q/8/8 w - - 0 1,3,Владимир Трофимович Свергунов
+13e53be1,1BR2K2/4pQpP/N2P4/P6p/3kb1nR/rr1p4/B2P4/N7 w - - 0 1,3,William Alfred Whyatt
+b2e756c9,8/7R/4Ppp1/4p3/K3k3/1P2BN2/1P3PB1/8 w - - 0 1,3,Ottmar Weiß
+2f5334f7,5k2/6Rp/1pB4p/5N2/PK1prN2/BpP2Q2/2pnb3/3q1n2 w - - 0 1,3,Fritz Berhausen
+3308c53b,8/8/8/6pB/7B/6N1/6k1/4K2R w - - 0 1,3,Alessandro Cuppini
+485ab1dd,2Q5/3p1b2/3k1Bp1/6p1/4P1P1/1p6/1P1K4/8 w - - 0 1,3,Huibrecht van Beek
+c39986b3,3N4/2n3n1/pB6/Pk2KRP1/p3P1R1/Pb1P4/2P2P1Q/8 w - - 0 1,3,György Bakcsi
+a9817fbd,2K5/1N3pp1/7b/3k4/4R2Q/1p1p4/8/7b w - - 0 1,3,Jindřich Šulc
+0e9930c1,3K4/1R1p1p2/8/7p/5p1p/B3QqkP/4R1Pb/6n1 w - - 0 1,3,Владимир Ильич Тимонин
+6ef32217,8/2N5/8/1P1B4/8/3k4/1Q6/7K w - - 0 1,3,Юрий Никитович Серёжкин
+8d845c07,2Q5/1p6/1P1p3K/3k4/5P2/N3P2p/br3N2/8 w - - 0 1,3,Jan Vašta
+fccc9b54,B7/8/5P1R/6kp/4K2R/4P3/8/8 w - - 0 1,3,Валентин Анатольевич Симонов
+9335fd88,7k/4N2N/6Kp/7n/8/8/8/8 w - - 0 1,3,Карл Артур Леонид Иванович Куббель
+4b3bb0a7,3b3n/8/4Q3/8/Np1k1p2/3p4/1N1P4/1K5n w - - 0 1,3,Friedrich Dubbe
+aa2d1197,3b4/4p2b/2p1Nn2/2Bk3p/1PN2R2/1n5B/1K1P1P2/8 w - - 0 1,3,Herbert Angeli
+51735b77,1Q2N3/8/3p4/1Pk5/6P1/3P4/K3P3/2B5 w - - 0 1,3,Adolph L. Decker
+0baf4ee7,KBRrNb2/1B1p2p1/2P1r2q/3kpPPp/8/4Pb2/3N1Pp1/2R3Q1 w - - 0 1,3,Rauf Gadschiaga Aliovsadzade
+2dc09f01,8/7B/1p1pP1n1/1K1P1k2/2ppN2p/2P2P1P/3P2PB/5Q2 w - - 0 1,3,Maximilian Philipp Friedrich von Klett
+929f2790,2K5/R4pNB/2pBQn2/4n2b/2pk2qR/2Np1rr1/3P4/6b1 w - - 0 1,3,Marek Kwiatkowski
+590225f7,2K2B2/8/7n/3k4/B7/8/5Q2/8 w - - 0 1,3,Ramutis Juozėnas
+271b45e8,2B5/2R5/K7/n2kpP2/2p1N3/2P5/3P4/8 w - - 0 1,3,Jacob Elson
+c3300886,8/1Np5/1r6/3k1B2/bp1N1K2/4p3/1Q6/8 w - - 0 1,3,Bedřich Bosch
+f5e1cde0,8/3K1Qp1/8/6N1/6Nk/7P/8/8 w - - 0 1,3,Олексій Е. Файзулін
+1365edb0,3n4/5B2/5K1N/3p4/3Nk3/3n1pP1/4r3/2Q5 w - - 0 1,3,Jan Dobruský
+1ec6c9fc,8/8/4p2R/4NkB1/B7/4Kpp1/7p/3b4 w - - 0 1,3,Николай Иванович Бантыш
+ad8b0f8e,8/8/5p2/5N2/4k3/B2N4/8/1K1Q4 w - - 0 1,3,Владимир Владимирович Кожакин
+e8fcca2c,8/1K5b/8/p1p2p2/kb6/2p5/P4Q2/1N6 w - - 0 1,3,Emil Palkoska
+c4842e8e,7Q/2p5/2p1p3/3kBB2/5K2/8/1ppPp3/1rrb4 w - - 0 1,3,Miroslav Šindelář
+70f0dc63,1nK5/4B1Q1/4k1B1/5N2/1b3p2/8/8/8 w - - 0 1,3,Miroslav Havel
+72ff5718,8/q2p1p1k/p1pP1BbN/1PP1P1Pp/8/3R3Q/2B4K/8 w - - 0 1,3,Sigmund Herland
+b7818312,8/Pp1p4/3p4/1R1pnK1p/B2kNp2/1pR5/1Ppn4/1rB1r1N1 w - - 0 1,3,Touw Hian Bwee
+e876d8ef,2Q5/8/3k4/8/8/P2P2K1/2NB4/8 w - - 0 1,3,Ludwig Fechter
+e5333d39,1n6/r2p1p2/p4Rp1/Q5pb/7k/2pN4/2B4K/3R4 w - - 0 1,3,
+cefe1f68,5B1r/5RpN/7b/2pk2p1/5PB1/3K4/1P6/3R4 w - - 0 1,3,John Carey Gardner
+c43f6b52,2Nk4/2R5/Q1pB2p1/1pP1p1P1/n4ppK/qp5p/1b1r1n2/3r3b w - - 0 1,3,Josef Drnek
+4e5168ae,2b2r2/7Q/3Rp2B/1p1PppPN/2B1k1P1/1N6/KP2PP1n/2br4 w - - 0 1,3,Сергей Гарибович Хачатуров
+d3cf88e9,8/8/8/2B1p1p1/1K2k1B1/6P1/4P3/3R4 w - - 0 1,3,Fritz Hoffmann
+b42ea9d1,4BB2/8/6b1/1p2b2p/1Pk1Np2/7Q/3P4/3K4 w - - 0 1,3,Xenophon Hawkins
+4849162f,8/3p4/1NkP2p1/2pR2K1/P7/2Pp4/3P4/1Q6 w - - 0 1,3,Albert Kauders
+121d2872,8/3KB3/4B1p1/1n2k2b/2R1pr1r/1Pppb2p/4R2Q/2q1N3 w - - 0 1,3,Zoltán Labai
+e2c26687,3R4/4k1P1/5p2/5P2/8/1N6/6K1/8 w - - 0 1,3,György Honfi
+0d1f56ce,8/3p4/8/BQ6/5pk1/8/7K/8 w - - 0 1,3,Александр Григорьевич Андреев
+d913f041,4N1b1/4B2p/p6P/K1P1k1p1/2p3P1/1P3QP1/8/8 w - - 0 1,3,Václav Tuzar
+67c572e4,6b1/3p3q/p2Nn1nR/3k4/PQ6/3NP3/K7/8 w - - 0 1,3,Adriano Chicco
+e77d46aa,7n/1p1BQp2/b4P2/1p1k1P2/3p4/2pN1n2/2P5/7K w - - 0 1,3,Emilio Orsini
+e70723f2,6b1/r1pR4/2p4N/2N1kpBp/2Pp2p1/P2p4/3K4/8 w - - 0 1,3,Percy Francis Blake
+ecfecfca,5Q2/4K3/8/1p6/p3k3/1P2P2N/4R2P/rb6 w - - 0 1,3,Valentí Marín i Llovet
+6dfd0f0c,3r2rb/n6R/pQ1p1P2/3k1PP1/B1p2Pp1/p1p5/5NK1/1n6 w - - 0 1,3,Josef V. Mařík
+a60c9fc2,8/K7/4Q3/4Np2/4k3/3R4/8/8 w - - 0 1,3,Євгеній Михайлович Богданов
+2f74bb08,5N1b/1p2n1n1/pPk1qQ2/P1Pr4/PP2B3/5R2/3N3B/R3K3 w - - 0 1,3,Ladislav jr. Salai
+c69b82cb,1Q6/4p3/3pp3/2P1Pp2/P1p2P2/R1P1p2K/1p2N1B1/Nk6 w - - 0 1,3,Otto Fuß
+356e0cfd,2k4r/R4p2/6p1/8/KN2B3/p5B1/8/5br1 w - - 0 1,3,Artur Mandler
+42b085cd,6b1/2p1R3/5b2/RPPP1P2/2kpN3/B1P1p3/P3P3/1N3B1K w - - 0 1,3,Zoltán Labai
+eef8dd25,n3n2N/1B5K/1p2k3/8/1rp1p2B/4p3/8/1b3Q2 w - - 0 1,3,Jan Berkovec
+46619d82,7B/qp3N2/7P/6R1/1bBprk2/4p2P/2N3P1/1b4K1 w - - 0 1,3,Zoltán Labai
+839dd4b1,4B2n/2p4K/2pP1P2/1r1k1pP1/2p2P2/1p1NB1N1/r5R1/7Q w - - 0 1,3,Robin Charles Olivier Matthews
+89904101,1K6/8/2p1P3/4P3/2PNk2P/N7/2PQ4/8 w - - 0 1,3,Edward John Winter-Wood
+61e804d8,7k/8/2Q2KP1/8/7p/1q6/8/1b6 w - - 0 1,3,Robert Sinclair Brieger
+800af8cc,8/3n2K1/1p4Q1/4k3/R3Np2/1P2b1B1/8/1b5B w - - 0 1,3,Henry Turton
+e717688f,4N3/2R2p2/4k1p1/3p4/3P4/3B3K/8/8 w - - 0 1,3,Colin Albert Harry Russ
+97b16704,3Qb2r/3p2r1/6p1/1n1PkN2/1P4pP/6P1/2NPPK2/7B w - - 0 1,3,Владимир Петрович Сычов
+0070b4ae,2QNn3/8/1pp5/3p4/qP1k1B2/r2B4/4P2K/8 w - - 0 1,3,José Paluzíe y Lucena
+11011bd3,8/Q5K1/1pB2P2/1p1N4/2pk4/5PP1/2P1p3/b7 w - - 0 1,3,Charles Dealtry Locock
+a7349eeb,B1b4r/8/7P/p6Q/P1PRpNr1/B1PpK2P/3p4/N2kb2R w - - 0 1,3,Hans Ott
+6ba78fb7,2Q2b2/1p6/1P1k2P1/1P6/1N6/2B2P2/3P1K2/8 w - - 0 1,3,Benjamin Glover Laws
+e3d68929,K7/5pNp/2p1pP2/1pBkp3/1P2N1rq/R1PP2p1/1b6/4rB2 w - - 0 1,3,Владимир Александрович Александров
+6d248879,4n2B/1p4R1/p2ppN2/p1PP2b1/4BP2/1Pk1P3/K1N4R/8 w - - 0 1,3,Зоран С. Гавриловски
+c46ac49a,8/6p1/2R3P1/3p1Qp1/4p1p1/3pk1Pp/P4R1K/8 w - - 0 1,3,Борис Володимирович Боровик
+e495b43e,7K/2Q5/4B3/1k6/1p6/2pb4/8/N1b5 w - - 0 1,3,Евгений Васильевич Фомичёв
+5d6d7c71,8/8/4K1pp/6pk/4Q2p/8/8/8 w - - 0 1,3,Werner Speckmann
+6801c591,8/8/8/8/1K6/1B1N4/3kP3/1R6 w - - 0 1,3,Nikolaj Zujev
+d8c83d27,4NB2/8/8/3R4/2p5/1kp5/2p5/n1K5 w - - 0 1,3,Manfred Zucker
+21a8b96c,8/rnb5/3P4/2p5/p3Q1N1/4pP2/4NPP1/1K5k w - - 0 1,3,Kristian Nielsen
+e9751c3d,8/1p6/7R/3kp3/p2p4/3N3K/1P3P2/3Q4 w - - 0 1,3,Александр Николаевич Шпаковский
+77ddfe98,8/2pN4/2B2Q2/5ppK/4pkp1/5N2/5R2/8 w - - 0 1,3,Zdeněk Libiš
+14d8f4fc,2br1n2/8/6p1/6P1/1PpnPN2/2P1N3/1KP1PPR1/7k w - - 0 1,3,Ödön Nagy
+4ca2a1fb,3B1KB1/R1p2p2/p7/1pPkP2R/1Q1N4/3P2Pb/4pr2/4N3 w - - 0 1,3,Kənan Vəlixanov
+d99d0dd0,8/K1ppN3/4p3/4P3/1R6/k2P4/P7/B1R2B2 w - - 0 1,3,Rudolf L'hermet
+07048ccf,5K2/1N6/6N1/1P1kP3/Pp6/1P2P2p/2R4P/6B1 w - - 0 1,3,František Kollmann
+1bc3a491,8/7k/8/6Q1/2p3p1/3p4/1n4p1/K5B1 w - - 0 1,3,Ladislav Knotek
+b3d8fc4a,B4rb1/1r6/3Np1RR/2P1k1P1/2P1P2N/2P3PK/2nP4/2B5 w - - 0 1,3,Bruno Colaneri
+2ee46142,4k3/8/2K2Q1p/8/2p5/4p2r/B3pb1n/2R5 w - - 0 1,3,Siegfried Brehmer
+09cdf619,5K2/8/3N4/2N2B2/1PPk4/8/3B4/8 w - - 0 1,3,Jaques Fulpius
+86db943c,1Q6/5k2/2PP1B2/8/2K2P2/8/8/8 w - - 0 1,3,Андрей Васильевич Немцов
+b26333b5,2K3k1/8/4nRNP/8/B3N3/8/8/8 w - - 0 1,3,Jean Morice
+2b9213fa,2b5/3P4/2B4r/1p1QRp2/2ppPp2/2pkp1n1/2R4N/N3K3 w - - 0 1,3,Евгений Васильевич Фомичёв
+5130ada1,2N5/B2p4/B2P4/1P1p4/2k5/Pp6/1K3N2/8 w - - 0 1,3,László Schór
+f0c4569e,K4B2/1Q5b/2B2kp1/3pp1pp/8/3p2P1/1p6/1nn3r1 w - - 0 1,3,Karel Peter Traxler
+fcf8f553,4n3/2n5/7p/2p1R2B/5k1P/1Q1p1p2/8/4B2K w - - 0 1,3,J. G. Chancellor
+5945e38e,8/2p5/2Q3B1/8/3k4/4N3/5K2/8 w - - 0 1,3,William Geary
+3b57e99b,1k6/1P4Rp/pQp5/1np1NpbK/rn4p1/p5p1/3r2b1/8 w - - 0 1,3,Emil Plesnivý
+cc9557de,2N1r1b1/3pp1K1/2nP4/2Nk4/4RP2/1P2P3/6P1/3B2B1 w - - 0 1,3,Mikolaj Hołub
+d160d5f6,4N1B1/r2p1RpK/1Bp1b3/1pR2PN1/2pk1p2/2nrn3/2P2P2/4Q3 w - - 0 1,3,Валентин Филиппович Ударцев
+e9631b9e,5N2/1K1p4/2pk1Pp1/p4p2/PpPp1p2/3N1Rb1/4P2r/4Q3 w - - 0 1,3,Anatol Felix Ianovcic
+922e3e18,4R3/2P1N3/3p1pPb/1Np1k2K/n3r1p1/1PP2qP1/6B1/r2b4 w - - 0 1,3,Josef Kupper
+5e5d2263,Q3R2r/1pK2p2/RPB1pP2/1PkpP3/2p5/1pP1P1B1/4b1P1/r6q w - - 0 1,3,Живко Јаневски
+a7776c27,8/K7/3P4/kp6/1p1p3p/PPp5/4P3/1NB1Q3 w - - 0 1,3,Henry William Barry
+35cde02f,8/1pR3pp/1R6/p7/N3N3/BP1P4/prP1B1KP/1rk5 w - - 0 1,3,Frederick E. Gamage
+c43cce2a,1B2K3/2p4P/2R2R1p/4k3/4B3/4p3/4p3/8 w - - 0 1,3,Friedrich Köhnlein
+ea596a21,4k3/K4R2/pNP3P1/1B3pB1/4b3/4n3/4p3/R1r5 w - - 0 1,3,Norman Alasdair Macleod
+1c0413f2,8/8/8/1B6/4R3/3nRK2/8/3r1k2 w - - 0 1,3,Michael Lipton
+e29ef822,8/2p1N3/1ppk4/np2N1QK/8/8/8/8 w - - 0 1,3,Володимир Васильович Діденко
+d511ce1a,7b/2KB1R2/1p2N1b1/1p1pp2r/1P2k2p/n1P2p2/1P1Q4/8 w - - 0 1,3,Walter Pulitzer
+95c995d4,8/8/8/5p2/Q4P2/1PR5/3PR1qk/K7 w - - 0 1,3,Hannes Baumann
+3c5273ae,3bb1N1/1Q2pp1p/2p1BB1p/2P4k/4p3/4P3/6K1/8 w - - 0 1,3,Otto Frederick Jentz
+02e9bc84,8/3P4/3B4/8/3k4/1B3K2/P3P3/8 w - - 0 1,3,Віталій Нестерович Столяров
+1d3cbbb3,n7/2p5/2B5/2N2p2/2kP1R2/p4p2/P7/2K1Bb2 w - - 0 1,3,Jan Vašta
+7e17aa6a,8/8/1p6/8/3N4/k7/2K5/1R6 w - - 0 1,3,Wilhelm Karl Heinrich Maßmann
+897f3d8c,3QK3/8/p4pn1/n1k1P3/1NPN4/3p2P1/3P4/1b6 w - - 0 1,3,George James Slater
+cbdbc7c1,4QB2/8/K3P3/8/2B5/4k3/3N4/8 w - - 0 1,3,Владимир Владимирович Кожакин
+4c4e15ab,8/4Q3/6BK/8/5kp1/2p5/1b4P1/8 w - - 0 1,3,Александр Васильевич Галицкий
+d5261a9d,8/p2n1p2/N4p2/bP3p2/1p1P1k1B/1P6/4KN2/8 w - - 0 1,3,Sámuel Gold
+21ab4527,8/3Np3/2Npr3/3p1p1p/3p1knQ/3P4/3Pp1B1/4K3 w - - 0 1,3,Erich Anselm Brunner
+d4c6520d,K7/8/R6N/3R4/pnk2P2/Pp2B1p1/1nb1p1Q1/8 w - - 0 1,3,Frank Wilson Wynne
+34f10356,8/3N4/2p2p2/8/2RNk3/K3p2p/8/4Q3 w - - 0 1,3,Bernhard Hülsen
+fdfae47d,8/4pR2/7B/4p3/4P3/6k1/7N/5K2 w - - 0 1,3,William Henry Lyons
+c051e0f8,7K/4P1R1/5p1P/4rNbk/4P2N/6pP/2p5/2Bb1Q2 w - - 0 1,3,Marcel Aschenazi
+6b4da28a,4N3/2R5/8/3Bk1B1/3np3/pQ1bN2R/1b4PK/2r4n w - - 0 1,3,Joseph Graham Campbell
+129fe028,6nQ/1K1p1RBb/3kp3/1pRnp3/4r2q/1NP5/3N4/8 w - - 0 1,3,Abdelaziz Onkoud
+4928d434,8/8/2ppp3/1pp1p1K1/2N1k3/4N3/4PP2/5n2 w - - 0 1,3,Ján Michalko
+128c6d6f,8/2N1B3/2p5/p2bk1p1/P1p2nP1/2npPQ2/1N4B1/5K2 w - - 0 1,3,Charles Alexander Gilberg
+73640d6f,7N/K7/7p/R1B3R1/6pk/Q3N3/4r3/3n2b1 w - - 0 1,3,Friedrich Capräz
+7c1971c4,8/P5N1/4PP1P/rp2k2P/pN4Qn/K7/1P2B3/8 w - - 0 1,3,Edith Elina Helen Baird
+e3a5bad9,4K3/1k6/8/p1pp4/p1p5/5B2/8/7Q w - - 0 1,3,Walter Irving Kennard
+496029ef,8/6q1/4Bp2/4kP2/pP1n4/K1Q5/3P1N2/8 w - - 0 1,3,Karl Flatt
+cb6762f3,3Qbb1r/8/6Pk/8/8/7P/2B5/1K6 w - - 0 1,3,Iver Iversen
+7195dde2,4K3/pQ1N2p1/2NpP3/r1pk1Pr1/1Bp1b3/5RRB/qp1n1P2/1n6 w - - 0 1,3,Stanislav Vokál
+4d42fd61,5Kbk/4p1np/4p2p/3p3p/1Qp4N/6P1/8/8 w - - 0 1,3,Frank W. Martindale
+9ca4636b,8/2p5/4R3/5K2/3p4/3k4/Q2P4/8 w - - 0 1,3,Johannes Öhquist
+aa2f73e6,1r6/8/1pN5/8/B1P5/k1N5/2nR4/1K1b4 w - - 0 1,3,Jan Vašta
+3d5b219c,4KR2/8/6kP/8/7P/8/8/8 w - - 0 1,3,Авенир Григорьевич Шапошников
+fa5dffe5,4Q3/7p/2p1bN2/2P1k1n1/K3p3/4Np2/8/2B5 w - - 0 1,3,Edward Nathan Frankenstein
+c9f4e38d,BnKB4/2NR4/1R1Npp1Q/2k3r1/1p1p4/1bpq4/p3p3/1r6 w - - 0 1,3,Николай Глинских
+124e0549,2R5/7B/8/3k2PP/4p3/B1K3P1/8/8 w - - 0 1,3,Donald Glenoe McIntyre
+e8672718,B3K1k1/P7/4P3/5P1R/8/8/8/8 w - - 0 1,3,Анатолий И. Висков
+7b22ae7f,8/8/4N3/8/8/8/6R1/2q1kNKR w - - 0 1,3,Геннадий Петрович Кардымон
+e9225d52,n5K1/1p4Q1/1rp2RPR/brP3k1/1p6/8/7n/8 w - - 0 1,3,Alfred Clement Challenger
+0ccafdd4,8/1B6/6Q1/7N/1K1p2p1/2pRb1Bk/5n2/Rb6 w - - 0 1,3,Талип Хасанович Амиров
+cec44820,K7/1B5n/Nk1pp2B/p2P1N2/Pp4b1/4pn2/8/2b5 w - - 0 1,3,Albert Volkmann
+990463a9,1b1r4/6q1/2p1Q3/P1N1n2R/1pPk3r/1R1PN3/1K3P2/n1B4b w - - 0 1,3,Леонид Иванович Загоруйко
+242e61b9,8/bPPPP3/8/8/6N1/7K/6N1/7k w - - 0 1,3,Федір Михайлович Капустін
+f04b1967,1b6/1p5Q/3pP3/3k4/N3p1K1/8/2P2P2/B7 w - - 0 1,3,Knud Harald Hannemann
+eb88465f,8/8/pPkNpp2/p5bR/5N2/2p5/3P3B/KQ6 w - - 0 1,3,Almon Ferdinand Rockwell
+3caeb79b,3R4/8/3Bk3/1P4K1/1p2B3/8/2n2P2/8 w - - 0 1,3,Ladislav Vetešník
+38cbfbe4,3K4/1B6/5Q2/7k/3p2p1/7r/3p1P2/3q4 w - - 0 1,3,Andreas Schönholzer
+4199fd23,8/p2p2p1/R2P2R1/3k4/3p4/P2K2P1/P5P1/8 w - - 0 1,3,Georg Ernst
+7cc28eaf,5n2/4p3/5RpK/4N1Pp/RB2N1rk/1p2P2P/5PP1/3b4 w - - 0 1,3,John Michael Rice
+be6e9a6c,3NK3/8/3k4/8/3p1P2/6Q1/8/2b5 w - - 0 1,3,Gilbert S. Dobbs
+c3f13448,4b3/4P1p1/2pPk1p1/2P3P1/4K2P/4p3/1N5Q/2nB4 w - - 0 1,3,Conrad Bayer
+ca632a93,8/2K5/8/k1N5/P7/3R4/8/8 w - - 0 1,3,Станислав Максимович Толстой
+472e6195,8/4p2q/N5bQ/1R4rr/P1k4b/KN3p2/1PB2P2/5nBn w - - 0 1,3,Сергей Анатольевич Билык
+2f94ce89,8/K4R2/2P1Pp2/1Qp1pR2/2P5/1Nb1k1B1/P1Bppp2/3rqb2 w - - 0 1,3,Gheorghe Goşman
+1fbc973a,8/3n4/2pKp3/1R3P2/1QpkpB2/1n3r2/1P3N2/8 w - - 0 1,3,Mario Guido García
+01c070f3,3n4/p2K4/7p/2p2p2/4k1pP/2P2NPr/3RpP1B/Q7 w - - 0 1,3,Giovanni Batista Valle
+9c53258e,3R4/1P6/rp1NN3/pPpkppBQ/K6P/n7/1PPn3r/6bb w - - 0 1,3,Nenad Petrović
+80f53ec0,5Qn1/1ppp4/bp4p1/4k1N1/6P1/2N4K/1BPP4/5n2 w - - 0 1,3,Franz Lustenberger
+9c744150,8/3p1Q2/8/5pP1/3pkp2/3N4/8/3R3K w - - 0 1,3,Ottmar Weiß
+c2e8e0bc,3nN3/qp6/p1P3Np/B1kP1p2/2B5/3K4/P4R2/6Qr w - - 0 1,3,Friedrich Chlubna
+3b157664,8/6Q1/2p2K2/8/2k5/3Rp3/3p4/3B4 w - - 0 1,3,Jan Drtina
+f4a1917f,7Q/6K1/b5N1/8/3P2kB/3np2p/2B1R1n1/8 w - - 0 1,3,Soběslav Bílek
+fd4b1379,8/4K3/6Q1/3k4/3P4/3p3P/3p4/3N4 w - - 0 1,3,Josef Kesl
+0cdda989,8/Q2B4/1P6/B1n5/1RPpp3/2pkPP2/4R3/5K2 w - - 0 1,3,Mike Prcic
+20ce53fd,7q/8/1prN1b2/2kp3r/7n/2pbp3/8/R1BQK1N1 w - - 0 1,3,Luigi Sprega
+a6d10677,8/8/nK2kN2/6pP/1P2B3/4B3/6P1/4R3 w - - 0 1,3,Victor Gorgias
+d77fd286,4B1br/4BPbp/3Pk3/r5pP/1PNp2K1/1P2PN2/8/8 w - - 0 1,3,Александр Ильич Сыгуров
+8e5d569b,1n6/Q2p4/3K4/3p1B2/8/6B1/6p1/7k w - - 0 1,3,Vratislav Miltner
+9205ac8a,8/8/4p3/1K1k3B/8/2Q3p1/5P2/8 w - - 0 1,3,Frithiof Lindgren
+e5e627a5,8/8/8/8/4R3/2p1K1p1/4B3/4k3 w - - 0 1,3,Meindert Niemeijer
+e7896c19,8/4n3/8/3pQ3/3N2K1/8/pp2PP2/k7 w - - 0 1,3,Cecil Alfred Lucas Bull
+e048043f,K7/p6p/4Q3/P5p1/1p1k1pr1/8/3P2p1/3B4 w - - 0 1,3,Alexander Pituk
+684b76b2,8/1q1pK2p/nPpP1Qp1/R1nk4/rB1N4/3PbPN1/p7/5r2 w - - 0 1,3,Леонід Аврамович Любашевський
+91795d9f,8/1rp2N2/1bB1k3/p3N1B1/1P1p4/3pp3/K3p1P1/Q3n3 w - - 0 1,3,Emil Palkoska
+1a8839e0,n3R3/8/8/1P1kP1pp/3pNPPb/1PpB2p1/6K1/1R6 w - - 0 1,3,Sven Trommler
+2afbfe38,2N5/5p2/4pP2/1p1kN1p1/1B3p2/1P3K1R/2P1P3/8 w - - 0 1,3,Josef Frankenstein
+d4c1d74a,1R1Nb3/8/pN1k1p2/rP3p1r/4pK1p/4P3/2P5/6Q1 w - - 0 1,3,Walter John Wood
+74752cbe,2N5/1k6/1B1K4/3p4/3R4/1P6/8/8 w - - 0 1,3,Paul Stöhr
+9760ff32,3K3Q/b1N5/6p1/5p2/1pn1k3/3Np2R/4Bn2/8 w - - 0 1,3,Константин Григорьевич Гаврилов
+67abe89d,3B4/b1p3K1/bnBppN1p/4k1p1/2p1Pp1q/2P2p2/2QN3n/5r2 w - - 0 1,3,Александр Николаевич Панкратьев
+5a1bbb5e,4R3/2KBn2q/1pN1pr2/3kp3/1BRb1p2/1P1Q4/6N1/3r3b w - - 0 1,3,Jean-Marc Loustau
+9f0f8f89,6K1/1B1Rp3/4p3/3p3P/4k3/1N4B1/4PP2/8 w - - 0 1,3,Antonio Tarnawiecki
+c7eaed3a,8/2p3r1/8/4p1p1/5pNk/2N5/6Q1/7K w - - 0 1,3,Nathan Rubens
+54056aea,6k1/4K3/4P3/8/8/8/2B5/8 w - - 0 1,3,Werner Speckmann
+be620da6,3BKR2/3nP3/P2k4/2NrN3/PP1p1P2/1P1R1P2/6bn/3Q4 w - - 0 1,3,Валентин Федорович Руденко
+5b712fdf,8/8/1P1p4/3N4/b1R5/1n3NK1/1kB5/b4Q2 w - - 0 1,3,B. Wilfrid la Mothe
+6d3704d2,8/3R4/8/1K6/8/1k6/1n4Q1/8 w - - 0 1,3,Эрнест Левонович Погосянц
+4ac64ff5,8/8/8/8/2KB4/3P4/1Pk2N2/4R3 w - - 0 1,3,Михаил Васильевич Матрёнин
+75b4def9,1b6/2p3K1/1p6/1p1BNkpp/5P2/8/2p2P2/Q4b2 w - - 0 1,3,Miloslav Klepáček
+75dc2b03,8/7n/8/n4Kp1/rp1kN3/4N3/8/5BB1 w - - 0 1,3,Степан Павлович Цырулик
+999a9145,3Q4/3p4/8/r6r/pPBk1Ppq/KnN1Nb1p/1P1P4/2B3n1 w - - 0 1,3,Henk le Grand
+a6e2fb48,8/1q3pK1/1p3Rp1/4k1Np/2P2R2/2P1N1P1/8/1b6 w - - 0 1,3,Georges G. Braun
+fc0b9e22,1n1b4/Q2pp3/1P3P2/N1p1P2p/p6p/4P2R/6k1/4KRN1 w - - 0 1,3,М. Кузнецов
+6c5931fd,8/8/8/8/QK6/N1p5/bp6/k1B5 w - - 0 1,3,Anthony John Taffs
+55eb28e1,8/7B/3p1p2/B3k3/1N1p1qQ1/n3pPn1/1P1N2K1/8 w - - 0 1,3,George Hume
+19657b69,8/1p6/p3p3/p5N1/1p1k2K1/8/P3P3/2B4Q w - - 0 1,3,Jozef Kováčik
+a70dcf8f,5K2/7Q/8/5N2/3pk3/3N2P1/P4p2/5R2 w - - 0 1,3,
+262c6571,3B4/3n4/3N1b2/7p/1P1k2b1/P3Nn1R/B1P1pP2/1K2Q3 w - - 0 1,3,Karl August Mörtzsch
+94185096,8/B3Q3/3PN1B1/1Rnrkpp1/n6b/3p1PR1/6N1/7K w - - 0 1,3,Leonid Makaronez
+4fae6224,1qb2QK1/b1rp1PP1/prp1P3/1p3P2/4R3/3P1k1P/8/4BB2 w - - 0 1,3,László Lindner
+c559c536,8/N7/1B6/5N1B/5p2/1p1p1p2/pr1pk1p1/brnbn1K1 w - - 0 1,3,Юрій Маркович Гордіан
+de9d3ef2,8/5K2/5B2/8/8/1PQ5/k1B5/2q5 w - - 0 1,3,Віктор Леонiдович Щербіна
+d8bc6202,6b1/1Q3PrP/1pPK2p1/2p2p1p/Np2P3/NP6/p7/k7 w - - 0 1,3,Francisc Rduch
+81ec4af4,1b6/n1p4N/r1N5/pb2Qp2/2pPpPp1/1pPk4/3P4/3K4 w - - 0 1,3,Allard Pieter Eerkes
+deadc952,8/4R3/8/4N1N1/8/3p4/1K6/3k4 w - - 0 1,3,Orestes Augustus jr. Brownson
+22e141af,7Q/8/5p2/8/1BBk2K1/8/8/8 w - - 0 1,3,Bohuslav Přikryl
+ca90a9fd,8/Rp3B1p/5K1k/1P6/P7/8/8/8 w - - 0 1,3,Wladimir Wiktorowitsch Sokolow
+57c6e9d6,1K5n/6p1/2p1Qp1q/P1k2nr1/P2R1Nb1/1pr5/5P1B/8 w - - 0 1,3,Emil Palkoska
+f37192d2,1N2Q2b/r1p1K3/pkB1bp2/8/4P3/3P4/3B4/8 w - - 0 1,3,Emil Palkoska
+97dab34c,N2n4/4Q3/7p/2p2k1K/8/1prPnpPP/2pN1pp1/b4r1b w - - 0 1,3,Александр Сергеевич Кузовков
+3dc6ad85,8/8/8/8/8/2NKN3/ppRp4/k2b3R w - - 0 1,3,John Francis Ling
+1beecdd1,2b2KB1/1p1p2B1/1Ppp2P1/4PR2/4k3/1P3pn1/1Pp2P2/2N3Q1 w - - 0 1,3,Ilja Mikan
+bef468b2,8/3Q1p2/4rpb1/3P1k2/5P2/5P2/2K3N1/8 w - - 0 1,3,Erich Ernest Zepler
+b6bfafeb,8/4n3/b3qp2/3ppN2/2ppkpBR/7R/2PP3K/8 w - - 0 1,3,Leonid Makaronez
+d5a4e3ff,N3b1B1/1n1q1r2/1Q2p3/pPBkb1N1/2ppR3/2p5/K2n4/3R4 w - - 0 1,3,Юрий Григорьевич Горбатенко
+ab71e416,2B4b/7b/1Pk5/p1P1pp1R/Kp1p4/1P6/1NQ2N2/B2R4 w - - 0 1,3,Валерий Афанасьевич Кириллов
+ed9ad89b,8/8/B5p1/7k/5Q1N/2n5/4b2K/8 w - - 0 1,3,Rudolf Svoboda
+622dc628,1k1q4/p6p/P2P3R/p7/1p1R4/4Q3/8/3K4 w - - 0 1,3,Виталий Семёнович Коваленко
+b3ba7313,knK5/p7/8/2N5/8/8/8/R7 w - - 0 1,3,Александр Григорьевич Андреев
+e9369157,8/2Nppqr1/2b1B3/K3Np1r/2RPk3/6pn/3BP3/8 w - - 0 1,3,Johannes Jacob Rietveld
+20e4393f,2Q5/4pp2/pp1p1p2/PP1k3n/2R5/2P5/P2B2P1/3K4 w - - 0 1,3,Леонід Аврамович Любашевський
+b67f945c,2B5/p2pp1B1/Nk6/1P5r/K2N3p/p1p2bb1/2Q5/5r2 w - - 0 1,3,Cyril Henry Stanley Kipping
+40e90b97,6Q1/8/3p4/p2n2bK/B1kB4/2pN4/2Np4/3n4 w - - 0 1,3,Милан Радоје Вукчевић
+7563ef2e,k6r/2P2p2/1BKpp3/8/2p5/2R5/4Q3/r2n4 w - - 0 1,3,Cyril Henry Stanley Kipping
+01b434dd,8/p7/P5Q1/8/2p5/2P3p1/5kpN/3K4 w - - 0 1,3,Théodore Adrien Louis Herlin
+b5f2dfa8,1n2n3/2r5/1p3p2/2BP4/p1k2p2/2NN2p1/K2PB2P/8 w - - 0 1,3,Adolf Steif
+5f6bcb42,5B2/8/K4RpN/1P2p3/2PkP1p1/6P1/P2PP3/8 w - - 0 1,3,Fritz Freimann
+85f389f5,8/2Q1K3/1P3p2/pp1N4/4k1P1/5N2/p7/1n4B1 w - - 0 1,3,Vincenc Schiffer
+e8835d9e,7Q/3pbp2/3p4/3N4/4kPP1/P2p4/8/3B3K w - - 0 1,3,Thomas Joseph Warton
+b13eaf56,8/8/8/8/N7/3Q4/2Ppp3/4k1K1 w - - 0 1,3,Karl-Heinz Ahlheim
+0c83eead,3K4/2p5/kNP5/p1B5/p7/N7/2P5/3B3B w - - 0 1,3,Georges Emile Barbier
+6724dda0,RNk5/1p3N2/1p6/1K6/2P2B2/4P1P1/3P3P/5n2 w - - 0 1,3,Ján Kozinka
+a39923e1,n5r1/3pR3/8/K1pP4/Npk2BBR/2P5/P3P3/6r1 w - - 0 1,3,Leonid Makaronez
+b3d4e82b,4Q1K1/6P1/6P1/3P2pk/8/7P/7P/8 w - - 0 1,3,Theophil Schaad
+bbe7e8eb,2K5/8/1BN5/4P3/2k5/1R6/P7/8 w - - 0 1,3,Heinz Däubler
+a2c141f6,1B3K2/Q2B1P2/p1P5/3k2p1/P3p2b/N1p1p2r/P2P4/5bn1 w - - 0 1,3,Карл Артур Леонид Иванович Куббель
+0fc2d826,8/6n1/2KQpp2/2p2NpP/4kp2/b3N2P/1P2Bn2/8 w - - 0 1,3,Theodore Hermann Keidanski
+74e1b7ed,3B4/8/1K5P/8/8/1Q4N1/2Pk4/8 w - - 0 1,3,Oskar Blumenthal
+cecb8d1f,6bq/K2BNpbr/8/4k2p/3p1p2/P1BPp2P/8/Q7 w - - 0 1,3,Antonín Zeman
+d6c930fb,8/BN6/5Kp1/3k1p2/8/7Q/8/8 w - - 0 1,3,Carl Schrader
+fc8859e4,8/8/2p5/2pk3n/P1NNp3/b3p1B1/2P5/1Q1n2K1 w - - 0 1,3,Zsigmond Schuster
+44661dbe,8/1n1p2b1/p3Np2/pr4r1/PkP4R/RB3PPb/1P1N2pK/6B1 w - - 0 1,3,Слободан Младеновић
+b7681847,8/6p1/4QNkb/5R2/8/7K/8/8 w - - 0 1,3,František Dedrle
+341ce4c3,b5nN/3p1N2/r3p3/1r2pkPp/6pK/b2P2pP/1P1B4/2Q1R3 w - - 0 1,3,Dieter Kutzborski
+27e352e8,rB3N2/1p1R2b1/2kNP3/P2R1n1B/p2P4/Kn2p2r/2P3b1/3Q4 w - - 0 1,3,Александр Павлович Гуляев
+69be2023,8/3p1p2/5N1p/1R1K2PP/5k2/8/4PP2/8 w - - 0 1,3,Friedrich Georg Wieck
+aa5743e6,5N2/1n2QP2/2p1RP2/bn1PBkNK/4p2p/5p1r/8/8 w - - 0 1,3,Eeltje Visserman
+8230b4b1,5N1K/p7/npR2P1p/1p1k3P/1p4p1/1N1B2n1/8/2Q5 w - - 0 1,3,Jaroslav Genttner
+0f24c55d,1B6/R5K1/4p2p/nbp3p1/2Pk2rr/3pNQ2/8/3N4 w - - 0 1,3,Leonid Makaronez
+aa25abf2,5N2/5N2/2pPPkPP/5n2/1p3R2/pQP2b2/K1Ppp1pp/8 w - - 0 1,3,Jan Hartong
+250bfe89,3N4/2r1p3/6R1/7p/1Qbr3k/1n6/5Np1/1n2B1K1 w - - 0 1,3,Walter Wohlers
+65a103cf,NNK5/k5p1/1pB1p3/pPp5/3Pp3/6r1/2r5/1Q6 w - - 0 1,3,Cyril Henry Stanley Kipping
+c4c35655,8/1p2p3/1k2K2Q/2R5/3R4/8/3P4/8 w - - 0 1,3,Max Dischler
+f7589d62,4b3/n1p2p1r/B7/1r3N2/1b1K2P1/1pP1RPBp/3P2N1/5kqQ w - - 0 1,3,Edgar Dinwiddie Holladay
+fbaace9b,8/8/2K1R2P/5PBP/3RN1kp/4p2p/4P3/7n w - - 0 1,3,Cornelis Johannes Oosterholt
+a733b112,rn6/8/3p4/p6p/7Q/4KpNp/5pkp/5bbr w - - 0 1,3,P. A. Orlimont
+69107130,8/8/1Np5/2B5/8/1k6/3P4/1K1R4 w - - 0 1,3,Franz Ferdinand Ludwig Palatz
+e2c6a00e,4K3/8/1p2p2p/4p2N/3pQ1Pk/4n3/3B2P1/8 w - - 0 1,3,Čeněk Kainer
+a9b219f6,2N5/6pR/2p5/2k3Pp/P6P/4K3/B7/4B3 w - - 0 1,3,Willi Hess
+88b835af,1K1B4/3p1RR1/3pk3/8/3p1pn1/3ppB2/8/5b2 w - - 0 1,3,André Ferdinand Fossum
+1d96a632,4rb2/1N6/2p5/p4P2/2P2p2/1RN1k2b/PP3rp1/2KQ2B1 w - - 0 1,3,Henry Edwin Kidson
+db373383,2rn4/2p2Q1p/pPPpr3/3k2b1/1R1N1p2/3B1Nnq/4p1P1/2R1K1B1 w - - 0 1,3,Ralf Chris Handloser
+57e92769,8/3p4/1K2ppQ1/3bk3/8/PN4P1/8/3R4 w - - 0 1,3,Patrick Thomas Duffy
+2c2c3aeb,8/1p6/pQ6/rpN1N3/bp1k4/P1p5/2P3PK/8 w - - 0 1,3,Wilhelm Friedrich Martin Steinmann
+f5a20564,3r1r2/b2p1P2/3p3p/p2Bk3/K2N1N1P/3p4/5Q2/8 w - - 0 1,3,Oskar Wilhelm Brenander
+aceb6672,8/2p4b/4N3/Q2P1p1q/p3k1rB/1R1N4/1pP3p1/1Kb2B1r w - - 0 1,3,Феликс Вульфович Россомахо
+1ee191bd,1B6/1k6/8/1K6/8/8/8/1R6 w - - 0 1,3,Klaus-Peter Zuncke
+836ab91c,2n5/B7/4N1Qp/1bNpk2K/1r5p/1pppp3/4p3/4b1n1 w - - 0 1,3,Oldřich Duras
+74786cfb,2N2k2/p2K3p/1p3B1N/2p5/3p4/4pB2/1R3p2/2R5 w - - 0 1,3,Emil jr. Mächler
+1cd8a338,8/p7/P3K1n1/4B3/NQ6/1nPp3p/5kbR/3R2N1 w - - 0 1,3,Aurelio Abela de la Torre
+d9c72eb3,8/8/8/p6N/K7/2Bk4/8/4Q3 w - - 0 1,3,Алёна Владимировна Кожакина
+54996ec5,2K3Q1/1p4B1/1pp1B3/2P1np1p/3pk2r/3Np1Rb/n2RPr2/8 w - - 0 1,3,Leonid Makaronez
+0f696c41,K7/2Pp1bP1/1Q1N3R/P2kp1p1/6p1/p7/1P1p4/nn5q w - - 0 1,3,Émile Léonard Pradignat
+6d91e609,2N5/3P4/N1k5/8/4K3/8/1R6/8 w - - 0 1,3,Микола Васильович Резвов
+befd67f5,8/8/8/8/K7/2p5/k7/2Q5 w - - 0 1,3,Володимир Иосифович Пипа
+aad2c451,8/8/2p3Q1/PpN1p3/4P2p/N1k4P/2P5/1B2K3 w - - 0 1,3,Crichton Milne Baxter
+04b19b36,8/p7/2Rp4/k2p4/Pr2p3/p7/n1B1p3/K3Q1B1 w - - 0 1,3,František Richter
+55970c2c,8/8/8/3kN1N1/6B1/B5Pp/3P4/R3K3 w - - 0 1,3,Hans Schaffer
+0eb78086,Q7/1p2P1P1/1P1P1N2/2P1k1p1/6P1/2p3K1/2P5/8 w - - 0 1,3,Frank Genenncher
+fd4b16ea,q7/2Bpp3/3Pp3/1P1kb1P1/bR2NnK1/1p3B2/P7/8 w - - 0 1,3,Mircea Mihai Manolescu
+c068bb2f,6b1/3p2k1/2pP2P1/6R1/4N3/6P1/8/1B2K2Q w - - 0 1,3,Joseph Goldschmidt
+74e78c4b,4K1k1/P5p1/1Q5p/4N3/4p3/2B5/pP5p/3B4 w - - 0 1,3,Poul Anker Rasch Nielsen
+a2b20652,5r2/4np2/R1p4p/6PB/npQpk3/3N2p1/3K4/8 w - - 0 1,3,Vittorio de Barbieri
+9816ea75,8/2p5/2B1N3/3P4/4k3/6Q1/K7/8 w - - 0 1,3,Benjamin S. Wash
+c04b789a,K7/8/p2P1R2/p1kp1B2/p2N4/P1p5/2P5/1Q6 w - - 0 1,3,Adolph Jay Fink
+b12a2071,QB6/1P2p2p/1R6/1P5r/Nk2r3/1P6/Kp6/bN6 w - - 0 1,3,Alois Nagler
+0af2fa99,kq6/p2N4/R6K/8/8/8/8/Q7 w - - 0 1,3,Gunnar Frode Myhre
+ffc49b5a,1B5K/2p2P2/3ppQ1p/1Ppk2nR/N3r3/1PPbPn1N/3R2B1/b2r1q2 w - - 0 1,3,Giorgio Mirri
+39c86e97,8/8/3p4/2pR2p1/2p1pbp1/2NpN1p1/6K1/2B1k3 w - - 0 1,3,František Jelínek
+200760b4,1nNQR1b1/b2p4/r4p2/1B1kp3/1BR1n2K/r3p3/4N3/8 w - - 0 1,3,Валерий Михайлович Шавырин
+a073ae94,1q6/1br4p/2r5/4RN1p/3P1k2/B2P2R1/7P/2nKn2B w - - 0 1,3,Hermann Weißauer
+91287542,8/P7/p7/k7/8/1KN5/8/8 w - - 0 1,3,Christian Poisson
+465d284c,8/4N1k1/6P1/6N1/6P1/5RK1/8/8 w - - 0 1,3,Joseph Theodor Breuer
+55a131bb,2Nn4/p5pK/Bp1R1Ppp/1Pk2P2/R3p3/Pp1p1b2/3PqN2/6r1 w - - 0 1,3,Леонід Аврамович Любашевський
+48731b4a,3N3q/5Pn1/Q7/3p1p1p/2p1pkpn/2p1p1b1/4K3/8 w - - 0 1,3,Josef Moravec
+f538db56,8/6Q1/4P3/4P3/2Pk4/3B4/3K4/8 w - - 0 1,3,Валерий Альбертович Сурков
+fdc31750,Q7/K7/3B2p1/2PPP1P1/3k4/1pRB1Pp1/1P1pb1P1/3N1N2 w - - 0 1,3,Leo Erland Valve
+8d31c9ef,2R2B2/3K1N2/3p1k2/4pB2/8/8/8/8 w - - 0 1,3,William W. Greenwood
+5bf9e09a,1Q1B4/p4N2/r2pp3/2b5/Pp2k1Kp/3R4/1n3p2/5B2 w - - 0 1,3,Arnold Pongrácz
+571ce331,8/2pP1bb1/Q2pppp1/Kp5r/1R5p/BPN1Pp2/3P4/k7 w - - 0 1,3,Miloš Maryško
+bfbb4b10,3K4/n7/2pNp3/P3k1p1/2P3pP/1P1QP3/1b6/7b w - - 0 1,3,Josef Kerles
+c1dab431,8/8/8/3k4/6Q1/6BB/q3p2K/8 w - - 0 1,3,Владимир Семёнович Гребешков
+1bf4a4a3,8/1Np2p2/p4P2/P7/kp1R4/b7/1pP1B3/1K6 w - - 0 1,3,Игорь Алексеевич Агапов
+969d3e45,Q1B5/4Bp2/5Pp1/3r2P1/3pk1p1/3p2P1/3P2P1/K7 w - - 0 1,3,Otto Nerong
+82a4dfcd,8/1Pp2R2/1pN5/nr1k4/4N2K/2n1p3/b1PP4/6Q1 w - - 0 1,3,Arthur William Daniel
+60c464f4,8/8/8/1K1p4/8/pkB5/p1n4R/Q7 w - - 0 1,3,Hugh James Menzies
+fae3efc2,8/8/1N2R1B1/2k5/8/8/1R6/4K3 w - - 0 1,3,Byron Zappas
+2b824016,n3BNb1/r1p1B3/p3P2n/2Nkp3/4ppp1/1pP1p3/8/4KQ2 w - - 0 1,3,Leonid Makaronez
+9c725870,6b1/1p3p2/1P1Q3R/p7/4kBPp/1P6/6P1/7K w - - 0 1,3,Ferdinand Friedrich Möller
+e4d5db25,n2Q4/P1pN2B1/p5KN/kr5R/p1PP1p2/P1p1p3/3b4/8 w - - 0 1,3,Miguel Uris Escolano
+5704e79e,K7/1n1p4/p3p3/6R1/5p2/2P5/4R3/7k w - - 0 1,3,Hrvoje Bartolović
+49afbd59,3K4/1R6/6QP/2p2p2/2P2k1p/5P1P/5P2/B7 w - - 0 1,3,Johannes Hugo Wilhelm Obermann
+3beadcdf,8/8/2pr2p1/2PpPkNn/3K1P1Q/4p3/4P3/3nBN2 w - - 0 1,3,Imre Telkes
+e36b91d0,6b1/4N1n1/4pN2/4k1P1/3p3P/6R1/KP3Q2/5n2 w - - 0 1,3,Andrej Anton Uršič
+1dc8c423,4b3/p4p1K/P7/Q1P1N1pk/7p/8/B4P2/5n2 w - - 0 1,3,John F. Tracy
+591697d0,Kn2B3/pP1rp1P1/p1k1Np2/2P2p2/P3p3/2pPN1rb/8/7Q w - - 0 1,3,Joseph John Warton
+12659a9d,8/p1n5/1r1kPB2/N1R4K/P3p1P1/7Q/2P5/8 w - - 0 1,3,Johan Scheel
+19971798,2NN3Q/2pp4/b3R3/1ppk1B2/1p6/8/5n2/1K6 w - - 0 1,3,Wacław Hebelt
+b8bf69f8,1b3KB1/rp2B1p1/qP2P1NQ/Prpk2p1/2b5/1nPp1P2/8/8 w - - 0 1,3,Cyril Dedrle
+5ff66dda,8/1rn2Q2/1p1p1N2/8/3k2p1/1R3pKb/8/8 w - - 0 1,3,György Jusztin Dunka
+e1703123,K3k2r/2pR2p1/P1p3Pr/p1N1p1p1/8/7p/4PRPn/1B5b w - - 0 1,3,John Lennart Woldemar Lillja
+ee6ede18,5k1N/5P2/b2P1b1P/5Q1K/1n6/r2p4/8/8 w - - 0 1,3,Евгений Васильевич Фомичёв
+269c6af1,R5B1/3N4/2p3pK/2N1Pp2/1p2Pk2/3pnn1P/3B3P/b4R2 w - - 0 1,3,Wieland Bruch
+1bc28158,1N1Bk1B1/P3P3/1p4pp/3P1P1n/8/1r5r/p3pp2/Kn1b1q2 w - - 0 1,3,Johan Hilding Laurentius Fröberg
+77b6199f,1n4n1/7Q/6Q1/8/7K/3p4/2k5/8 w - - 0 1,3,Walter Freiherr von Holzhausen
+7edd83aa,8/8/8/2R2p2/3K1P2/1p5p/1P2k2P/2R5 w - - 0 1,3,Imre Zagyva
+79d1bf20,8/K7/2N5/5Q2/4P3/1k6/8/4B3 w - - 0 1,3,Zoltán Labai
+530a9874,8/4p3/2K3RQ/p3bk2/8/4Pp2/N4p2/8 w - - 0 1,3,Eugene Beauharnais Cook
+b652ddf4,1B6/p2K4/p1p2p2/2b1PQ1n/1RPkrn1N/N2p1R2/bP2p3/7B w - - 0 1,3,Игорь Алексеевич Агапов
+949f07e2,6k1/3NR3/5p2/4PP2/8/8/4Pp2/5Kb1 w - - 0 1,3,Thomas Rayner Dawson
+ba8ef8ba,8/5pB1/3N1K2/p2Q1p2/2PN4/rp1k1n1R/1pppp1b1/1rbRn3 w - - 0 1,3,Jan Ingvar Hannelius
+4382e044,8/3p4/2p1p3/3k4/3BN3/2P3K1/3PQ3/7N w - - 0 1,3,James Pierce
+10406b92,3n4/P2pNP2/Pp2bp1P/4k2B/1p4pP/1p3P2/1PN2P1p/K1Q1B3 w - - 0 1,3,Валерий Алексеевич Иванов
+5fb0e1c3,3Bn3/8/B7/6R1/kP6/8/K7/8 w - - 0 1,3,Лев Владимирович Грольман
+f2746f78,8/2b3n1/3R3Q/p1k1ppr1/6p1/2K5/1R6/8 w - - 0 1,3,Fredrik af Geijerstam
+a0ccf551,8/1p6/8/2P5/N1k1K3/8/1Q6/8 w - - 0 1,3,Samuel Loyd
+df32c567,8/8/4p1K1/4P3/8/1N2NRp1/4k3/b1R4B w - - 0 1,3,Nils Gustav Gerhard van Dijk
+98953b12,nN3b2/R1p2p2/2Q1b3/1pp2n2/1pkppB2/1R3p2/K7/N2B4 w - - 0 1,3,Виктор Фёдорович Волчек
+fc4abc17,8/8/3p1K2/p1pP4/P1Npp3/1P1NB3/p2P4/knR5 w - - 0 1,3,Emil Palkoska
+6b69ec53,8/8/3p2p1/3K2P1/6k1/5NpN/6P1/5R2 w - - 0 1,3,Jacob Schumer
+50093178,2NK4/2PQ1pP1/1Np1rp1n/1bp1k3/3pPR2/b5P1/1P2R3/8 w - - 0 1,3,Arieh Grinblat
+af23ddcf,5r2/p7/P7/1B1P1PPk/2N4p/2K4P/2p5/2B5 w - - 0 1,3,Eugène Ferber
+d7de3eb9,4rBQ1/pR5n/3pN2q/8/p6p/k2PR3/2p4b/1bN4K w - - 0 1,3,Alfreds A. Dombrovskis
+00bc6876,8/5N2/R7/2PP1k2/8/2p1BP2/2P5/1KQ5 w - - 0 1,3,Fritz Emil Giegold
+df63427a,nr6/2N2p1p/2b2P1Q/1p2P1p1/pPk2P2/2p1p2B/K1N1P3/4b3 w - - 0 1,3,Max Arn. K. S. Karstedt
+6ee6d311,5NBB/4pNn1/2Rp1krb/7r/3pPpbn/2p2RP1/8/Q1K5 w - - 0 1,3,Валентин Федорович Руденко
+64ae9c37,2N5/7R/5p2/8/4k3/2Q5/7K/8 w - - 0 1,3,Петрашин Петрашиновић
+f66d3e1d,1K2R3/P7/1pppNp1R/B2k4/r7/3P4/n4N2/b3Q2b w - - 0 1,3,Leonid Makaronez
+1890e9db,1K4k1/RR6/3p4/6p1/8/3n1p2/2p5/4b2b w - - 0 1,3,Albert Renn
+0ea462de,3rB3/2p5/2n5/3NQ3/8/PkP3p1/1N3B1r/1K4n1 w - - 0 1,3,Илья Степанович Шумов
+ae8de0aa,8/2p5/8/Q3p3/3bk3/7K/2P3P1/2B5 w - - 0 1,3,Александр Васильевич Галицкий
+97031b1b,k7/pp6/2B5/5PP1/3P1B1b/4pKpp/1P6/R6Q w - - 0 1,3,Frédéric Lazard
+2c053d60,8/7Q/8/8/3K4/k7/1p6/8 w - - 0 1,3,Peter Rolf Orlik
+10648f75,8/1Bnpp1p1/4k1Pp/qpP1NR2/rn2P1P1/2N5/8/5bK1 w - - 0 1,3,Adolf Herrmann Rudolf Ferdinand Kraemer
+4bfaf5ec,3q1r2/2p1r1p1/2P1k1P1/1N2P1BN/3PPPK1/8/8/8 w - - 0 1,3,Otto Bernard Wurzburg
+69df5340,7R/1n3Nkp/3p2b1/3K4/1b6/2p3Q1/7B/7N w - - 0 1,3,Howard Lawton
+a2aa836f,8/3p2pr/p3Pp2/6p1/3Nk2p/2QN4/4K3/8 w - - 0 1,3,George Edward Carpenter
+166b5c77,8/5N2/1bp2p2/n1p5/3k4/8/3BQ3/3K4 w - - 0 1,3,Josef Pospíšil
+64a0d006,2K5/1R1N2pB/2pkp3/5PQ1/b1pnp1R1/1p5N/4p1q1/2r3b1 w - - 0 1,3,Николай Иванович Бельчиков
+e3607ce0,1KN5/2P2p1B/6n1/ppkN4/2bR1P2/pp2R3/P3PB2/8 w - - 0 1,3,John Hugh Barrow
+56650622,1n6/8/3bR3/1P4pp/P2kb1N1/P5p1/2PP4/NB1n1QK1 w - - 0 1,3,Игорь Алексеевич Агапов
+c78a3f2f,R1Nr4/B7/2pr4/1P2b3/1k2B3/1P6/1P6/1KR1N3 w - - 0 1,3,Franz Schönich
+4ef285d6,1b4B1/rP2Pn1K/3pQ3/p4pp1/RPpkp3/2p1n2b/2P2R2/6B1 w - - 0 1,3,Мирко Б. Марковић
+9cdd7b87,3K4/8/Q4pP1/2pk3P/5B1n/N5Pb/1P2Pnp1/8 w - - 0 1,3,Maximilian Feigl
+d59766ca,4Q3/8/4N1P1/1N2k3/8/5K2/8/8 w - - 0 1,3,Євгеній Михайлович Богданов
+9d7cb910,8/4K3/2p5/4k1B1/1p4R1/1p3p2/3P1p2/3N1n2 w - - 0 1,3,Eduard Kaďourek
+b26a33e2,8/3K4/1B3p2/4k3/8/1p3Q2/7b/8 w - - 0 1,3,Александр Григорьевич Андреев
+c91a0b9c,3Q4/1p6/k3N3/8/8/1K6/8/8 w - - 0 1,3,Vidadi Zamanov
+f26d4d40,3b4/3P2Nn/2p2r1Q/4k1pP/3R1p2/2Np4/1P3B2/6K1 w - - 0 1,3,Jan Vašta
+94583c10,2NK2n1/p1PP4/1b6/3k4/1P4B1/2QPp3/4P3/8 w - - 0 1,3,Antonie Clarus Johannes van Eelde
+78ae2611,3BR3/2K2Bb1/1P1pp1r1/pPp1kP2/r5p1/1bP1N1P1/qp1N2Q1/5R2 w - - 0 1,3,Henryk Grudziński
+f3f6732b,8/Q2p4/3N4/2ppk3/3N3B/1P3p2/5P2/1K6 w - - 0 1,3,György Szabó
+fb41d39a,8/3Bppb1/p1PPrn2/4k3/6p1/p1pPN3/4NPK1/1n1Q4 w - - 0 1,3,Valerian Oniţiu
+a82c7bb2,7K/2Q5/k2N4/3b4/B7/2n5/8/8 w - - 0 1,3,Владимир Владимирович Кожакин
+e82559d4,2bR3K/3p2pp/2p1Bbp1/3n4/2N1k1P1/QN2pnP1/3pP3/8 w - - 0 1,3,Валерій Володимирович Копил
+45b814b0,8/5pp1/1p1p4/3k4/Q3N3/6b1/3PPp2/5K2 w - - 0 1,3,Otakar Kunětický
+88593ee3,N1b5/k1p1K3/N1P1p3/4p3/4B3/8/8/R7 w - - 0 1,3,Рудольф Михайлович Ларин
+6408abec,6r1/bP1Q4/K1Bp4/2pP3b/2k3rn/4P3/N7/n1N5 w - - 0 1,3,Walther Edouard Preiswerk
+b6723ff2,3N1Q2/2pp1BR1/n4P2/4p3/4kp2/2P1pR1P/1bP3PK/6N1 w - - 0 1,3,Peter Hoffmann
+dae40ab5,6q1/4R1p1/6B1/2Np1Pp1/6k1/6Pp/rNb1P2P/n5K1 w - - 0 1,3,Arthur Klinke
+3d267c73,b7/Q3Kpp1/p4pP1/2BP3n/1ppPkpB1/1r3N1r/n1P3P1/2bN4 w - - 0 1,3,Marian Wróbel
+556bc75f,bBR5/7p/3Np2r/2P1k1p1/1K1p1pB1/3R1r2/2PP2Q1/6n1 w - - 0 1,3,
+6a74966a,1n3K2/2pp1Q2/n7/1p6/3k4/2N5/1B6/7B w - - 0 1,3,Karel Fiala
+7ab0f50d,8/p4K1p/p1p5/2Pkp1pr/2R5/3P4/P7/Q7 w - - 0 1,3,Gustav Johann Kißling
+10dc9b7d,2K3n1/4p3/3PP1N1/3R1P2/1p2k3/1p4Rp/b2pPp2/5Qb1 w - - 0 1,3,Николай Александрович Извольский
+dcd39363,8/5p2/p4Bp1/p3N1P1/R1B1Pk2/8/1p3P2/bK6 w - - 0 1,3,Siegfried Brüchner
+42ecd756,6K1/2p1N2N/n1QPpPR1/r1n1k1pP/2R3r1/1B1bP3/3P3b/8 w - - 0 1,3,Александр Фёдорович Феоктистов
+a992dcab,8/8/n7/4BQ2/n7/8/3k4/R6K w - - 0 1,3,Emil Převorovský
+f0fb65aa,K7/4B3/8/3Bk1p1/1P1pP3/2Np1pPn/2PQ1P1r/7b w - - 0 1,3,Михаил Романович Костылев
+bab96be5,8/5Q2/8/5Nk1/1N6/5P2/4K3/8 w - - 0 1,3,Срећко Радовић
+27d4b612,8/2Bpb3/2p2p2/Pp6/1qpkNNRn/1p2R3/3p1P2/3K4 w - - 0 1,3,Hidajat Maruta
+47197ed2,8/3N1p2/1P3Q2/qp3P2/4p3/p1P2P1K/PkN3p1/R2B2B1 w - - 0 1,3,Barry Jack da Costa Andrade
+3cd22fef,8/2pKB1p1/6Np/R1pk2p1/2rb4/2pP4/2N3R1/n4n2 w - - 0 1,3,Géza Erdős
+ed78b893,1Kn1k3/1N2B2b/8/3N4/8/8/8/2Q5 w - - 0 1,3,Miroslav Havel
+792362cc,b2N4/K7/2p5/2Pk1p2/3B3R/N7/4P3/8 w - - 0 1,3,Flórián János Kovács
+3c5c25ad,4R1N1/3p1k1p/4N2K/3pp1p1/3p4/q4p2/8/3Q1n2 w - - 0 1,3,František Havelka
+dc09151a,2n5/nQ1R3B/2pbNP2/P2kP2P/p4P2/P7/1K6/8 w - - 0 1,3,Juan Carlos Morra
+a957bbf8,8/8/K6B/3P4/8/3k4/6Q1/3B4 w - - 0 1,3,Salvador Suratos
+dae2b68b,8/3N4/2ppp3/p2k4/K6Q/8/8/8 w - - 0 1,3,Carl Pater
+0fa65e2f,4N3/4N3/6P1/3K2kr/8/5Q2/8/8 w - - 0 1,3,Cyril Henry Stanley Kipping
+c3049b55,8/5P2/8/3R4/8/4k1N1/6K1/8 w - - 0 1,3,Werner Speckmann
+bdf03717,4k1b1/4p1n1/2p5/2BpNp1p/1N1Q1P1K/6P1/1P6/8 w - - 0 1,3,William S. Pavitt
+c81d15e8,8/2Q5/7N/1P2N3/2p2k2/2P3p1/4P1P1/1K6 w - - 0 1,3,Philip Hamilton Williams
+5e1c9e88,8/1p6/1BnQ4/5p2/4k3/p2R4/8/K2n4 w - - 0 1,3,Hans Johner
+3452144e,2B4q/Q4br1/2R1pk1P/1p1R3P/rP1K2pP/p1PP2p1/8/B7 w - - 0 1,3,Вячеслав Георгиевич Копаев
+3e9975db,1bN5/6N1/4P3/Pp2k3/nP5Q/5P2/2K5/7n w - - 0 1,3,Арвид Иванович Куббель
+f25489f2,8/4p3/4k1pN/2KR4/2n1p3/4P3/BB6/5b2 w - - 0 1,3,Валерий Николаевич Барсуков
+6007a59f,1Q2K3/5N2/2k1N3/p7/8/4p3/5n2/8 w - - 0 1,3,Heinrich Friedrich Ludwig Meyer
+99a6bcc8,3Qn3/4K3/1Rp5/p1k5/4p3/3Pp3/8/1N6 w - - 0 1,3,Miroslav Havel
+5e2c623f,krr1NR2/8/Bp6/1N6/2p1p3/8/K6p/5nbb w - - 0 1,3,Johan Hilding Laurentius Fröberg
+448c5320,4R3/p7/7K/PN1kN3/1P6/8/3Pn3/1B6 w - - 0 1,3,Henri Gerard Marie Weenink
+afa157ce,5K2/1p4R1/2ppp3/2bBk3/p2NBpp1/1b6/8/6Q1 w - - 0 1,3,Alain J. Godbout
+d5dcd791,4N3/6Q1/8/pBpk1P2/Pp3p2/4p3/1nP5/7K w - - 0 1,3,Arnoldo Ellerman
+b26872ce,4K3/8/4k2P/8/4P3/2PnN1B1/5P2/2Q5 w - - 0 1,3,František Matoušek
+b85298eb,4N3/8/2p5/B1N1k3/1RP3K1/8/8/8 w - - 0 1,3,Georges Legentil
+e45a5b61,k2B4/3p4/K7/3r4/8/8/7Q/6n1 w - - 0 1,3,Ingemar Lind
+26ceb094,8/K4p2/2P1kp2/5N2/3PN3/6PB/4P3/1R6 w - - 0 1,3,Laurits Andreas Munck
+4eae54e4,5r2/4bq2/8/3Np1N1/r5P1/1PpPPp1P/p1P2Ppp/R3K1kb w - - 0 1,3,Peter Heyl
+15551711,8/K7/1R6/2k5/3R4/8/8/8 w - - 0 1,3,Pehr Henrik Törngren
+cee03346,6Q1/2bn4/1q4b1/r4P2/1pPpkpPp/1P3N1R/2PBKpN1/5B2 w - - 0 1,3,Hubert Gockel
+9a534ff9,k7/n1K1R1n1/8/8/8/8/6p1/R7 w - - 0 1,3,Gustav Herbert Hultberg
+8d832bbe,8/2N1K3/4N2p/4k1p1/1P2P3/8/pPB1RP1P/bn6 w - - 0 1,3,Johann Bernhard Michael Schneider
+3f1deee9,1Kbr1b2/1p1pP2B/6R1/1pN2Q2/2kNp3/1rB1P3/2RppP2/2q5 w - - 0 1,3,Віктор Львович Капуста
+e0d51da4,1n6/3pp1r1/6p1/8/4Np2/6pQ/4pbpp/1K2nbkq w - - 0 1,3,Miroslav Soukup
+58efed67,7k/6R1/2b4K/2N5/2N5/8/8/8 w - - 0 1,3,Глеб Николаевич Заходякин
+a29abf53,R7/1k6/NBp5/2K5/8/8/8/8 w - - 0 1,3,Александр Петрович Олейник
+ff9d733c,5nn1/4B3/R2PP1R1/P2kN3/rb1p1p1r/pP1NpP2/K6p/1B3Q2 w - - 0 1,3,Виктор Фёдорович Волчек
+e760055b,8/b7/1pQ4n/3p3K/2Nk1P2/2p1R3/4rpP1/8 w - - 0 1,3,Jan Kotrč
+135c9e17,8/1Np4p/5p1K/n4P2/3kB3/8/P4Pp1/4Qnrb w - - 0 1,3,Antonín Klír
+34cbc9fa,3B4/3P1b2/2KPkPp1/6p1/2P1B1p1/3N2P1/7Q/b4q2 w - - 0 1,3,Николай Иванович Белик
+d9a49d08,k7/8/K2Bp3/1P6/5N2/8/7p/8 w - - 0 1,3,Herbert Grasemann
+3d07a08c,8/8/8/1Q6/n7/8/PbK5/kB6 w - - 0 1,3,André Chéron
+078bfe71,R2n1qbb/4p3/Pk6/2R5/BKp5/2p2p2/2P5/1Q6 w - - 0 1,3,Pentti Olavi Sola
+9cc27a62,8/6R1/1p2k3/1p2P1p1/1P1PB2b/1p2K1pP/8/8 w - - 0 1,3,Александр Васильевич Галицкий
+a1635086,8/1p6/pp6/3p3p/3R2pN/8/nK2BN2/4k1B1 w - - 0 1,3,Josef Cumpe
+18b16382,8/Q7/1N2k3/6p1/6P1/2K5/3P4/8 w - - 0 1,3,Александр П. Очкур
+8849f66a,6b1/b2pB2p/3P3p/1PN1k2r/3N1p2/1R1P1P1p/3p3K/6Q1 w - - 0 1,3,Franz Josef Kellner
+92570b49,k7/3Q4/N7/2pP4/K7/8/8/6b1 w - - 0 1,3,Volker Zipf
+c2052322,8/8/2p2p2/2K5/5B2/1B1k4/5R2/8 w - - 0 1,3,William Anthony Shinkman
+a3f41adb,6K1/8/8/5p1B/7k/7N/8/2B2R2 w - - 0 1,3,Josef Cumpe
+2e72ab83,8/8/8/8/7p/2p1R2N/2K1N1k1/8 w - - 0 1,3,Paul Vătărescu
+b5911504,N7/1N6/p1B2bpq/1prp2pR/npPkP3/3P3R/7Q/4B1K1 w - - 0 1,3,Hugo Knuppert
+3133150e,3n4/8/R6R/1k6/1p4K1/1B6/8/8 w - - 0 1,3,Richard Eugene Cheney
+6ac8d11f,1B2K3/4p3/2P3p1/2Pk2p1/Q2n2NR/1ppNpp2/2p1r2n/1r1R4 w - - 0 1,3,Фёдор Васильевич Давиденко
+60b8acd2,1B3K2/P3N3/2p1kpp1/3RqR2/2PpB1N1/1b2n1b1/4Q3/8 w - - 0 1,3,Claude Goumondy
+8b67178a,8/3r4/8/6p1/3p1kP1/3K2pP/6P1/Q7 w - - 0 1,3,Fébus Hirsh Fraenkel
+7b842623,2b5/Nqprbr2/p1Q4n/4Rp2/N2k4/2pP2BP/n1P3K1/8 w - - 0 1,3,Евгений Васильевич Фомичёв
+bfb6c52a,7K/2PkP3/8/8/6P1/7Q/8/8 w - - 0 1,3,Henry Wald Bettmann
+86f9c85a,NK4b1/1p2R3/kP2p3/5pn1/1PP5/2ppr2r/4nR2/N7 w - - 0 1,3,Albert Hegermann
+60d9393e,8/8/8/8/2P4p/8/7p/4KBBk w - - 0 1,3,Олександр Гнатович Жук
+52052a8a,3B4/8/4P3/p2N1P2/P2kP3/1K3B2/2P3P1/8 w - - 0 1,3,Charles H. Avery
+ac66efc0,8/7R/1P2B3/2N1k3/P6K/6N1/3P4/8 w - - 0 1,3,Іван Дмитрович Борисенко
+20d3d877,4N3/Kp4br/pP4b1/1P1k4/N3R3/2p1pQP1/1PP3P1/r7 w - - 0 1,3,Ernst Varain
+8f83bddb,7Q/8/8/8/1p6/1p2p3/2p1K3/1bk5 w - - 0 1,3,Morris Lissner
+74e3eaf2,8/pnpN2p1/4R1p1/1P1k4/2R2r1p/B1P1r1NQ/3P1pn1/4bB1K w - - 0 1,3,Claude Goumondy
+510fcc25,5b2/8/8/8/2Q1p1K1/8/N2k2N1/8 w - - 0 1,3,Miroslav Havel
+c3764cda,1N3R2/2p3p1/2B3p1/pN1pp3/r3k1Kn/r3p1B1/4P3/8 w - - 0 1,3,Ferdinand Metzenauer
+dda02620,R3n3/8/4Bk2/5P2/K7/6Q1/8/8 w - - 0 1,3,Иван Михайлович Трухан
+b0bf7e95,8/R1K3b1/8/2pkp3/2p3B1/N2pQ3/5P1r/8 w - - 0 1,3,Sámuel Gold
+d6e901fc,8/1K1p4/8/1N1k4/3N2P1/8/8/4Q3 w - - 0 1,3,Євгеній Михайлович Богданов
+c20583f5,2Q5/qp6/1p6/kp6/pN1R4/p2p4/1R1N4/1K2n3 w - - 0 1,3,Josef Křivohlávek
+da3e04db,8/1q1p3b/6p1/7p/1R2n1pk/3NQ3/4N1P1/6K1 w - - 0 1,3,Ladislav Knotek
+77028e11,b7/2K5/p1n1B3/1p2P2R/1Rn1kP2/4B3/2P3P1/5N2 w - - 0 1,3,Rudolf Leopold
+8730a2ca,8/n2B1p1p/6bP/R7/n3k1pb/2p1P3/4K2N/1N6 w - - 0 1,3,Harold Conrad Mowry
+459f61fb,4n3/8/8/4k1K1/1P5R/1Q6/4B3/8 w - - 0 1,3,Emanuel Barbe
+94651874,7n/8/1B6/3k2pQ/bpN5/Pp4P1/1P1b3P/3K1B2 w - - 0 1,3,Albert Stabenow
+a45a2dbe,5Q2/4B3/1pp5/p7/k7/8/K2b4/7n w - - 0 1,3,Jiří Chocholouš
+0d807c27,8/8/3p2Q1/3P4/2PK1p2/2P2N2/3N1kn1/8 w - - 0 1,3,Adolf Christian Bayersdorfer
+216b347c,8/3P1K2/Bn1P1R2/2r1k3/3r2P1/1Np4P/1Nn3Q1/1bBR4 w - - 0 1,3,Михайло Назарович Марандюк
+6f9d935c,4nK1k/6pb/6P1/2Q5/8/8/8/8 w - - 0 1,3,Валерий Иванович Резинкин
+5c279274,8/8/8/8/2kN3p/7P/2N1P2K/Q7 w - - 0 1,3,Hugo Rohr
+025e049d,8/4p3/Q7/4k3/7N/8/2PB3K/8 w - - 0 1,3,Николай Крутоус
+9e04f9f8,N1K5/p4p1b/pP1B3b/k3pp1r/B2p4/1P4p1/2PP3r/8 w - - 0 1,3,Tadeusz Czarnecki
+5d098630,8/K7/p1pNp1nQ/8/3k2p1/pp1N3b/1PP1P3/8 w - - 0 1,3,Alf O. Evang
+071a0b14,1n2K3/q1P4p/pQPRpRPB/2N1k2r/1P1p4/6P1/2PrN3/8 w - - 0 1,3,Михайло Назарович Марандюк
+ec93b154,5nb1/KB6/2R4p/pk6/p4p2/P1P3rr/3PP3/3N4 w - - 0 1,3,Heinz Brixi
+80c61690,3K4/p6n/bR1N1p2/k7/p1p1p3/2pN2p1/4Q3/8 w - - 0 1,3,Михаил Владимирович Тронов
+a79c2f48,6Rb/1N1p4/3P1n1p/1Qp1k3/1p3R2/1b1rP2B/1N6/K1n1B3 w - - 0 1,3,Martin Wessels
+a33122f6,Q7/p7/pN6/6p1/P1Pkp3/7B/5pKB/2N2R2 w - - 0 1,3,R. J. Deighton
+0bb40280,1b1NN1br/8/1p1Bp2P/3kpP2/6R1/1K1P1p2/5P2/3R4 w - - 0 1,3,Heinrich Jambon
+df527ad0,4N1br/1Q3n1k/5Ppp/2pp4/2P1R3/5K2/8/7R w - - 0 1,3,Darso James Densmore
+aaf88bd5,8/2b1Q3/pp1p4/1P4p1/3k4/8/PP1K3N/3B4 w - - 0 1,3,Julius Adam Kaiser
+e5cb401c,8/8/1Q6/3k4/8/8/3P1K2/3R4 w - - 0 1,3,Пётр Шалимов
+4370cdb5,kB3N2/2K5/1pp5/4p3/2r1B3/8/1b6/8 w - - 0 1,3,Vincent Lanius Eaton
+18f434ec,8/8/3P3Q/4k1p1/3bP3/1R4P1/1P6/5K2 w - - 0 1,3,Сергей Петрович Крючков
+0b8d11b8,7n/8/4Np1p/5P1P/4p1Bk/8/3B1pR1/3n1K2 w - - 0 1,3,Andrej Ančin
+e656aa53,7k/7P/6q1/7N/7R/6p1/2QB2K1/8 w - - 0 1,3,Miroslav Havel
+c1688331,4B2Q/8/3p4/8/2kN1K2/3p4/1P6/8 w - - 0 1,3,Charles Henry Wheeler
+e7d58810,8/B1pp4/P2p2R1/1BnP1P2/3k1K2/4N2p/1P4p1/8 w - - 0 1,3,Jean Roche
+65160c69,R2Bk1N1/1p3pP1/1pr5/1p3p1b/7n/7Q/2n2K2/8 w - - 0 1,3,Lars Aksglæde Larsen
+786e8ed7,8/8/1B6/7K/2k5/5p2/2N2Q2/7b w - - 0 1,3,Микола Володимирович Кулігін
+08a89e8b,8/3p2B1/3k1K2/8/B7/2R5/8/8 w - - 0 1,3,Срђан Светец
+8e015f7e,8/8/8/1PP5/2k5/1Np1Q3/2K5/8 w - - 0 1,3,Владимир Владимирович Кожакин
+de39f43e,8/4B2b/4p1p1/3pk1P1/5p2/p2P3Q/8/2K2B2 w - - 0 1,3,Antonio G. Corrias
+587fcdc6,8/8/2B5/8/4R3/5bN1/4R1pp/4K1kr w - - 0 1,3,Franz Sackmann
+a2a2bed0,2R5/8/R2p4/Pp1k1Kp1/4p3/2p1Bp1P/5P2/7r w - - 0 1,3,Herbert Kromath
+6a2aef1e,4R3/1Q6/8/8/5K2/p1p5/3k4/8 w - - 0 1,3,Percival Guy Laugharne Fothergill
+b4ee7320,5B2/1p4Q1/2rPp3/2p1R2p/5P1p/2PP4/3PK1np/6kb w - - 0 1,3,Fritz Karge
+69477fee,8/4N3/1P1p1K1Q/4p3/Bp1k3p/3n2P1/rPPNp1n1/4B2b w - - 0 1,3,Carl Bilfinger
+836caf5b,5BK1/7N/1b1n1p2/r2r2p1/3k4/n1Rp3Q/1P1N4/8 w - - 0 1,3,Николай Павлович Зелепукин
+b9403e2c,3n4/8/8/2p5/Q3K3/8/3B1k1p/5B1r w - - 0 1,3,Юрий Григорьевич Горбатенко
+51be8605,6K1/3p4/1p1P4/1p3pP1/1pk2B2/1N1p4/1Q1P2P1/8 w - - 0 1,3,Gejza Reiprich
+2fe9bef8,4R3/1q6/1r1p3r/1pN1N3/1P1kpBnQ/1B4n1/3PRb2/3K4 w - - 0 1,3,Claude Goumondy
+8014bcd1,6Q1/3N4/3B4/5p2/8/5k2/8/6K1 w - - 0 1,3,Михаил Васильевич Кройтор
+d7d2f24e,3qr2Q/2p2B2/3pppr1/3Pk1pR/1P1R4/2BP2K1/N5n1/7b w - - 0 1,3,Zoltán Labai
+0a071cc8,8/5PBk/6r1/6P1/2K5/8/1p6/bB6 w - - 0 1,3,Vladislav Buňka
+e5acc15a,1K3Qb1/8/1pp4n/p2P1RP1/4kN1P/8/1P1pBP2/5n2 w - - 0 1,3,Jan Hliněný
+335bf82c,B4Q2/1N1p4/2r1pPK1/p7/b3k3/4B1pP/2pPp1p1/6r1 w - - 0 1,3,Kurt Laue
+4f1233b0,8/nB5p/QPrp1BpK/1rk2PP1/Pp3R2/3R4/8/8 w - - 0 1,3,Ferenc Fleck
+f1fa84d8,5rr1/bB2N2p/p2pP1nR/5p2/1PpknQ2/NP1p4/3P4/5K2 w - - 0 1,3,Michael Keller
+cda37531,Q7/1p6/2p1pp1K/1pP1k3/1P2p3/8/1P2N3/8 w - - 0 1,3,Александр Васильевич Галицкий
+8ad6c099,8/3p4/1Q1p1K2/1B1p4/6b1/1Rpp4/2kp4/5R2 w - - 0 1,3,Bernardus Postma
+8b729420,1bN1k3/2B5/8/1K6/8/8/5R2/5B2 w - - 0 1,3,Józef Klemensiewicz
+d8df36aa,7k/6p1/7N/6K1/3p4/3n4/8/3Q4 w - - 0 1,3,Johan Axel Åkerblom
+0234b11e,8/8/5pb1/8/3p2p1/nQ3NK1/1ppPBP2/brk5 w - - 0 1,3,Saturnin Limbach
+e7616582,8/1n6/6KQ/1PkNPP2/2p5/1b2N3/8/6B1 w - - 0 1,3,Joseph William Abbott
+07500a55,3R3b/3qr2p/8/5N2/Q7/2pk1p1K/3p2pP/3B1br1 w - - 0 1,3,Jan van den Strydom
+01349552,Q7/6K1/2p1p3/p7/n1B5/8/1B6/1k1N4 w - - 0 1,3,Александр Павлович Гуляев
+0c65528c,3B4/2P5/1p1k2N1/1Pp2P2/2P1R3/3K4/8/8 w - - 0 1,3,Henri Elisabeth Pelletret
+7066442e,1K1Nb3/6p1/3kPN2/p7/2P2PP1/3Bp3/PP1P4/1RBR4 w - - 0 1,3,Maxwell Bukofzer
+5c2bd081,3k4/1p1P2p1/1p1P4/3N1B2/1bBb2K1/5p2/2R5/rQ1R4 w - - 0 1,3,Heinz Gfeller
+e275dabd,8/8/8/K7/6RQ/8/7b/2N2b1k w - - 0 1,3,John James O'Keefe
+d8fea8d3,8/8/4R3/1Ppp1P2/2R3p1/3K2P1/5P2/3k4 w - - 0 1,3,Johan Scheel
+5188db71,Q7/3p4/3p3r/1P6/P1k5/5N2/1KB5/2R1r3 w - - 0 1,3,Александр Павлович Гуляев
+44c67def,8/8/8/3p2RN/4k3/1N2p3/4K3/8 w - - 0 1,3,Юрий Акимович Сушков
+f02c7761,5r2/1B6/8/4p3/1KNkp1bN/R7/8/8 w - - 0 1,3,Carl Eckhardt
+d4951541,4QB2/n7/K4p2/8/2pkBN2/1p2R2p/3ppp2/3b1qn1 w - - 0 1,3,Jan Vašta
+a7a4f76d,4N3/3pN3/4r1p1/r1pPkP1p/Rn2P2b/p1P2K2/8/1Q6 w - - 0 1,3,Анатолий Яковлевич Агарков
+4a00c45d,1qb1Q1B1/4R3/1pr1p1r1/4k3/4N3/2p1K1p1/8/8 w - - 0 1,3,Antonín Marjánek
+40fa1e5b,8/5pN1/3B1k1K/4p1p1/2N5/8/q4P2/6b1 w - - 0 1,3,Robert Bownas Wormald
+1e22f355,R4K1k/p6q/7R/6P1/8/8/8/8 w - - 0 1,3,Альберт Серапіонович Шахназарян
+58e8b27c,qr6/1p1p1B1P/1p1Q1n2/4BkNn/3P3K/r3pp2/8/8 w - - 0 1,3,Sámuel Gold
+cb9c48cf,Q2N2K1/pr1p4/2rp4/Rnnk4/5P1B/3P1P2/2B1N3/8 w - - 0 1,3,Александр Викторович Бахарев
+a3b3e324,8/8/8/8/B1pppp1B/7p/2r5/1RNk1NRK w - - 0 1,3,Jan Hartong
+58055269,8/3p1K2/B2p1Q1B/8/P3k3/bp3p2/1p3P2/1br5 w - - 0 1,3,Andrejs Strebkovs
+467835ff,3K4/k1B3R1/8/1P6/8/6p1/6B1/6N1 w - - 0 1,3,André Simonet
+5e7ad8c7,2R5/8/8/8/8/1Q2p1Nq/2Np1n2/1K1k2n1 w - - 0 1,3,Hilmar Ebert
+59bd3a39,8/8/5pp1/2Q1p1Bk/3PN3/7p/7p/7K w - - 0 1,3,Charles W. White
+34fc91a8,6K1/5N2/R4b2/p4k2/p5R1/Pp6/1P6/3B4 w - - 0 1,3,Percy Clark Bowater
+c8698a98,5k2/8/4P3/1Q6/8/8/8/7K w - - 0 1,3,Peter August d’Orville
+4b269639,2Q2KBk/1p5p/8/8/8/8/1r2n3/b5nr w - - 0 1,3,Karl Fabel
+36838ee9,8/1N4p1/2p3P1/1p6/3k2P1/5QB1/1p6/bK6 w - - 0 1,3,Rudolf Weinheimer
+295edc10,2rk1K2/N1p3NR/2BnP3/5pp1/3Q4/1R1p4/8/b1B1q1rb w - - 0 1,3,Henry John Clinton Andrews
+543402ae,3B4/1p1P2N1/5R1K/1Pp1k3/1pP5/1NpPrb2/Q4p2/3n2n1 w - - 0 1,3,Karl Lorenz Jesper Jespersen
+dfd07b44,5r2/qp1B3n/1Pn5/p2Np3/P1R1R1PQ/1N1k1p1r/P4p1P/1b3Kb1 w - - 0 1,3,Konrad Erlinger
+f1d1d599,8/8/8/8/3BN3/1p3B2/3N1P1P/1K2k3 w - - 0 1,3,Andreas Nievergelt
+1a7222de,8/8/4K3/3p4/2p2k1B/2R5/8/3B4 w - - 0 1,3,
+b68b58b8,3R1R2/4B1Kp/4p1p1/4k3/3p1p1p/3P1P2/6b1/4r1n1 w - - 0 1,3,Gerhard Paul Latzel
+eec41461,8/6p1/3R4/rbB1k2r/p7/2K2p1p/3PP3/1Q6 w - - 0 1,3,Stanislav Trčala
+ef16ea03,5B2/q4ppp/3R1n1b/4k3/p3B1P1/1r2P2r/1pQ1R1NP/1K2N3 w - - 0 1,3,Валентин Федорович Руденко
+b5e79dca,8/8/8/3N3r/R7/2K2p2/8/2Nk4 w - - 0 1,3,Bo Waldemar Lindgren
+824e2ef0,2K4N/8/3p3p/3B2nk/6RP/3n2P1/7N/2B5 w - - 0 1,3,Sophie Schett
+85dbdf31,8/6B1/6k1/3K4/8/3P1N1Q/8/8 w - - 0 1,3,Николай Чистяков
+c8bbadf4,2R5/1p2K1P1/3pNpb1/1Ppk1Bp1/3N1P2/3Pb3/3p1p2/4r3 w - - 0 1,3,Николай Христов Димитров
+3dc55ce3,8/1N6/5K2/8/1N1pk3/8/8/3Q4 w - - 0 1,3,Владимир Владимирович Кожакин
+e94a677b,2B5/5n2/2Pr3n/2Pp2Q1/1K2kp2/4P3/1B4Pb/4R3 w - - 0 1,3,Olof Wilhelm Robert Sahlberg
+41ba2321,K4N2/8/1R3p1r/8/2k2B2/7p/2B5/R7 w - - 0 1,3,Ludwig Noack
+0660d775,6b1/p2pp1B1/Q2P3N/2pkn1N1/4p3/1P2P3/8/6KR w - - 0 1,3,George Stillingfleet Johnson
+3ff1b8ce,3knQ2/1Kp1p3/2P1p3/1p2P3/8/2pB3r/2Pp2r1/2BR4 w - - 0 1,3,Shlomo Seider
+caa91f6d,8/7B/2Q3K1/5R2/3k4/4p3/7b/8 w - - 0 1,3,Виктор Сергеевич Лукашёв
+77c75076,4K3/N6N/8/4k3/4P3/8/8/4Q3 w - - 0 1,3,Thomas Porter Bull
+a7d8a133,7R/7K/8/5pk1/6N1/6pQ/8/8 w - - 0 1,3,Євгеній Михайлович Богданов
+0b1caafe,8/2N5/1r6/1pP1k1P1/1R1pNpP1/1B1p1P2/P2P1R2/5K2 w - - 0 1,3,Gustav Herbert Hultberg
+dbea0de3,8/8/5NP1/1K2pp2/1P1k4/5Q2/8/8 w - - 0 1,3,Joselito Marcos
+83938a83,2N1R1n1/B7/2Pp4/N2k1P2/2p1p3/3pP2r/1PB5/K1R2bn1 w - - 0 1,3,Анатолий Васильевич Слесаренко
+0fba8569,8/8/3p4/2kN4/3p4/3B4/5KQ1/8 w - - 0 1,3,Wolfgang Alexander Bruder
+3be67ec2,1b4K1/rP6/3knN2/1p6/3PQ1P1/8/5B2/8 w - - 0 1,3,Сергей Тимофеевич Пугачёв
+0b3019bf,2R5/1RP5/4PPN1/8/2K1k2B/8/4P3/3N1B2 w - - 0 1,3,Denis M. Saunders
+900af3e6,Br3B2/1q2P1p1/1Pp1p1n1/NRPkp1Q1/3P2P1/bP2K3/N1rP4/8 w - - 0 1,3,Michael Keller
+dea644c2,8/3b1P2/4k3/1p4R1/2N5/4K3/8/8 w - - 0 1,3,Николай С. Зиновьев
+a5c6abe2,8/q4N2/N7/2pp1B2/p1Pk1p2/p1RP4/P2P1K1R/5Q2 w - - 0 1,3,Николай Дмитриевич Надеждин
+0fbd69b5,b7/4NpQ1/2p5/2k4r/K1Np4/1P4n1/P1PPp2b/8 w - - 0 1,3,Jonas Ephraim Cauveren
+dd43ee76,1K6/1N6/8/3Pk3/8/5Q2/2P3B1/8 w - - 0 1,3,Владимир Афанасьевич Шматов
+10ad6d72,Q7/5p2/3R4/4kpp1/4N2n/8/8/3N1K2 w - - 0 1,3,Miroslav Havel
+6438dc91,3K4/5p1b/Q7/R1Nk2P1/1P4P1/2p1P1n1/2p1p3/8 w - - 0 1,3,Johan Scheel
+a0221fb1,7r/rb1B4/p1pBR3/3k4/N3pp2/1PP1b2n/2n5/5K2 w - - 0 1,3,John Brown
+50e8f8ed,4Q3/8/p7/8/1N6/1p6/1p2K3/1k6 w - - 0 1,3,Hermann von Gottschall
+94086bd8,5K2/8/5p2/5B1k/5B2/5N2/8/8 w - - 0 1,3,Владимир Анатольевич Сучков
+a3780ce4,8/8/2P5/1p6/pk1B4/8/4B3/RKN5 w - - 0 1,3,Альберт Федотович Иванов
+dee37833,1BK1R1N1/PP3pr1/3bnpP1/R1N1k1P1/1n1pPp2/2r4b/6P1/4Q3 w - - 0 1,3,Julius Buchwald
+29aa5211,7K/1R6/8/2p5/2p5/8/NrN3R1/1k6 w - - 0 1,3,Josef Cumpe
+90952de0,4R3/7b/3B3n/7B/3kPR1N/3P4/1KP2P2/6nq w - - 0 1,3,Lajos Riczu
+8e1cef13,4Q1K1/p4n2/p6p/krBR4/p7/pp2p3/8/4b3 w - - 0 1,3,Алексей Фёдорович Миронов
+40001ca9,8/2K4R/k7/pp6/1P6/8/8/8 w - - 0 1,3,Микола Володимирович Кулігін
+fe8cbddd,8/8/R7/8/8/8/1p2K3/1kbB4 w - - 0 1,3,Владимир Викторович Кузьмичев
+48c3c4ae,K7/6n1/1p2P1pN/1N1k4/P2P1p2/4p3/1nQ1Bq2/8 w - - 0 1,3,Fritz Hofmann
+ef8fea7b,3B4/1pK2B2/1N2bPn1/1P2kpP1/P4p2/3P4/2N5/8 w - - 0 1,3,Lothar Overath
+bd612514,8/3K1N2/1p1P1p2/Qnb1pk1P/1p5R/1N5P/r4pP1/3RnB2 w - - 0 1,3,Richard Büchner
+8776f479,8/1pp5/1k2P3/8/2Q1K3/8/3B4/8 w - - 0 1,3,Александр Дмитриевич Тюнин
+c8f24970,3r4/1B6/PK1pb1p1/PN3n2/r1kpP3/2pN3Q/n1P5/8 w - - 0 1,3,Uri Avner
+eb4112f3,bB6/4QBp1/1pR1p1P1/qpN2k2/3p2p1/b1NPp2p/4PPnn/7K w - - 0 1,3,Алексей Григорьевич Копнин
+6ec8c604,8/b1p5/r5p1/p1P5/3Pk1p1/1P3R2/2PPN3/1n2K1Q1 w - - 0 1,3,Eric Ernest Westbury
+d538d98e,1N6/4p3/3bk1K1/4r1p1/n1PP1p2/8/8/1Q6 w - - 0 1,3,Sámuel Gold
+79b58b2d,7b/pq6/4Q3/1P2pp2/3BkP2/4P3/4B2p/7K w - - 0 1,3,Karl Ursprung
+0839f517,2K5/7N/2p5/2B1P3/4pk1N/3p4/5P2/3B4 w - - 0 1,3,Edith Elina Helen Baird
+bbe827a6,8/3N1pb1/5p2/5Pkp/P6p/6pP/RQ6/BRK2N1B w - - 0 1,3,Юрий Георгиевич Фокин
+d6c0e853,1R5n/5p2/B1QP2pK/1NP5/1pkP4/1p6/8/4N3 w - - 0 1,3,Joseph John Warton
+9e3e9244,4K3/1p2n3/4k3/1p6/4NPR1/1N6/8/1Q6 w - - 0 1,3,Miroslav Havel
+b8a18124,5B1Q/2pp4/2p5/p4b2/2k1pN2/8/1R2p3/4K3 w - - 0 1,3,Anton A. C. Trilling
+482fc4fa,8/r3N3/1RP2K2/r1p4p/3k4/2pB4/2P5/3Qn3 w - - 0 1,3,Sámuel Gold
+367cfe11,8/6pR/8/8/p1Q2p2/p3p1b1/K2prn2/3kqBN1 w - - 0 1,3,Petrus Albertus Koetsheid
+c32eac7f,q3b3/3n4/pRpPNpp1/4k3/2Q4p/3RN2P/1K5n/8 w - - 0 1,3,Johan August Ros
+8de6caa6,5Q2/8/Np1p4/kP6/b7/8/2pP4/2K5 w - - 0 1,3,Владимир Иванович Желтоножко
+ddb01777,K4b2/3P1n2/5p1p/Q1PrPB2/2pkP3/2p2P2/6N1/8 w - - 0 1,3,Ernst Otto Martin
+f3cde333,7b/2KBB3/2n2p2/1bN1kp2/2npPR2/3p3q/6N1/Q7 w - - 0 1,3,Thorsten Zirkwitz
+6c8ff11b,n4K2/2p5/3N2Q1/3kp1P1/1p6/1Np5/P1p1P3/2b5 w - - 0 1,3,Stěpán Zimmermann
+7b51a89a,4kbNR/ppBnppR1/r4p2/5N2/5p1K/5Q1B/8/q1n5 w - - 0 1,3,Gerardus Hendrikus Drese
+615187f9,R4n1Q/4p3/4pr1n/4B3/3N1P2/1P1p1K2/pr2P3/kb5R w - - 0 1,3,Walter Henneberger
+675abc10,2K1N3/1B3ppQ/6r1/5k2/2R2Pb1/1np1B1p1/2q5/8 w - - 0 1,3,Vladimír Kos
+c75f0b1a,8/8/8/5Q1N/7k/5p2/8/7K w - - 0 1,3,Владимир Владимирович Кожакин
+37f107dc,3QB3/n1p1P3/1R2n3/B1k1Pb2/4R3/3p2N1/Kb6/8 w - - 0 1,3,Oto Mihalčo
+a2ab2c1d,3N3n/4p1Bb/B1pp1r2/3kPP2/R2P2p1/Kp2p1Pp/1p2P3/1Q2N1b1 w - - 0 1,3,Александр Георгиевич Орешин
+89e27b8b,6Q1/8/K2ppNnp/4k1P1/1pR4p/4pP2/3bN3/1b1B4 w - - 0 1,3,Joseph Henry Blackburne
+12da381a,6bB/4p3/2P1k2K/4P3/3p4/3P4/6Q1/8 w - - 0 1,3,Werner Höller
+491c8978,8/5pQ1/2p4p/4p2k/1r2p3/1p1n3B/3b1n2/1K4R1 w - - 0 1,3,Виктор Иванович Чепижный
+2f08b0a9,1K6/3p3B/P3k3/8/R2Q4/8/8/8 w - - 0 1,3,Євгеній Михайлович Богданов
+30617f9f,3N4/8/6N1/8/1Kpk4/8/4Q3/7b w - - 0 1,3,Gabriel Léon-Martin
+097427d7,8/8/4K3/6p1/1Nppk1p1/8/2N1p1Pn/1Q1nB2r w - - 0 1,3,Mór Ehrenstein
+612076a6,8/2p1p2p/K2p1R1P/b3kB2/2ppp2p/8/1RPQ4/Bqn5 w - - 0 1,3,Charles Planck
+68647f14,6N1/3b1rp1/2p5/p2k4/2N5/7B/Kn2Q1P1/6B1 w - - 0 1,3,James Rayner
+b9628d97,r7/P7/8/8/p2N4/K1R5/1p1B4/1N1k4 w - - 0 1,3,Kurt Renner
+827aeb4e,2Q1n1K1/r1p1b1p1/3k1pN1/1Pp4b/2Ppr1RP/6PB/7q/8 w - - 0 1,3,Фройм Маркович Симхович
+bd229671,2R5/n2p4/B2K4/1NP5/1Bk5/R7/8/8 w - - 0 1,3,Peder Andreas Larsen
+c7b3eb6b,rN2Bb2/1p6/1R1pkPp1/1pp3BP/2p2P2/2nP2p1/nN4Q1/7K w - - 0 1,3,Arieh Grinblat
+123548b3,8/2Np4/8/2k1N3/p7/p7/K6B/Q7 w - - 0 1,3,Friedrich Amandus Leopold Kuskop
+100e30a3,k7/1pKp4/1P2pp2/2pR4/2p2r2/2p1r3/2P5/5B2 w - - 0 1,3,Murray Marble
+6eae1858,3n4/6p1/3p4/4k3/1pp4Q/4N3/6K1/4R3 w - - 0 1,3,Hans Vetter
+66f83b95,qb6/nbp2N2/8/3P4/PN2PkP1/2pP1p1P/2B5/2K1Q2R w - - 0 1,3,Gerhardus Johannes Gerard Smits
+c3e3b275,4K3/1p6/1P2p3/4Pk1p/3p2pP/1P1N2P1/2QPp3/4B3 w - - 0 1,3,Paul Köller
+a432d623,8/8/5N1P/8/3N1k2/1Q6/8/K7 w - - 0 1,3,Vincente Maria Norberto Portilla
+395226d4,7K/b4p2/3Q4/r3N1p1/2p1k1B1/2P4N/2PP4/5r2 w - - 0 1,3,Сергей Юрьевич Румянцев
+3e32bf18,4B3/pQ1p4/p7/2PN4/p1kP4/5p1r/8/B1K2b2 w - - 0 1,3,František Hladík
+b748e35b,1N6/b1pP3K/7Q/qP1pPP2/Rp1k2Pp/2p1R3/2P1P2N/5B2 w - - 0 1,3,Никита Игоревич Кравцов
+8ceac22b,8/2K5/p7/2k5/Q7/2N2P2/5P2/8 w - - 0 1,3,Вячеслав Павлович Антипов
+d158398a,4K3/6p1/2p1k1Pp/3N1N1p/4p2P/P3p3/1QP5/5n2 w - - 0 1,3,Árpád Jakab
+b8d195a8,1n1Nn3/4pN2/8/3k1P1p/1Q4P1/8/1P3P2/3K4 w - - 0 1,3,Siegmund Steiner
+5a705b3d,2N5/2R5/1p2P1bN/3k2r1/R5p1/PK1ppr1n/BB6/8 w - - 0 1,3,Микола Іванович Нагнибіда
+2600446c,1Q1b4/p4p2/1pk1B1br/p2NP2r/8/7p/2NP3K/8 w - - 0 1,3,Ladislav Vetešník
+be362adb,1b5n/1P4R1/4Pp2/3PNp2/3B1k1P/5P2/5K2/2n5 w - - 0 1,3,Achille Campo
+60a89b01,1q5B/2n5/2Bp1Np1/N2rk1p1/3p1bQ1/7r/1pP2P2/1K3b2 w - - 0 1,3,Horst Böttger
+d6671a2d,bN5r/kpP4Q/1N5R/8/4P2K/7P/8/8 w - - 0 1,3,William Anthony Shinkman
+cd5187dd,8/6P1/N3p3/1P1k4/5Q2/8/3K4/8 w - - 0 1,3,Luigi Vitale
+a38c48be,3RBB2/2KNP1Q1/1P2pr1P/1kPPp3/1pp2PN1/pb6/2R5/8 w - - 0 1,3,Theodor Siers
+ec35e047,b7/K2p4/2p5/1p3RRr/2p1p2k/2pp4/Q2P2PP/8 w - - 0 1,3,Валерий П. Зиновьев
+35133976,3Q2R1/pb6/3P1NP1/r2Rp1k1/r4pPb/3N1p2/5p2/1BB2K2 w - - 0 1,3,Karl Adolf Koefoed Larsen
+523f927c,4r3/1pN2pp1/3pp3/3Pp2Q/1P1k1Pp1/Np2R3/3P4/3bK3 w - - 0 1,3,Петро Андрійович Новіцький
+99983bff,Q7/1p1K4/2N5/2k5/2N1P3/8/8/8 w - - 0 1,3,Валерий Геннадьевич Смирнов
+98a7cd99,8/8/5R2/2k5/6B1/2PP4/2KP4/8 w - - 0 1,3,Wilhelm Karl Heinrich Maßmann
+67390f79,N7/5Q2/1Pp5/2k3p1/2Nn2K1/4Bp2/6B1/8 w - - 0 1,3,
+337f4054,8/8/p7/P7/2K5/k7/1p6/bQ6 w - - 0 1,3,Вячеслав Павлович Антипов
+1eaffc26,8/2p5/2rp4/4p2K/2p1k3/5N2/5Q1P/5B2 w - - 0 1,3,Ladislav Cimburek
+82de9146,QnBb4/3pk1Kn/3Rp1b1/2B2p2/p4P2/8/8/4r2r w - - 0 1,3,Edward H. Courtenay
+dae8a72c,2b5/2N3Q1/8/2P2k1B/2p2p2/5pp1/K1P3np/5nrq w - - 0 1,3,Cecil Alfred Lucas Bull
+fe5b99fd,1R6/8/5B2/2k2PP1/B2p4/1K3P2/8/8 w - - 0 1,3,Friedrich Martin Palitzsch
+504c7e12,8/3B4/R4p2/3pk3/8/2P2K2/8/8 w - - 0 1,3,Henry Maxwell Prideaux
+caff7254,5Q2/1p2p2b/2pn1b2/P1k1n3/3N1Nq1/PPr2Bp1/2R2B2/K7 w - - 0 1,3,Alexander Zidek
+1fdb28fd,2n5/b1N2Q2/n3p3/R2Pp3/Rp2kp2/4p2b/K1P1N1P1/5B2 w - - 0 1,3,Leonid Makaronez
+763f544b,1K5n/Q7/3N1P2/4k3/1P3N1p/4p1PP/8/8 w - - 0 1,3,Joel Fridlizius
+30bf1658,8/8/2K1pp2/8/4k3/8/5Q2/3N4 w - - 0 1,3,Євгеній Михайлович Богданов
+ba53212c,Kb3B2/pR1p1B2/2kp1N2/P1pbpp2/PnN1q3/5Q2/4pr2/8 w - - 0 1,3,Leopold Mieczysław Szwedowski
+ec2207de,8/8/4p2p/4K1kP/6b1/8/3P1R2/7Q w - - 0 1,3,George Nelson Cheney
+06644c01,1qb2N1K/1p6/r1p4p/b3k1P1/8/6Np/1PPp1Q1B/8 w - - 0 1,3,Владимир Акимович Брон
+86939686,6B1/8/1p4p1/1P3P1P/1B1k3P/3p4/6Q1/3K4 w - - 0 1,3,Jørgen Thorvald Møller
+4ee096a5,2QN4/rp5r/P7/3bkpBP/3R2p1/P2P1p2/1PP5/3K4 w - - 0 1,3,Kārlis Bētiņš
+2cc748f1,5R2/8/8/8/4p3/2K5/8/1B2k3 w - - 0 1,3,Elmar Abdullayev
+7642515b,1K2b3/7p/1N3p2/3n3r/8/k1P2Q1p/rn1N4/b7 w - - 0 1,3,František Mazel
+abb9166a,n7/8/BpN5/1Pk1P1K1/4P3/1p6/1NnB4/8 w - - 0 1,3,Albert M. Burmeister
+c21b6718,8/4p3/2N5/8/4P3/4K3/3R4/5k2 w - - 0 1,3,Павел Петрович Рожков
+c923ce83,3B1nN1/3p4/3p4/3B1kpr/5p2/1p6/1K4Qp/8 w - - 0 1,3,Vojtěch Košek
+1655dd78,Kn2B3/8/4kPp1/2p3P1/8/5Q2/1p1P3B/1b6 w - - 0 1,3,Bruno Oswald Sommer
+db26233e,8/8/8/7B/3N4/PpNkP2K/1P6/5R2 w - - 0 1,3,Johannes Kohtz
+368b4021,8/nrp3Bp/1p6/b2k1P2/3pN3/PP1N1K2/2P3Q1/8 w - - 0 1,3,Franz Schrüfer
+5e6d6960,1r5n/1P2b2K/1N1PpRP1/P1p1k3/2p1N2p/1n1p4/1P1p2Q1/8 w - - 0 1,3,Karl Lorenz Jesper Jespersen
+3236921d,4N2B/2Rpp3/4k1pN/2bp4/8/1B2pP2/K1P5/8 w - - 0 1,3,Damien Grossi
+7efe3742,7R/qp2k1p1/1p1NP3/n2P3P/1P1N2p1/Qp1P2P1/6PK/5r1n w - - 0 1,3,Albert Oberhänsli
+275e1f59,7Q/2B1ppR1/7n/8/q4Rp1/r2Pkp2/1p3N2/1b2K3 w - - 0 1,3,Johannes Minckwitz
+08eecdee,6B1/4B3/3NN2p/4kP2/2Ppppp1/2p4r/2P4b/1KR3n1 w - - 0 1,3,Василий Алексеевич Миронов
+1f5f9b14,8/1K6/8/5B2/3Np3/7P/4p1kp/4Bbrr w - - 0 1,3,Frank Fiedler
+159ef056,3B4/8/6K1/8/5k2/3R4/6P1/3B4 w - - 0 1,3,Wilhelm Hagemann
+ffaec1a2,1b3Q2/2p2p2/p4pr1/3p1Rp1/4R3/3k2p1/3pN1b1/nKnN4 w - - 0 1,3,Josef Moravec
+2d7b3398,8/8/8/8/k7/N7/1K4R1/8 w - - 0 1,3,Otto Bernard Wurzburg
+cb2e7eac,n5Q1/8/3p1rp1/3pq3/1K1k2NR/4N3/b1B2R2/1n3r2 w - - 0 1,3,Benno Schlotterbeck
+0a7a3a2b,8/8/8/1Ppp1RpR/K5k1/B2P2N1/1ppN2b1/8 w - - 0 1,3,Lorenz Hansen
+312348c8,1N3B2/nK6/Pn1pQP2/5pp1/Pp1k4/P6R/5bR1/3B4 w - - 0 1,3,Marián Šemrinec
+796ac3b5,3Nr1nr/1K1Q4/3p4/3Np2p/2Pk4/3P4/n1P5/8 w - - 0 1,3,Hans Ulbing
+fb278770,8/8/7N/4p1p1/NP2p1p1/4k2b/1R2B1p1/6K1 w - - 0 1,3,Efrén Petite
+549d8478,8/8/1pK5/1P6/3Pk1PP/2Q1n2P/4P3/8 w - - 0 1,3,György János Andor von Spóner
+b84a0991,6Q1/8/3p2p1/pr5p/2pR4/2B4q/K1p5/2k5 w - - 0 1,3,Josef Pabouček
+b351b753,b1N5/1n6/8/2PBk1P1/4P3/2np1p1P/1Q5K/8 w - - 0 1,3,Maximilian Feigl
+b0b5449d,7N/3pN2p/8/3Pkpnp/p1K1p3/5pP1/1p4RB/1Q5B w - - 0 1,3,Konrad Erlinger
+125470c6,2Q5/2pB1p1K/np1p4/8/r3k1N1/bq1p1p2/1r1p1p2/3N3n w - - 0 1,3,Bohumil Štípa
+0b0532ea,K7/1p3Q2/3k1p1p/1PpN4/pbp1n2B/r1P5/2p5/6Rn w - - 0 1,3,Thomas Charles Donald Ricketts
+f4c7f311,8/8/8/4p3/4N3/5K2/6B1/6k1 w - - 0 1,3,Валерий Алексеевич Иванов
+4b6aa378,8/8/6p1/1pB1k1P1/1Kp3B1/4N1P1/4PN2/7b w - - 0 1,3,Wilhelm Karsch
+1f3f1675,3N1r1N/1P2PP2/3P3p/Rp1B1k1P/p2p4/5ppP/5p2/2Kb1Q2 w - - 0 1,3,György Bakcsi
+2351d662,6Q1/r1p3p1/1pB1p2r/1p1N1b1p/1Pk4n/P1P2P2/1K1PP1n1/8 w - - 0 1,3,Виктор Владимирович Кичигин
+d4f7203c,8/4RK2/5Pp1/3B2Q1/2pPr3/2P4p/7p/1q5k w - - 0 1,3,Alfred Ernst Sutter
+769ab80f,1b1R2B1/1p3r2/2PpbPN1/2pk2n1/2RN4/BP3P1n/1P5p/2K2Q2 w - - 0 1,3,Андрей Яковлевич Лобусов
+24efd0ca,nb2R1K1/p5P1/3q1k2/3p3p/2p2P1N/7B/8/2B5 w - - 0 1,3,Josef Johann Breuer
+b47ab09a,8/K5p1/4p1Pb/3k2p1/1p2N1P1/3P4/6B1/Q7 w - - 0 1,3,Konrad Erlinger
+d2f30ae1,5b2/3K2p1/6pp/3k4/8/2pPP3/8/6Q1 w - - 0 1,3,Karel Peter Traxler
+cd544e6f,2Q5/K1p1N3/2pk2p1/3N4/8/3pB3/8/8 w - - 0 1,3,Julius Zdeněk Mach
+9924cdf5,3N4/4p3/3p4/1K1kp3/1p1bp1P1/1N4Q1/4P3/7R w - - 0 1,3,Josef Kling
+e96864d7,3k4/3Np3/3NQ3/8/n7/8/8/4K3 w - - 0 1,3,Karl Junker
+2ec4c264,8/8/8/1K6/B7/6Q1/3Nkp2/8 w - - 0 1,3,Николай Александрович Коблов
+cf6f069d,2R3Qn/5p1p/1P2bPp1/5kP1/n2P1N1P/5p1K/5N2/2B5 w - - 0 1,3,Ralf Krätschmer
+4174b117,8/2Q5/2bK1N1B/2P5/1n1k4/3P4/3R2n1/8 w - - 0 1,3,Анатолій Григорович Василенко
+e86b6c41,2N1b2N/2n2p2/3R1P2/2p1k3/P1p3PB/2p1P1K1/2B4P/8 w - - 0 1,3,Imre Regős
+a66e5307,7K/1n6/7Q/p1pkP3/8/2P4p/P4P2/1B2R3 w - - 0 1,3,Lambertus Adrianus Kuijers
+00117a4b,8/8/6p1/5B2/5n2/6np/2K2P1k/3QN1rr w - - 0 1,3,Андрей Степанович Былевский
+119a51b3,7k/8/5PB1/3p1K2/p1PRp2p/4R3/b7/8 w - - 0 1,3,Vladimír Pachman
+1644d3d6,1k4n1/p3p3/pPK1pp2/8/2p1Q1p1/5p1b/4P2b/8 w - - 0 1,3,Carl Schlechter
+bda8d369,7n/8/1R2N3/3k4/6pP/3K2p1/4P3/8 w - - 0 1,3,Edvard Johannes Gabriel af Hällström
+1bd63725,1rnb1N2/7p/1p1P2pP/Np2k1P1/1P2P2p/4pB2/1n2P2K/2Q5 w - - 0 1,3,Carl Emil Richard Lindquist
+ad5710da,8/2N3b1/5nK1/8/kPQ5/1p6/8/5B2 w - - 0 1,3,Vilém Kijonka
+ed439023,2K5/1R3P1p/P1kB1b2/p4r1q/Pp3P2/nPnQP2B/3pN1b1/2rR4 w - - 0 1,3,Salman Cavadzadə
+4812d7d7,8/4p3/4P2R/4N3/2P3N1/3P2k1/8/KBB5 w - - 0 1,3,Karl Fritsch
+a9fd2287,3B1n2/2b5/2p2Rp1/2Qbk3/1p6/7K/3PP3/8 w - - 0 1,3,Joralf Grande
+3feaf78b,K1R5/1Q6/8/8/p7/8/B7/k5r1 w - - 0 1,3,Jindřich Fritz
+c538ae81,2B5/7p/8/4K1R1/7k/7N/5P2/8 w - - 0 1,3,Михаил Александрович Чернушко
+eb9bf356,NKR5/8/pp2n1p1/k4pQ1/Pp5B/6p1/1N6/7b w - - 0 1,3,John Ormerod Scarlett Thursby
+c2ffc65e,6n1/B2Q1r2/1NpP2p1/2k3pp/K2r4/2pp1N2/1p6/8 w - - 0 1,3,Rudolf Solarczyk
+92ca1cd0,B3KR2/4Qn1r/1p1p4/1R1p3p/2nk4/1Pp1r3/2P5/4N1Bb w - - 0 1,3,Joseph Jean Louis Marie Opdenoordt
+2c257d5d,8/1B1p4/3P4/p4P1K/p2k4/P7/3B4/1Q6 w - - 0 1,3,William Johnstone McArthur
+c5c9ad7c,6Q1/2B2p2/5rn1/1NpPP2N/4k1P1/r1pR4/3P1Pnb/5B1K w - - 0 1,3,Franz Pachl
+5b80f868,8/2pQpNn1/Kb2pB1R/1P3kp1/2PPN1RP/pp1r1P2/2qP4/7n w - - 0 1,3,Walther Martinus Johannes Jørgensen
+c111425c,BK1R1R2/BN4p1/P3p2p/1pp1kbp1/4n3/5PP1/r2p4/7Q w - - 0 1,3,Antonio Piatesi
+1893cbef,8/1B6/7K/p1P5/p2PN3/p2kp3/2N2p2/1Q4b1 w - - 0 1,3,Кирил Н. Стоянов
+4bd77390,2b5/6p1/nK1PpP2/R5b1/N1k5/PNpp4/B1pP3Q/4q1n1 w - - 0 1,3,Миодраг Младеновић
+098c5266,r3kB2/Ppb2R2/p2p1R2/P2Pp3/2n4K/8/8/3B4 w - - 0 1,3,Бошко Милошески
+d604b7c7,R1K1B3/1p6/1k1N1p1q/2p3r1/2R4p/B2p4/3n1b2/8 w - - 0 1,3,Manfred Mündel
+3b75d6ee,Q7/8/2p5/3N2P1/3kP3/1K6/2P2P2/8 w - - 0 1,3,José Tolosa y Carreras
+58f1f440,K7/N7/q7/k7/b7/n7/Q7/B7 w - - 0 1,3,Joseph Ney Babson
+fcf53598,3K4/2p1p3/1p4Qn/P2kb3/1B6/3Bp3/4P3/5b2 w - - 0 1,3,Ladislav Vetešník
+5a92d678,8/3p3p/5b1p/3RpkpB/3p1N2/5p2/Q4B2/5K2 w - - 0 1,3,Franz Xaver Patzak
+f6f81133,6nK/5p1b/2pB1p1p/2p4B/r2pk2P/6RQ/qn1P1Pp1/3r4 w - - 0 1,3,Лев Ильич Лошинский
+8eb54c08,1B2Q3/6pK/3NP3/2P1kp2/1p2B2P/b6p/r2ppP2/6n1 w - - 0 1,3,Fridtjof M. Godager
+1e81d1ba,8/2p5/1pk2K2/2BN4/8/3B4/8/7Q w - - 0 1,3,Александр Николаевич Мельничук
+f995f96a,4Nn2/1p1r4/1KP5/3kpR2/2p4R/2ppPP1n/4P1N1/2b5 w - - 0 1,3,Stanislav Juříček
+aaf7a400,1Q4R1/4pp2/2P5/2p3P1/n1p1k3/8/2K1NpP1/5N1n w - - 0 1,3,Johann Nepomuk Berger
+43755064,2nn2R1/2RQ1p2/p2Ppr1p/1rN2kPN/3PpP1p/1b5P/7K/5B2 w - - 0 1,3,Lennart Larsson
+d6993033,8/7b/2p3p1/4p1P1/p2bP3/1PpN4/P1Q3K1/k7 w - - 0 1,3,Per Henning Artur Hemmingsson
+f10a01cd,6N1/3p4/3k2p1/2RP4/1P4P1/3B4/6N1/R6K w - - 0 1,3,Frank Healey
+27c7bde7,3B3b/5K2/2BNp1pp/2P1k2p/b1P1N3/1p1pPp2/7P/1r5r w - - 0 1,3,Norbert Ringeltaube
+0f094fd7,7b/6k1/5R2/8/3Q4/8/8/K7 w - - 0 1,3,Miroslav Svítek
+a01eb331,5Q2/1R6/3pP2B/3ppN2/4k1BK/b2pNpp1/3P4/2r3rb w - - 0 1,3,Геннадий Петрович Игнатенко
+c702622a,n7/2p1K3/2R5/3Nk2p/1p5Q/1p1bP3/3b4/q1n5 w - - 0 1,3,Nicolo Sardotsch
+47f673bd,8/6pQ/2P3p1/1PBk1P2/P3R3/7p/4P3/K7 w - - 0 1,3,Jakub Sova
+d81a1da9,4n3/3K4/3R2B1/6B1/4NPk1/5b1p/4r1r1/3Q1N2 w - - 0 1,3,Даниил Якимович
+8b6e42fb,8/3K4/1Q4Rp/p7/5kN1/8/3PpprP/2b1rb2 w - - 0 1,3,Ignaz Ernst
+9b965bc7,8/8/4N3/Rp1PpP2/nPk1P3/P4K2/8/B1NR4 w - - 0 1,3,Alex Casa
+5b8dcf4c,3K4/R1p1p3/2k3N1/P1p2p2/2P3bN/8/3R3b/4r3 w - - 0 1,3,Erkki Aukusti Wirtanen
+250df8a3,4B1K1/6Np/4N3/8/1ppP3k/6rP/2R3P1/rnb1B3 w - - 0 1,3,Josif Michailowitsch Kricheli
+7d9f7d20,r1b1K1BN/pp1ppp2/6p1/8/2Q4P/1PP3Pr/P1pPPP1p/1RRN2k1 w - - 0 1,3,Léon Loewenton
+8d7d8aec,8/4K3/5N1k/8/7P/RN6/8/8 w - - 0 1,3,Владимир Михайлович Воронин
+e33b7eb7,3KRB1k/3pRb1P/2pp4/2p3p1/4p3/1p3q2/5p2/5Q1n w - - 0 1,3,Josef Burda
+ae001a98,Rn6/np1p4/1QpP2N1/1PPk1BP1/6PB/1Pp3p1/2N3Kb/8 w - - 0 1,3,Сергій Іванович Ткаченко
+a19fc0b1,4BQ2/7p/8/P3k2N/8/8/4P3/2K5 w - - 0 1,3,William Timbrell Pierce
+1f1ee9ca,k1K5/8/8/5n2/8/8/1P1R1B2/8 w - - 0 1,3,Otto Georg Edgar Dehler
+35ff7e19,3Q4/8/1P1K2p1/8/6P1/5p1p/5Ppr/4R1Bk w - - 0 1,3,Niels Rutberg
+44bbc193,3N4/1B1b2B1/1nn1p2N/2Pk4/3b1p2/P2R1P2/1p1PK3/1Q6 w - - 0 1,3,Viktor Holst
+ab2e094f,8/8/8/3N4/3b4/1K6/2P5/kn2Q3 w - - 0 1,3,Friedrich Bethge
+0f6e70b6,8/1Kp1B2Q/2B5/7N/8/5p2/1R3bpk/8 w - - 0 1,3,Niels Høeg
+90b5349d,8/K4p2/1Q2p1r1/8/3BkNp1/2P3P1/2n4n/8 w - - 0 1,3,A. Z. Huggins
+c3df8217,2b5/8/2R3p1/5kp1/5b1p/1p2p3/1B1p3N/1K1Q4 w - - 0 1,3,Hieronymus Fischer
+6096dda5,kbB5/qb2N3/1p6/1P6/8/R5B1/8/Q5K1 w - - 0 1,3,Леонид Григорьевич Искра
+63efd3dc,nN2R3/5p1Q/8/p7/3kB3/N6p/K7/6n1 w - - 0 1,3,Walter Gleave
+b64d971c,1B1N3n/K2Pp3/1P4p1/3k1p2/N1ppr3/p4Q2/p1PP2BP/1n1R4 w - - 0 1,3,Camillo Gamnitzer
+05709627,1B6/8/Q7/6Kp/4k3/8/3P4/8 w - - 0 1,3,Андрей Николаевич Дикусаров
+ff91391d,8/8/8/2KB4/8/8/1p1B1p2/1N1k1N2 w - - 0 1,3,Микола Олексійович Пархоменко
+3856c649,3rn3/Qbp4N/r6p/pB1p1p2/K2pkBRq/3pNp2/5P2/6n1 w - - 0 1,3,Валентин Володимирович Лук'янов
+a4548162,8/p7/2p2R2/n1Rpk2N/2Pp2pK/3Pp1P1/1NQ5/2n4b w - - 0 1,3,Tibor Érsek
+99b990b5,1k6/2pB1N1b/1pP2p2/2p1BP2/2P3R1/R4p1r/K4Q2/8 w - - 0 1,3,Theophilus Augustus Thompson
+7975c139,4k3/2K1P3/6N1/N6R/8/5B2/8/8 w - - 0 1,3,Klaus Peter Hoffmann
+37402280,1b6/6K1/1NpP2N1/2p5/P3k1P1/1pP5/1P2BP2/8 w - - 0 1,3,R. H. de Waard
+3b29e490,2N5/2p1B1pK/2P1p3/Np1kp3/1P1bRn2/4nQ2/2b3B1/8 w - - 0 1,3,Štefan Sovík
+28fb2d66,N3N3/8/p3P1q1/P1kP3p/R1P2P1P/2B3P1/5p1K/5B2 w - - 0 1,3,Helmut Zajic
+4b63274f,2K5/5R2/2k5/6Qp/3q4/7R/8/8 w - - 0 1,3,Cyril Henry Stanley Kipping
+7bd21582,2b2r2/4p3/3bp1N1/Q3pkPP/2np3K/1P1n1PR1/1q1p1pP1/8 w - - 0 1,3,Віктор Олександрович Мельниченко
+23662e6d,8/3Pk1N1/8/4P3/1K6/8/8/2Q5 w - - 0 1,3,Володимир  Михайлович Чорноус
+267b8075,5R2/2Np2p1/p2rp2q/K1B1k3/n1Q3P1/N1np2P1/2P5/b3r2b w - - 0 1,3,Martin Wolfgang Hoffmann
+9b3a6112,8/p7/Q2p4/3k4/3Np3/1P1p4/1K1R4/8 w - - 0 1,3,Thomas Sexton
+a42cd9f6,8/8/K3Q3/8/8/3k4/2p1R3/b7 w - - 0 1,3,Євгеній Михайлович Богданов
+6db4eafb,b7/4Q3/Bp1p1p2/1r3N1K/2kb1Np1/P1p1p1Pp/2P5/3q4 w - - 0 1,3,Laimons Mangaļis
+49a00e5c,3R4/4K3/4QPp1/1pp1n3/2n1k3/2P1p1PP/4B3/8 w - - 0 1,3,Fritz Emil Giegold
+d49c1ca9,n4R2/2p1Kpp1/r1p5/3PkBBb/3Np3/2P1N3/3Rp2n/r7 w - - 0 1,3,Michael Schreckenbach
+e99b728f,4N3/3p4/2pp4/r1Bk2Kb/3P3Q/p1p5/P3P3/2rn4 w - - 0 1,3,Antal Miskolczy
+67d6a161,K2kB2r/N4R2/1p1p1pP1/3p4/6b1/3Q4/1n4n1/b7 w - - 0 1,3,Antonín König
+f697ca73,8/3K4/1p6/2pk4/5P2/2P1pP2/bP1pP3/7Q w - - 0 1,3,Александр Иванович Шошин
+6d655ad0,1R2N3/4p3/2k1PpRp/2p2p1r/2P1r2P/1K1N4/7p/6bQ w - - 0 1,3,Зиновий Маркович Бирнов
+8f38f2e9,7b/pKN2p2/1p2P3/6p1/1Pk5/1R3N2/2P1pQ2/3rr3 w - - 0 1,3,Ігор Петрович Ярмонов
+8bc989a8,6r1/1Q4p1/5P2/8/3B4/2P2P2/4PR1P/2K2Nk1 w - - 0 1,3,Карл Артур Леонид Иванович Куббель
+43473341,8/3N4/5R1n/8/4k3/8/B1PK4/8 w - - 0 1,3,Владимир В. Никитин
+1a52bbfb,8/p7/PpR5/2NkP3/3p1Pp1/p2B2N1/P6K/8 w - - 0 1,3,Дмитрий Васильевич Кларк
+44f1a00a,2n5/5K2/6R1/1p1k4/1B3pB1/1P3N2/3P2n1/8 w - - 0 1,3,Frederick William Lord
+331842d1,8/8/3pk3/3N3P/4K3/8/8/7Q w - - 0 1,3,Николай Николаевич Акимов
+b082ff04,8/4Qp1b/Kp6/p2p4/2kp2rn/7r/1P2P3/N1NR4 w - - 0 1,3,D. Harry Rosenkilde
+be5eda4c,5K2/B4Bp1/RN4pb/4p1kp/4P2p/2p4P/2p1P2P/2N2R2 w - - 0 1,3,Walter Grimshaw
+446805e5,1B6/7B/1N5p/3P2kp/5R2/b3pP2/4K3/8 w - - 0 1,3,Arthur Cyril Pearson
+26d41b4c,7n/p4p2/P4Kp1/pkPN4/4B3/1Np5/3p4/3Q4 w - - 0 1,3,Birger A. Knudsen
+e05dfa2b,n2KQ1b1/1p3p2/8/2kB4/1pNp4/1p6/1P1B4/8 w - - 0 1,3,Václav Císař
+32fb2cf8,b7/2N1R1b1/2pP4/Q1PpP3/1ppkP3/2rp2N1/2nP1P1K/1n6 w - - 0 1,3,Peter Sickinger
+a730a370,8/8/3Q4/2ppp3/3k4/3N4/3K4/8 w - - 0 1,3,Charles Caldwell Moore
+e3d844a5,Q7/3B4/8/4k2P/4N3/K7/6P1/8 w - - 0 1,3,Виктор Сергеевич Колпаков
+2a6fc835,2R3B1/NnP5/p2k2K1/1P4BP/r2P3r/P5p1/1P1N1p2/n2Q2q1 w - - 0 1,3,Володимир Григорович Саміло
+ed818f4c,4K1BB/2p2N2/2p1kPp1/P5p1/4P1R1/5nN1/1bPp4/1r5b w - - 0 1,3,Radu Drăgoescu
+e77de802,6n1/1N2p3/4p2p/p7/2Pk1B2/6P1/K1Q2P2/8 w - - 0 1,3,Godfrey F. Heathcote
+5c004cd5,K3N3/8/1PnP4/B6N/Pp1k2P1/1pR2B2/1Qp1p3/4r3 w - - 0 1,3,Leonid Makaronez
+e6eff17f,4N3/5bp1/1P4p1/P2k4/B3R3/4BN1P/2P3K1/8 w - - 0 1,3,Ferdinand Schindler
+ee1a019e,2N1n3/2p5/2Q5/k1N1p3/2nP4/2n5/1P6/K7 w - - 0 1,3,Josef Salminger
+913fd04b,K1bR4/Pprn2p1/1Rpk2P1/Pp4Q1/1p5p/1B4rp/3N1n1B/8 w - - 0 1,3,Walter Eiche
+03534d4b,8/3B4/3k4/Q2N3K/8/8/8/3N4 w - - 0 1,3,Владимир Павлович Шумарин
+36bde306,2K2b2/2PB1pN1/3p1P2/n1PkpP2/8/3PQ1n1/N1P1p3/B2bq3 w - - 0 1,3,Венелин Алайков
+10a302b5,8/1b2p3/1Qp4B/K4PrB/p4k2/2P1p1N1/5p1p/5rb1 w - - 0 1,3,Alexander Goldstein
+048c72d0,1n6/5K2/8/5p2/8/1Q6/8/kb3N2 w - - 0 1,3,Nils Adrian Bakke
+4146b2ba,8/5p2/1N1KpP2/pp2N3/3k4/5P2/3P4/b1B5 w - - 0 1,3,Юрий Александрович Жарков
+7bec58b8,4K2B/pp1B1p2/bR1P1P2/1P2k3/7N/1p4P1/rnPP4/7Q w - - 0 1,3,Карл Артур Леонид Иванович Куббель
+bb7fb878,8/1K2p3/N6B/k7/P2p3p/1P2p3/8/4b3 w - - 0 1,3,Eero Johannes Saarenheimo
+1aeaa59b,3B2bK/R2R1p2/1p2k1B1/2pppr1p/2nPrp2/n2N1NP1/8/2Q5 w - - 0 1,3,Анатолій Володимирович Світильський
+0275e492,k7/1q6/8/3Rp3/8/3Q1R2/8/7K w - - 0 1,3,Ангел Златанов
+7477b1a9,1n6/2N4p/2p1R2r/R1P1pP2/3rk1P1/1B1p4/1K1Bp3/Q3N3 w - - 0 1,3,Aleksis Richard Rurik Rautanen
+75b25894,8/3K4/2P5/2NkNP2/1pRPR3/1p3p2/1Br1rp2/1Q1b1B2 w - - 0 1,3,Vilmos Schneider
+fb0a115f,7n/1B1K4/5p2/1Np1kp2/R7/8/3b2N1/8 w - - 0 1,3,Sámuel Gold
+1261f3a2,5KQ1/1p1p4/p7/1N1Np3/k7/3RP3/5P2/8 w - - 0 1,3,Emil Palkoska
+a67c2bc1,5K2/4B3/1N2NP2/3Bk3/2ppppP1/1pr3p1/2b1p3/4b3 w - - 0 1,3,Walter William Jacobs
+55d59041,8/3p4/1p1N4/b2K1p2/1pR2P2/3k4/3p1P2/2nB4 w - - 0 1,3,Ludwig Immanuel von Bilow
+12f52e6e,8/2b2r1B/7p/5p1N/2N5/3P1k2/3Pp3/4B1RK w - - 0 1,3,Александр Ильич Сыгуров
+7b6305d5,8/8/2Q5/4N3/6p1/7p/5p1k/5K2 w - - 0 1,3,Samuel Loyd
+3fcba406,2R4n/k3p3/p1P1p3/p1K1P3/2P3p1/2P5/3PP1p1/1b4Q1 w - - 0 1,3,Emil Palkoska
+44b06699,8/8/8/R4Nn1/3pk3/3N4/1R2K2b/8 w - - 0 1,3,Edvin Alexander Ekholm
+b26c58c2,3RQ3/3N4/8/2P5/1K1p4/3k4/3p4/N7 w - - 0 1,3,Johannes van Dijk
+2e62d13c,8/8/3K4/p6R/8/3B4/2PkP3/1Q6 w - - 0 1,3,Миливој С. Нешић
+e00052a2,r2k4/1b1P4/p3Qp1B/3p4/8/3p2r1/6p1/6K1 w - - 0 1,3,Григорий Степанович Гамза
+b686fe89,8/5p2/2Q4p/5k1P/8/6B1/8/5K2 w - - 0 1,3,Gerhard Kaiser
+fc6f05cd,8/8/5p2/2K4p/2B3kP/3Q4/8/8 w - - 0 1,3,Анатолий Викторович Стёпочкин
+2975d55f,6B1/p7/2Q2Kp1/2pP4/1p1kbN1R/3P4/Nb1n1qr1/n3R1B1 w - - 0 1,3,Virgil Nestorescu
+bb5ff072,8/B4KQ1/P2p4/3k4/6p1/1P6/6b1/8 w - - 0 1,3,Bohuslav Mikyska
+3db8d0c0,2Q5/1p6/4p3/3N1p2/1B1k4/2N3P1/8/5K2 w - - 0 1,3,Leonard Nicolaas de Jong
+f483e712,8/5p2/5Kbp/1ppPB1p1/2P3Q1/N2k1PP1/1Ppp1Pp1/3rn1N1 w - - 0 1,3,Johann Christoffel van Gool
+80c47ec5,3Bb3/3p3r/R6p/1k3N2/R2p2p1/3Pp1P1/4K3/8 w - - 0 1,3,Robert Braune
+0ebd4e6a,8/4Q3/2P1N3/1N2k3/1KP3pr/2P5/7n/5n2 w - - 0 1,3,Ottmar Weiß
+b9a53e1a,K7/2k3p1/1p4R1/8/8/8/3R4/8 w - - 0 1,3,Werner Speckmann
+f94321a7,5b2/4p1p1/p2pR1P1/P2R4/3Pn1P1/2pk1BPp/P1N4P/2K5 w - - 0 1,3,Paul Wenman
+17cd33cf,8/5pN1/2K3p1/1B6/1p2kBR1/2p3Pp/Q3N1b1/3rb2r w - - 0 1,3,Brian Harley
+4bacf45e,1R2B1QK/p2N2p1/k7/p2p4/p7/1p1nn2b/8/5q2 w - - 0 1,3,Vladimír Pachman
+52c0689c,1b5B/n2p1B2/3pb3/1p4Rp/1P1pk3/R5P1/N1P3P1/4K3 w - - 0 1,3,Николай Семёнович Иванов
+49b05b89,7B/6Q1/1k1p4/1B6/P7/2p5/8/2K5 w - - 0 1,3,Siegfried Magner
+f42f4a14,2b5/8/4p2K/6Q1/4p2p/pq6/3RB3/k7 w - - 0 1,3,Владимир Петрович Исарьянов
+b437f0bf,8/8/8/8/1KB5/6p1/1k6/N4R2 w - - 0 1,3,Микола Васильович Чернявський
+8c32fee2,3k4/3P4/3Q4/8/p7/2p5/p1p5/rbK5 w - - 0 1,3,Werner Speckmann
+f9ac06dc,bb1R3B/1P2p3/1P2k1B1/r2Rp2p/N7/3r4/1QNP3p/7K w - - 0 1,3,Сергій Олександрович Шедей
+90d976c0,6Q1/1b6/p1p5/2p3N1/3ppnRp/7B/K7/7k w - - 0 1,3,Miroslav Havel
+6a9bb018,1Q4B1/3N4/3n4/3PB3/4k1p1/2P3P1/p7/K5N1 w - - 0 1,3,Émile Léonard Pradignat
+7d4467ad,2K3n1/Q2R4/n1P2P2/r1pN2p1/2p1kPP1/2P2bpP/q1P2R2/2B2B2 w - - 0 1,3,Євгеній Михайлович Богданов
+d6848ab9,8/p2r2p1/3pp1BQ/K2bk1nN/4npr1/BNp2p2/Pb6/3RR3 w - - 0 1,3,Evgeni Bourd
+85fc39a1,8/6p1/1p4N1/1N1p1P2/2P2P2/2RpkB2/6P1/4BK2 w - - 0 1,3,Аркадий Иванович Ярославцев
+b7fccdbd,8/5B2/Kp6/nP5N/4k1p1/QP3N2/2pP3p/2rn4 w - - 0 1,3,Johan Axel Åkerblom
+4465a6a6,1b6/4K3/3N2b1/4kp2/2P5/B2BP2R/5r2/8 w - - 0 1,3,Дмитрий Кириллович Каноник
+769d2106,8/8/1Q2B3/3Nk3/2p5/8/3P2p1/6Kb w - - 0 1,3,Wolfgang Pauly
+49c384eb,b7/8/8/3p4/1pp5/8/7p/2Q2Kbk w - - 0 1,3,Josef Halumbirek
+39497501,8/8/8/p7/K4Q2/8/1kN5/Rr6 w - - 0 1,3,
+7fe056eb,4Q3/8/8/2p5/2K1B3/1p6/p7/k7 w - - 0 1,3,Николай Филиппович Власенко
+c51b028d,n7/3B1p2/1q2rP2/1N1kP2R/3N2Q1/P1p2pP1/1PP2P2/4K3 w - - 0 1,3,Róbert Kintzig
+b9b5e120,5K2/6P1/6pr/7k/8/6nB/3Q4/8 w - - 0 1,3,Frank Bradley Phelps
+04a68271,3rn3/b4b2/1p5R/3p1p2/Q7/7K/pp2B3/k7 w - - 0 1,3,František Zedek
+34c9b385,1Q6/p7/8/3kB3/B2p4/8/8/5K2 w - - 0 1,3,Алексей Евдокимов
+2fbc7ee7,8/8/6p1/6k1/6B1/6K1/6Q1/8 w - - 0 1,3,Pál Benkő
+62691050,4K3/p7/8/8/1k3B2/8/2Q5/8 w - - 0 1,3,Василь Вікторович Крижанівський
+f5b69044,1r6/1p3p1p/5p1p/1K5k/5RN1/2Q1P1np/8/8 w - - 0 1,3,Karel Sobek
+b3ee5e70,8/B7/8/Q7/2k3N1/8/3p2K1/3N4 w - - 0 1,3,Steven B. Dowd
+8ebc2bbc,8/1N6/2k2NK1/8/8/3P4/8/1Q6 w - - 0 1,3,David M. Howard
+bdfe7eeb,5K2/2p1pPQp/7P/N2kP3/p2Bp3/2Pp2p1/p4Pb1/8 w - - 0 1,3,Николай Константинович Малахов
+b75d4e44,1N6/Q7/3p4/3k2Np/7K/8/8/8 w - - 0 1,3,Константин Комаревцев
+ab60a3ff,4n1K1/2B2Q2/3N4/2p1kBP1/6p1/7b/1p4pb/8 w - - 0 1,3,Olaf Barda
+1b40574a,R3K1B1/2P5/8/8/8/3N4/8/Nk6 w - - 0 1,3,Erwin Moritz Herbert Guttmann
+6abb1e3e,4KN1b/7P/6P1/1P2kP2/4N3/8/6QP/8 w - - 0 1,3,Karel Kondelík
+6da1e0e1,1b6/4pK2/p2p4/Q5p1/P1k5/8/2PPP3/2n2R2 w - - 0 1,3,Julius Zdeněk Mach
+bea1cf4b,7B/8/7p/3pb3/7k/3Q4/2K1R3/8 w - - 0 1,3,František Hladík
+963b9bc8,3N1n1q/b3NB2/5n2/2P1p2r/2Ppk2p/3R1p1K/5P1B/3R4 w - - 0 1,3,Frederik Willem Nanning
+73c07086,3N4/3P4/3Q4/1pppppp1/3k4/8/2PPP3/3K4 w - - 0 1,3,Richard Steinweg
+396c9661,8/5P2/8/4p3/4k2p/7P/3Q4/2K5 w - - 0 1,3,Joseph C. J. Wainwright
+75cf95ba,5b2/4p3/7p/1R1kN3/P1RN4/7P/2b2PP1/7K w - - 0 1,3,Karel Musil
+65085fd3,6kq/5ppN/5QR1/1p4P1/1P6/8/1K6/8 w - - 0 1,3,Anton M. Dahl
+f48b62e3,3QR3/K7/n1Pppp2/2pNpNp1/R1r1k3/2p3pP/b3B3/n3B3 w - - 0 1,3,Emil Klemanič
+57382b0c,5R2/ppn1K3/3p1B2/3k4/2R2P2/4p3/BN4r1/6b1 w - - 0 1,3,Waldemar Tura
+ec8da107,kN6/rb1P4/N7/8/8/8/p7/K7 w - - 0 1,3,William Anthony Shinkman
+4ba4ceb5,8/bp2N1p1/3pp1K1/1p6/nRpBk1p1/r1p5/2P1N1P1/4R3 w - - 0 1,3,Сергей Петрович Абраменко
+f4181f3f,1K6/PppRPp2/2r1pP1P/4kpB1/1Npp1Rp1/n2r1b2/3N1n2/8 w - - 0 1,3,Hans Peter Rehm
+b11a5047,5R2/b7/1pQPp3/1n1NkbPp/1Bp2n2/r4pP1/3P1N1K/8 w - - 0 1,3,Leonid Makaronez
+069eecf0,Kn6/p1B5/4p3/1kp5/3R1p2/2R2p2/1p1P3Q/1B1r4 w - - 0 1,3,Constantin Schwede
+dca8ae7c,2q1B3/4P3/2pRR1P1/1Npb4/Ppk2bN1/p3Pp2/P1P1Pr2/1K2B2Q w - - 0 1,3,Donald A. Smedley
+ad63b394,1B1QR3/K2pb2r/Bp1r1P2/2pNp1pp/2P1k3/p1P2R1p/4PPN1/8 w - - 0 1,3,Johann Joseph Petrus Adrianus Seilberger
+0005c9f7,8/q1pK1p2/p1R2p2/3Pkp1r/1N1b1n1p/3Q3P/5P1B/2R3n1 w - - 0 1,3,Леонід Аврамович Любашевський
+e623bbf6,K3R3/2p4n/3k3B/3B4/7p/5Q2/8/8 w - - 0 1,3,Václav Císař
+542e0c1f,7n/6Q1/5n2/1K2k3/3R1p2/2P2P2/5P2/8 w - - 0 1,3,Emil Palkoska
+e54ad09f,8/1r1B2Q1/1p1q1r1n/1PPk1N1b/3P1b1n/3K2p1/8/8 w - - 0 1,3,Юлій Георгієвич Дорохов
+4ac8fa5b,3NkN2/4P3/8/8/8/8/8/R3K2R w - - 0 1,3,Борис Дмитриевич Пустовой
+33f74bda,2n5/pK4N1/2pp4/1P1k4/1p3R2/2pN4/brP1P3/8 w - - 0 1,3,Dawid Przepiórka
+965cc67c,B7/p5B1/3p2p1/r2P2p1/2p1knQ1/n1Rpp1R1/N1b5/K4Nbr w - - 0 1,3,Bengt Ingre
+ef3ca861,1B6/1B6/6p1/6p1/6Pp/K2Np2k/4P2P/2R5 w - - 0 1,3,Peter R. Jaeger
+1b5a026c,K2n4/1BB2pqb/p2Rpb2/p1k1p3/5r2/N5nQ/N7/8 w - - 0 1,3,Claude Goumondy
+f72fd8a2,8/8/8/4Q3/6N1/K6n/2kN4/8 w - - 0 1,3,Alberto Armeni
+f042b2b5,1b6/1p3p2/1p1pN3/1P2k3/1N4Qp/1nP4p/2P2P1P/7K w - - 0 1,3,Friedrich Meyer
+a4c252a8,4K3/2P5/4k2N/4p1p1/4P3/8/8/8 w - - 0 1,3,Andrés Clemente Vázquez Hernández
+48a98004,2k3K1/3R4/1pp5/1qb1p3/1Np2p2/3n3Q/7n/8 w - - 0 1,3,Jan V. Wenda
+ea42e7f8,8/8/KP1k2p1/1B4P1/4RP2/6N1/8/8 w - - 0 1,3,William H. Coates
+a660e47f,1br2qn1/1pN3p1/b3BpPp/r6k/3P3P/pQ2p1RR/7K/5N2 w - - 0 1,3,Baldur J. L. Kozdon
+94e3425d,8/2p3K1/8/3p4/2N1k3/6Q1/1R5n/1nN5 w - - 0 1,3,Miroslav Havel
+b0df6f36,8/6p1/1Nr5/pr6/3p2PB/1PpBk2p/2P5/5R1K w - - 0 1,3,Kenneth Samuel Howard
+d729205d,Kn6/7Q/4N1PP/p3P1Pk/1b2P3/3p3P/3p2N1/2rb4 w - - 0 1,3,Валерий Николаевич Карпов
+21aa6e3c,5B2/3K4/3N4/3k4/2pPp3/7P/3R4/3n4 w - - 0 1,3,Семён Семёнович Левман
+727b1bcb,KR2nB1r/2kp2p1/3p4/1nrR4/1N1b4/N7/8/5q2 w - - 0 1,3,Dieter Müller
+99c4c09b,4QB2/5p2/B7/3Ppp1K/2rkpN2/2p1R3/1n1nR2N/2r5 w - - 0 1,3,Александр Николаевич Панкратьев
+4683fba0,3n4/Q7/3pk1pN/3n2P1/8/8/2BPNK2/8 w - - 0 1,3,Николай Семёнович Терещенко
+09f57b25,k3K3/p4p2/N6n/6n1/3p1b2/1Rp1p3/2Q3pq/8 w - - 0 1,3,Alois Johandl
+cadbf2b0,Q7/bp6/4p3/2pP1pp1/P1N1k3/2K4p/2b1P3/8 w - - 0 1,3,Renato di Vincenzi
+8fa27d7c,7K/5p2/p5pn/8/BB4P1/PP6/P1k5/1R1R4 w - - 0 1,3,Kjell Einar Widlert
+8e4d1987,1r6/3Rp3/2R5/2B1p2p/4Qp2/1p5B/bK2n2p/4k3 w - - 0 1,3,Juri Jakowlewitsch Marker
+effea79e,8/pK4p1/8/r2p4/1p1kpP2/2NPp3/2P1B3/7Q w - - 0 1,3,József Kelemen
+4fd4e31d,1n6/1K6/p7/6B1/3p2N1/1p1Qp1R1/p7/bq5k w - - 0 1,3,Włodzimierz Suchodolski
+b77e9d2f,4N1Bn/2N1kr2/1B1p1pp1/8/Qp3P2/1K6/8/8 w - - 0 1,3,Rudolf Schwarz
+14400268,N1Q3B1/p5R1/P2P4/pPnn4/2krP3/K2p4/1R5B/4N3 w - - 0 1,3,Karol Mlynka
+fca12ae4,1K2R3/4b3/3n4/1pBB1r1p/3N4/R1r1PNpP/P1P2k1p/7Q w - - 0 1,3,Carel Johan Robert Sammelius
+b0c7476a,4R1N1/1K5p/1b1pPPPN/2p1k3/Q3p2R/1PP2pp1/3n4/5n2 w - - 0 1,3,Michael Herzberg
+d6eee9fb,1BnK4/3B1p1N/P2pR3/rnpkbpPb/p2p1r2/3Qp1P1/N7/3R4 w - - 0 1,3,Владимир Николаевич Рычков
+6d0d5611,8/4P2N/1B1P4/4k3/2K3B1/8/3N4/8 w - - 0 1,3,Alexander Henry Robbins
+08b607ba,8/Pbp1p3/2Pp3K/5p2/rp2kB2/1P6/3Q2P1/8 w - - 0 1,3,Julius Buchwald
+b8a2e1a2,2R3br/3p2r1/3Qp3/p2pK1p1/k4p2/N7/8/2N5 w - - 0 1,3,Poul Hage
+7dcedb54,3b4/3p3q/K2Bk3/1Q2P1pP/B7/2p1P3/2P5/6n1 w - - 0 1,3,Maximilian Oskar Alfons Kürschner
+b608867b,7K/5k2/5P2/6R1/4R3/8/8/8 w - - 0 1,3,Сергей Владимирович Радченко
+8a1246c0,8/K7/3p4/1pk1N1Qb/pR2P3/8/r2P2p1/r4n2 w - - 0 1,3,Josef Paclt
+c8f1245f,2r5/1B5q/r1R2p2/6p1/4nN1R/n3NkPp/2pP1P2/2KbQ1B1 w - - 0 1,3,Jacobus Haring
+8e41dac3,2N3QK/1p2B3/4N2p/4kp2/4B3/3p2P1/5P2/3b4 w - - 0 1,3,Jan Vašta
+1b90949c,5n2/8/3K1N1p/8/1Rpp1k2/8/b1P1P1Q1/8 w - - 0 1,3,Jan V. Pilnáček
+358d5739,5n1Q/2p5/2K1pr2/p1N1k1p1/3R2P1/1P6/5Bn1/1q6 w - - 0 1,3,Giuseppe Liberali
+5c18b209,1r6/1r4p1/5nP1/Q2pN2p/3BbK1P/2N4B/3n4/4k3 w - - 0 1,3,Luigi Dossena
+9259b1a1,1Q4n1/4P3/3R1r1B/RK1N1kqP/1p6/3P3P/5Pb1/8 w - - 0 1,3,Jacques Weber
+0bc8167c,8/1N1p3K/5QpB/2pr3p/2P1k1p1/1rR5/1P2n2q/1b1N1R2 w - - 0 1,3,Яков Георгиевич Владимиров
+06c50dea,8/8/2p5/8/3kN3/1Q3P1K/8/8 w - - 0 1,3,Владимир Владимирович Кожакин
+58bd8913,6R1/3r1r1p/Q1N1Nk1p/1p5P/nKP5/7B/3n4/8 w - - 0 1,3,Arthur Ford Mackenzie
+1f4f8f02,8/3K4/8/4k3/5N2/1Q6/8/R7 w - - 0 1,3,Степан Филиппович Демидюк
+25820a84,8/8/7P/8/3Q1N2/6K1/2k5/R1n5 w - - 0 1,3,Martin Wolfgang Hoffmann
+4f9c2ba7,6n1/3K2p1/3PPk1p/Q5pP/4P1p1/2p3rb/6nb/2B1Nr2 w - - 0 1,3,Рафаэль Моисеевич Кофман
+6cd1fedc,7K/4B3/4p2p/3p1k2/6p1/p2P4/3Rp1N1/2Q5 w - - 0 1,3,Richard Teichmann
+d235b125,7k/3p1B2/3R1P2/4K3/1p3p2/2p1pp2/2p5/nnb5 w - - 0 1,3,Ilja Mikan
+10a8212a,4K3/8/3p4/p2pkNp1/4P3/8/6P1/1Q1B3n w - - 0 1,3,Eduard Mazel
+c2060be2,N5Q1/3pR3/3np1N1/1p1R4/1Pp1k3/2B5/8/4K3 w - - 0 1,3,Karel Makovský
+fe8d9fd9,4B3/4p3/1R2b3/3kb3/8/1K6/8/4Q3 w - - 0 1,3,Theodore Morris Brown
+acb9d972,Q1n2R2/6r1/2p1R3/2P2N1p/3r2kP/3BB2N/pP4P1/K2bb3 w - - 0 1,3,Александр Константинович Калинин
+5ce15ad8,4k3/2p1P1p1/4K3/3p1p2/4b3/4N3/8/4R3 w - - 0 1,3,Gerald Frank Anderson
+0148f135,8/8/7N/2N5/2B5/5kP1/5B2/6K1 w - - 0 1,3,Віктор Миколайович Пилипенко
+35f5b98f,k7/p1b5/6N1/1Q6/8/3p3K/8/8 w - - 0 1,3,Геннадій Володимирович Козюра
+64431ed7,2k5/b1p2Kp1/b2R4/1p2N3/1p6/1n3Q2/8/q7 w - - 0 1,3,Виктор Иванович Вовнейко
+4f47a83c,8/6K1/5p2/nQ6/rNP5/Rq2P3/p1R5/k7 w - - 0 1,3,Vladimír Pachman
+3b9f7b67,2b5/3p1K2/5P2/4kp1R/1N1pNpp1/B6B/1n3p1Q/2r1R3 w - - 0 1,3,Lőrinc Bata
+4c929437,8/1K6/8/k1N5/8/P1R5/2P5/8 w - - 0 1,3,Paul Willmann
+0511c0d3,n1b5/1p3p2/1PB1kN2/5N2/1K6/2P3Q1/3pP3/8 w - - 0 1,3,Jiří Chocholouš
+0cec10c3,7k/3p1K2/5bP1/8/8/r7/R1P4p/1BB5 w - - 0 1,3,Georg Albert Becker
+f4d37731,b5N1/K4p2/p6r/1ppk1r1p/2ppN1B1/2b1p1B1/8/1Q6 w - - 0 1,3,Евгений Васильевич Фомичёв
+6cd9bd76,7N/R1p5/8/2K2kB1/2B2P2/2pPp2R/r7/b3N3 w - - 0 1,3,Francis Charles Collins
+f18d4421,2nb2Nr/p7/K1R1p2q/3pp1n1/4k1B1/4p3/5R2/BbNQ4 w - - 0 1,3,Григорий Сергеевич Атаянц
+9970211c,2b5/1p6/4k3/8/8/8/KB6/1B5Q w - - 0 1,3,Jan Smutný
+fe5fc3b9,8/2Np1pK1/5P2/1bP1kp2/7R/3Pp1P1/2n3nP/4bQ2 w - - 0 1,3,Лазарь Борисович Залкинд
+96546cc9,5Q2/8/8/8/1PNpk3/8/1K6/2N5 w - - 0 1,3,Wilhelm Karl Heinrich Maßmann
+84a21a00,2bn1k2/5p2/5B2/8/4Q1N1/8/4P3/5K2 w - - 0 1,3,David Thurston Brock
+bbe73c98,Q3K3/8/p7/k7/8/2N4B/8/4B3 w - - 0 1,3,Владимир Владимирович Кожакин
+bdf7f392,8/2p5/q1Pp2K1/Rb1pk1bp/3Nr3/4r1P1/5N1Q/BB2R3 w - - 0 1,3,Sándor Boros
+c4c5a8a5,8/6K1/1B1p4/1B1pkP2/1P2Pp2/5p2/2P2P2/8 w - - 0 1,3,Александр Васильевич Галицкий
+890daf32,b7/8/8/1Q6/7K/7p/8/5Rnk w - - 0 1,3,William Anthony Shinkman
+e15bd944,8/2Kp4/8/P4Q2/2k5/2B5/1P6/8 w - - 0 1,3,Eligiusz Zimmer
+afcdaa0e,n6B/Q2r4/1qp2R2/2n1p3/2P1k1PK/5N2/1P3PP1/2N5 w - - 0 1,3,Silviu Balcu
+e6034476,8/3N3B/2R5/8/1pPk3b/6p1/1P4P1/n2N1K2 w - - 0 1,3,Frank Melville Teed
+f244104a,8/pp5p/rrR1pp2/3kP2Q/1p1NR3/pK2p1b1/2P2P2/8 w - - 0 1,3,Jiří Chocholouš

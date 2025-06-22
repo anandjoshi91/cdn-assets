@@ -1,0 +1,1251 @@
+id,fen,mateIn,composer
+4f3aa6a9,7k/5KRb/5p2/7P/8/8/B7/8 w - - 0 1,4,Борис Дмитриевич Пустовой
+70266e85,4K3/8/8/8/8/8/p2R1R2/r3k3 w - - 0 1,4,Erich Anselm Brunner
+661c3208,1n6/3p2Q1/rp2P3/2p2k2/p1pP4/6B1/2P4K/8 w - - 0 1,4,Ladislav Cimburek
+5ca6e5f9,4B3/1p6/1P3B2/5P2/1p1Pp2p/1P2k2P/P7/R3K1NR w - - 0 1,4,Игорь Алексеевич Агапов
+c6864118,3B4/3p4/1R1P1NK1/qb1pkPp1/4Pp1b/2P3r1/2p1B2P/4Q3 w - - 0 1,4,Claude Goumondy
+7f76731c,8/8/8/5R2/8/4kP2/PPP5/4K3 w - - 0 1,4,Andrej Anton Uršič
+350ee934,NN6/pp6/8/8/8/8/PP3K1k/5R2 w - - 0 1,4,Федір Михайлович Капустін
+b2a81383,n7/8/8/5p2/8/8/7p/3B1Knk w - - 0 1,4,Владимир В. Никитин
+eb0d5657,3N4/8/8/2k1B3/K7/3P4/1P6/3R4 w - - 0 1,4,Wilhelm Karl Heinrich Maßmann
+17fca9fa,8/6p1/6P1/5P1k/2Kp3p/2N4P/8/2B5 w - - 0 1,4,Carl Georg Eggert
+2a9d4acc,K7/p7/P3p3/3k4/8/R1Q5/8/8 w - - 0 1,4,Євгеній Михайлович Богданов
+463ebe3d,8/2B5/1pbp4/5p2/3P1P2/1p1pNp2/1p1P1R2/brk2K2 w - - 0 1,4,Albert Volkmann
+93c8077a,8/1p6/4p3/8/k7/8/1PK5/2B1R3 w - - 0 1,4,John Carey Gardner
+c9763bed,b7/8/5p2/5N2/P1kB3Q/K1p5/2P5/5n2 w - - 0 1,4,Frank Healey
+f287bdc6,4Q3/2p3p1/p5p1/PP3PP1/1p1kN2p/6pr/3BP1Pb/5Kn1 w - - 0 1,4,Ferdinand Schindler
+e25d31a6,3R4/7p/P2B1P2/P2k2pP/3p3b/1P1P2p1/P3N1P1/2K5 w - - 0 1,4,Арвид Иванович Куббель
+44de9e5b,2B5/pN1p4/k7/N3n3/1Rp5/6K1/P7/3b4 w - - 0 1,4,Thorsten Zirkwitz
+054d8010,7K/1R5p/6p1/1Npk1b2/n7/1R2Q3/8/6n1 w - - 0 1,4,Miroslav Havel
+68224a06,4b3/2p1B1p1/8/2Pp1pP1/1PpP1PpP/2p1K1p1/2P1B1P1/4k3 w - - 0 1,4,Thomas Rayner Dawson
+efd53e71,k7/2R5/N1p5/8/2P5/B7/5K2/8 w - - 0 1,4,Анатолий И. Висков
+7591c7a8,8/kpK5/8/1P6/3P3B/7B/8/8 w - - 0 1,4,Александр Дмитриевич Тюнин
+f8c3d688,2k3K1/2P2R2/P2Pp2p/1p1p4/3p1pp1/1bp4n/3bN3/4q3 w - - 0 1,4,Владимир Петрович Сычов
+78683505,B7/r2p4/3P1p2/n3kP1N/Np4Q1/6b1/5P2/1K6 w - - 0 1,4,Jan Drtina
+23ead7f0,r1bq1k2/pp2n1b1/2p1pNQ1/3p2P1/3PN2P/1PP5/PK6/8 w - - 0 1,4,William Bone
+43a592da,4r3/2R3Qq/2PB4/p3nb1P/2pk4/2N2PR1/K1PP2p1/8 w - - 0 1,4,Яков Георгиевич Владимиров
+c0ac4ec4,8/1p1R4/1k6/1Pp5/R1P5/K7/1P6/8 w - - 0 1,4,Hyacinth R. Agnel
+7d5b1ba0,3n4/4bpQ1/3pp1bN/8/5pRp/1p2kP2/n3P3/4K3 w - - 0 1,4,Kurt Dittrich
+26912c8a,5K2/3Q4/8/4p3/4k3/8/8/2B5 w - - 0 1,4,Nikolaj Zujev
+975d961f,n2B3K/5BR1/2p1R2p/1br2k2/1N6/3pP3/N2P4/8 w - - 0 1,4,Hans Ott
+a50871fb,8/8/4p3/1K1k4/R4P1B/3P4/8/8 w - - 0 1,4,Patrick Thomas Duffy
+9fde67ba,1Q6/8/2k5/8/6K1/8/8/3B4 w - - 0 1,4,Heinz Brixi
+cb0bce89,8/2p1B3/8/4k3/2R2N1K/8/8/8 w - - 0 1,4,Геннадий Сергеевич Егоров
+dd3cc44a,8/8/8/2N1k3/5N2/8/8/5Q1K w - - 0 1,4,E. S. Brewster
+59fc5509,1R1nB3/p3r3/3k4/2R5/5Np1/2B2pK1/P4N2/8 w - - 0 1,4,Friedrich Capräz
+397168af,8/3R4/1p1R2p1/1PP1QpPb/PPPNpPp1/1Bp1k1P1/2K2n2/6B1 w - - 0 1,4,Werner Speckmann
+ffdb4bab,1Q5B/8/7P/2k5/8/5N2/P7/6K1 w - - 0 1,4,Adolph L. Decker
+1b151e99,8/2pB4/n7/3p2PK/3kP2p/8/3B2P1/1Q6 w - - 0 1,4,Bohuslav Přikryl
+bb6019df,2B4B/2Rp4/4p3/1NNrPk1K/2n4p/1bbpPP2/Q3Pn2/8 w - - 0 1,4,Сергей Петрович Абраменко
+03e151f1,kr5R/rp6/1K2P3/2P5/B7/8/8/R7 w - - 0 1,4,William Timbrell Pierce
+088bd03a,B7/6B1/2R5/3k3K/1b6/p4pp1/3p2b1/3N4 w - - 0 1,4,Vladimír Pachman
+0485b00b,4B3/6b1/8/2kN4/2NpPP2/3P4/4K3/8 w - - 0 1,4,Friedrich Chlubna
+4cb19a39,q3b3/5pR1/2pP1p2/1p2PN1k/6p1/b2K2p1/5PP1/8 w - - 0 1,4,Карл Артур Леонид Иванович Куббель
+69541329,2k5/8/2K5/5P2/2N5/6B1/8/8 w - - 0 1,4,Karl August Mörtzsch
+105b5ce0,1n6/2Q5/2p2p2/1pkBbR2/1p6/1P6/2K5/8 w - - 0 1,4,Дмитрий Васильевич Кларк
+06e9d312,8/3K4/3P4/2k5/1R6/B7/8/2N5 w - - 0 1,4,Wolfgang Pauly
+bf8ad112,2nN4/pN4p1/1P1b2P1/P2k3K/4R3/P7/1P4B1/8 w - - 0 1,4,Валентин Федорович Руденко
+fb17a588,1k6/5P2/2P5/8/2K5/8/8/8 w - - 0 1,4,Werner Speckmann
+d67826c4,8/8/8/8/p1N5/3K4/k1P5/3N4 w - - 0 1,4,Євгеній Михайлович Богданов
+bbc42f12,3N2n1/1p6/b6p/6b1/p2ppp2/r2Ppk1K/B3p3/4B3 w - - 0 1,4,М. Кузнецов
+0bb0118e,8/8/8/3Q4/3K1kp1/3P4/7P/8 w - - 0 1,4,Leonid Makaronez
+e7d4016a,8/8/5K1p/4p3/5kN1/4R3/4B3/8 w - - 0 1,4,Валерий Алексеевич Иванов
+18aeb256,8/1P3P2/8/2P4P/3p4/p1PKR3/2P1P1pP/R4nkb w - - 0 1,4,Peter Hoffmann
+00f43b82,4n3/N2NK3/1pP4p/b3p3/pkB4B/3Q4/5p2/3b3r w - - 0 1,4,Hans Vetter
+0cab2d16,5k2/3Q4/8/3B2n1/p7/8/1P4K1/8 w - - 0 1,4,Adam Uebeleisen
+28c98c5e,Br5b/1R6/p2ppr1n/6p1/6p1/2PP1kp1/NR3pN1/5K2 w - - 0 1,4,Knud Harald Hannemann
+7cbd40e6,Q4n2/1Kn5/B7/8/6N1/1p5N/pp3Rp1/6rk w - - 0 1,4,Adolf Herrmann Rudolf Ferdinand Kraemer
+4753bb99,6bn/5pNk/5PrP/4KB2/2p1p2B/7R/2pP4/2N5 w - - 0 1,4,Joselito Marcos
+f7850566,3qr3/6pN/PNQ2p2/3Pk3/R4nB1/3p2p1/4nR2/K7 w - - 0 1,4,
+dc2e6ca0,r6k/3R2p1/6B1/5p2/2Q3pp/3K1p2/8/1n6 w - - 0 1,4,Gerald Sladek
+5b811602,n6B/6N1/2P5/PPR5/1p1k4/2r1RB2/3p4/3n2K1 w - - 0 1,4,Jiří Chocholouš
+57110915,8/q2p4/bprp4/1p6/kB1P4/P1p1N3/2P1N3/3K4 w - - 0 1,4,Siegfried Brehmer
+1587f96b,2r4k/3Q4/8/8/8/8/2pB4/2K5 w - - 0 1,4,Виктор Сергеевич Жеглов
+4b6100b1,1Kb5/2p5/k1B1n1p1/r7/PpN1ppp1/3Pr3/5n1q/Q1N5 w - - 0 1,4,Ernst Baumgarten
+66ff21c2,5K2/5N2/5k2/8/5N1R/8/8/8 w - - 0 1,4,Claus Grupen
+226bc558,1BB5/R6p/5k1K/5P2/7P/8/8/8 w - - 0 1,4,Виктор Фёдорович Волчек
+3d86fa42,8/1N6/3R4/2p1k3/6K1/8/4PP2/8 w - - 0 1,4,Александр Васильевич Галицкий
+019ad989,1kN3B1/1P5R/8/K7/1Pppp3/6P1/6n1/1bB3b1 w - - 0 1,4,William Meredith
+3635e364,4K3/3B4/ppPQNR1n/2ppp1pr/2rNkpPn/1P6/b2PPbq1/8 w - - 0 1,4,Евгений Васильевич Фомичёв
+f3decb93,1BR5/4p3/7p/3k4/8/4K1PB/8/8 w - - 0 1,4,George James Slater
+45dd25bc,8/8/3p4/8/1K2k3/7B/5Q2/8 w - - 0 1,4,Ferhat Karmil
+ddd492f4,7B/b2K4/3N4/2pk1p2/2p5/2p1n3/r3P3/1b2N3 w - - 0 1,4,Jacob Elson
+7520ccbc,8/3b4/8/5Pp1/3P2pb/2pPp1p1/Q1Ppk1B1/1K1R1R2 w - - 0 1,4,Damien Grossi
+6cfb0ac6,B7/5RN1/3k4/2p1p3/1p3p2/7p/3B3K/8 w - - 0 1,4,Frank Genenncher
+1cbfc557,3K1k2/5P2/4P3/8/R2N4/4P3/8/8 w - - 0 1,4,Микола Васильович Резвов
+9fd08af7,3K4/3RNpp1/1p1p3p/4pp2/1P2kP1P/4B3/n2pBP1n/3r4 w - - 0 1,4,Wilhelm Krämer
+b17ada24,2K5/1Np5/2k5/8/5N2/3B4/P7/8 w - - 0 1,4,Владимир Михайлович Воронин
+6c2efd7b,3R2N1/7k/7P/6p1/3K2p1/6P1/5N2/8 w - - 0 1,4,Léon Guinet
+4727a1e6,k2B4/PN3Br1/2K3P1/1PP1P3/4P3/2q2p2/5P2/RQ3N2 w - - 0 1,4,Сергей Петрович Абраменко
+6507c22c,8/3P4/5P2/3PP3/8/4p3/p1K1P3/k1b5 w - - 0 1,4,Valerian Oniţiu
+818d5fd6,8/3R3b/6k1/8/5KP1/8/1B6/8 w - - 0 1,4,Григорий Степанович Гамза
+382da9ec,K2n2B1/8/8/5N2/4k3/n2N3Q/8/8 w - - 0 1,4,Camillo Gamnitzer
+5a429b0a,2q5/2np2nN/2pRbR1p/1Np4P/1bp1kPp1/1p2P1B1/4PP1K/3B4 w - - 0 1,4,Александр Ильич Сыгуров
+1ad29e37,8/3p4/K2P4/1Q6/P2kP3/8/1N6/B7 w - - 0 1,4,Николай Иванович Бантыш
+0dcedb46,2n3R1/2N5/8/4p3/7k/1K6/6P1/b7 w - - 0 1,4,Zdeněk Libiš
+5f020b83,8/8/8/p1p1p3/P1R4R/k1P1PN2/1p6/1K6 w - - 0 1,4,Johannes Minckwitz
+edfedf6b,8/8/7R/4k1p1/K3B1p1/6N1/7P/3N4 w - - 0 1,4,Микола Володимирович Кулігін
+54f617da,2nRn1R1/2Br3q/1p1N1P2/pPk1P3/K2p1pP1/1B3b1p/1p3NrQ/8 w - - 0 1,4,Рудольф Михайлович Ларин
+df4f761f,6bN/3B4/4npRP/3ppk2/5p1P/3PP1pK/7b/1rR3B1 w - - 0 1,4,Григорий Сергеевич Атаянц
+bd971de2,1b2N3/2p1nP2/1r6/PBk1Bn2/KNP5/R4P2/8/3r4 w - - 0 1,4,Darso James Densmore
+30049e02,8/2B5/8/3N4/N7/2K5/k1B5/8 w - - 0 1,4,Алёна Владимировна Кожакина
+17e93d93,8/1P1p4/2pP4/8/p3BP2/p1P1B2p/p5rp/K6k w - - 0 1,4,William W. Greenwood
+ec85a785,N7/8/8/8/7R/6k1/7R/K3N3 w - - 0 1,4,Franz Lustenberger
+122b4328,8/Npn2K2/p2B4/2PkpQ1p/r7/2bPp2r/2N5/6n1 w - - 0 1,4,Michael Herzberg
+184117da,8/3p3p/3P3B/rp1N1P2/p3P2p/b1NP1k1P/3P2R1/1b5K w - - 0 1,4,Bernhard Schauer
+6bc74a3d,8/1p3B2/8/8/1k2P3/8/RK6/6B1 w - - 0 1,4,Валерий Афанасьевич Кириллов
+5324bfb0,4K3/n2p1Q1p/b1pN2p1/2B1k1p1/3Np3/2p4p/1bB3rR/1n6 w - - 0 1,4,Walter Stooss
+19fa888a,3Q2nq/5n2/2R1R2b/1p1pNP2/1p2k1P1/6P1/2K2P2/8 w - - 0 1,4,Rudolf Weinheimer
+fd8241c0,3N1kNK/6p1/2B5/8/3pp2p/5r2/8/2B5 w - - 0 1,4,Franz Ferdinand Ludwig Palatz
+8e2e40e5,4R3/8/6r1/8/4N2p/4B2K/8/7k w - - 0 1,4,Dieter Walsdorf
+0e802eab,6N1/8/8/5k2/7K/8/1P1B3p/7Q w - - 0 1,4,Владимир Владимирович Кожакин
+3d48637a,3N1k2/1pr2p1K/5N2/8/8/p6B/3B4/8 w - - 0 1,4,George Nelson Cheney
+8f932505,8/3pk1B1/3N4/3KpP2/4P3/8/8/8 w - - 0 1,4,John Hugh Barrow
+c98bfb77,7B/p3Q2r/2RN4/3p4/1kB1P2q/8/KP6/1R2b1r1 w - - 0 1,4,
+08ffe6ee,1B6/1B1pN2q/nr1rp1p1/1p2k2p/3pNR1P/1n2P2K/3b4/2Q5 w - - 0 1,4,Crichton Milne Baxter
+33269219,8/3kb3/1K2N3/2P5/8/5R2/1BQ4q/1r2nr2 w - - 0 1,4,Napoleon Marache
+52bb9018,1bR5/2p5/RpP5/1P6/QP6/PP6/p1p5/kbK5 w - - 0 1,4,Adolf Herrmann Rudolf Ferdinand Kraemer
+e4e6c2a4,7K/3B2p1/5BR1/2P5/1P1P3p/1P5P/2Q3P1/k4r2 w - - 0 1,4,Frank W. Martindale
+a8381d99,1N5R/5p2/1k1N4/5P2/2pPp3/2P5/8/7K w - - 0 1,4,Karel Kondelík
+7f527925,1r5k/R6p/3pP3/5N1b/6Nn/1pp2P1q/2r2B1P/6K1 w - - 0 1,4,Joseph Dollinger
+ee5ae356,2n5/qbp4K/2pp1N2/p1k3pp/2BR2P1/P2P3N/2p1QPr1/b4n2 w - - 0 1,4,Maximilian Philipp Friedrich von Klett
+720001d1,8/r1pp4/p4R2/3kP1P1/KRp1NP2/n7/3PN1B1/1n1r2b1 w - - 0 1,4,Юрій Маркович Гордіан
+8ae2d491,8/5B2/2k5/2N5/2PR4/2P5/1K6/2B5 w - - 0 1,4,Геннадий Петрович Кардымон
+784383c2,r3k2r/p2pp3/4R3/2B2B2/p2K3p/1bpnp3/q6Q/8 w - - 0 1,4,Аркадий Иванович Ярославцев
+ad16ec52,K5n1/3R2p1/2p3p1/1pB3pr/b2Pk1NP/7p/5R1p/5BN1 w - - 0 1,4,Leonid Makaronez
+479869df,8/8/8/8/3pK3/p7/1k6/1N1Q4 w - - 0 1,4,Алексей Евдокимов
+8103570f,k7/8/K2B4/5n2/p7/3R4/8/7r w - - 0 1,4,Олег Павлович Сакс
+04362a70,6R1/8/2N2b2/3B2p1/6Pn/1Pp5/P1K5/k7 w - - 0 1,4,Gilbert S. Dobbs
+5c094922,6n1/2pp3r/8/8/k1P1R1b1/4B3/KPNP3n/8 w - - 0 1,4,Antonín Novotný
+98230b0b,5R2/B7/8/4p3/4k3/8/BK6/8 w - - 0 1,4,Ramutis Juozėnas
+a85e48b6,8/8/8/8/3p4/3kp3/1K4N1/4QN2 w - - 0 1,4,Петрашин Петрашиновић
+82ffdf7b,8/8/8/8/6p1/8/Q1P2Np1/4K1kb w - - 0 1,4,Dawid Przepiórka
+7a12929e,k7/1R6/1R6/8/8/7b/P7/6K1 w - - 0 1,4,Josef Kupper
+d105cb17,3R2KB/8/4k3/8/4P3/4P3/4B3/8 w - - 0 1,4,John James O'Keefe
+a79a0d99,Q3N1kr/3NK2p/2RP1p2/1n6/3q1p2/1p1BpP2/2rb4/8 w - - 0 1,4,Walter Grimshaw
+00859ce8,3R4/4N1p1/1p2p2p/4N3/3Pk1Pp/2p1P3/n4K2/8 w - - 0 1,4,Otto Bernard Wurzburg
+b21daffa,1KN1bn2/3p4/pp5R/4kp1p/1PB1p3/BP2p1P1/3p4/3n1RN1 w - - 0 1,4,Elmar Abdullayev
+52baee12,8/q1pQ4/r1P2k1p/p6p/p2rPK1P/2B2P2/2BP4/8 w - - 0 1,4,Henry Wald Bettmann
+2a25091a,6R1/8/4N2p/8/3P1P1k/8/7K/8 w - - 0 1,4,Виктор Сергеевич Колпаков
+47f66eab,5k2/1p3B2/1P4K1/3p2P1/3P2Pp/7P/5B2/8 w - - 0 1,4,Анатолий Викторович Стёпочкин
+f0856b21,4K1b1/8/4k3/2p5/2N5/5Q2/8/8 w - - 0 1,4,Michael Szabo
+9757b91c,5Q2/8/2p5/1p6/4k3/8/2K1N1N1/8 w - - 0 1,4,Miroslav Havel
+4c9cd99e,8/2N2kN1/5P2/5PR1/2K2P2/8/8/8 w - - 0 1,4,Bernhard Hülsen
+0379ac30,2Q5/3B4/3k3p/8/3K4/3p4/8/3b4 w - - 0 1,4,Валерій Володимирович Копил
+158a2325,8/4p2Q/8/1P4kN/8/2K2p2/5B2/8 w - - 0 1,4,Ludwig Fechter
+89798019,1n6/2N5/5b2/p3p3/k3p3/Pp4n1/1P4b1/K2Q4 w - - 0 1,4,Ottmar Weiß
+0090cc1d,1k6/8/bP4P1/8/8/4K1R1/8/7B w - - 0 1,4,Вячеслав Павлович Антипов
+294efb38,8/8/4NB2/1B1p1p2/K2Pk3/5p2/5P2/8 w - - 0 1,4,Hermann von Gottschall
+6c447d48,3b4/7B/7R/3p1Np1/P7/nP1kp1N1/2p5/2rbB1K1 w - - 0 1,4,Leonid Makaronez
+d137597d,8/6Q1/8/7B/8/4p3/2P1Np2/K3k3 w - - 0 1,4,
+b0428430,6K1/pp2N1p1/k5P1/Pr6/3Q3p/3R3P/2BP3P/6r1 w - - 0 1,4,Талип Хасанович Амиров
+c0d81853,8/8/p7/2KNk1p1/R4p1p/6p1/1pB5/8 w - - 0 1,4,Artur Mandler
+b30b56b8,8/pk2K3/8/2B1N3/2R4p/5p2/8/6nr w - - 0 1,4,John Brown
+6cbfd28c,8/1KP5/8/2p5/1pP5/p7/k7/1R3R2 w - - 0 1,4,Oswald von Krobshofer
+062a240b,8/5p2/5n2/5N2/6p1/3pN2k/3p4/3B2K1 w - - 0 1,4,Manfred Zucker
+6e8b5ff4,8/p2K4/p4pPb/2pkp3/3N3P/5pp1/2Q5/7b w - - 0 1,4,William S. Pavitt
+b5551555,6B1/1N1Q4/1KR1p2r/1p3bn1/k4p2/8/PPq1n2r/8 w - - 0 1,4,Heinrich S. Eichstädt
+74fd280b,2Q4B/bK2P3/1p1p1r1r/1R2n1N1/3k4/1p1p4/5Pp1/5b2 w - - 0 1,4,Leonid Makaronez
+826a1889,5K2/N3Np2/4k3/5p2/5B2/8/8/8 w - - 0 1,4,Klaus Werner
+c1bcdf33,r6r/1pbN1pq1/6p1/p3P3/k5BQ/P2pP3/KPP2n2/8 w - - 0 1,4,Henry John Clinton Andrews
+f2be6c3a,4k3/4p3/4P3/4n3/4K3/4R3/4R3/4n3 w - - 0 1,4,Jan Hartong
+61f0e7ea,8/8/8/k2K4/8/8/2b5/6Q1 w - - 0 1,4,Werner Speckmann
+a9292316,2k5/2Pq4/6P1/5B2/2R3K1/8/8/8 w - - 0 1,4,Володимир Иосифович Пипа
+7b9cf9ec,3Qbr2/6p1/2pK1p2/7p/1p3N1p/3B3p/3k1N1P/8 w - - 0 1,4,Евгений Васильевич Фомичёв
+7371e2e4,5B2/8/7P/8/7k/5B2/4N3/7K w - - 0 1,4,Владимир Владимирович Кожакин
+e289c963,8/4p2K/2B3R1/4k3/2P5/4P2P/3P4/8 w - - 0 1,4,Nils Adrian Bakke
+ff2f37c8,8/8/8/8/N3p3/p1p1P3/R5p1/2k1B1Kb w - - 0 1,4,Herbert Grasemann
+57b20a47,8/4b3/7R/8/4N3/6pK/8/7k w - - 0 1,4,Werner Speckmann
+6be4c2da,8/R7/1PP5/8/3p4/1PPBB3/Pp6/kN2K3 w - - 0 1,4,Kenneth Samuel Howard
+04b44339,8/8/4k3/1B4Q1/7K/8/8/8 w - - 0 1,4,Степан Филиппович Демидюк
+b9fe1915,8/2p5/8/8/4B2p/p7/3K2R1/7k w - - 0 1,4,Baldur J. L. Kozdon
+3220d937,n7/p1p2p2/knQp1P2/bp1Np3/1p6/1P2P3/K7/5R2 w - - 0 1,4,P. A. Orlimont
+ab02e62d,r1r1B1b1/2b4Q/np4Kp/Np2p3/1P2R2P/2PkN1P1/1P5R/8 w - - 0 1,4,Arnold Pongrácz
+9f2bbeb2,8/8/8/Q7/8/8/4p2K/5k2 w - - 0 1,4,Paul Willmann
+09fdc76b,b3B1n1/K7/p7/2Qpk2p/3N3p/6p1/3Ppp1b/4rr2 w - - 0 1,4,Леонід Аврамович Любашевський
+2b407b6e,7k/R7/5n2/6b1/8/8/5R2/1B5K w - - 0 1,4,Richard Eugene Cheney
+7abfa9c0,5r2/5R2/P7/K7/1p6/1Q6/8/k7 w - - 0 1,4,Harald Prokubek
+5fb03a28,1r1rnN1b/2n1Q3/7p/2Pppp1p/4k2P/3R2P1/1P4PK/1B6 w - - 0 1,4,Leonid Makaronez
+143f0a02,8/4Q3/2p1P3/3k3B/P7/3K4/8/8 w - - 0 1,4,Євгеній Михайлович Богданов
+9adab5ae,8/8/p3p3/p1p1P3/p1k2P1p/P1p1P3/N3P2P/1RB2B1K w - - 0 1,4,Alonzo Townsend
+7e8701eb,3N4/2K1k3/6B1/3b1R2/8/2P5/8/8 w - - 0 1,4,Karl Fabel
+c1ae7d2a,7b/4KpkP/5N1p/4p2P/4PP2/B3pP2/1B2P3/8 w - - 0 1,4,Fritz Emil Giegold
+dd5d3e4a,5n2/Q2p4/2R1pRpN/1p1k2pp/1P1N4/5r1r/5P2/K2b3B w - - 0 1,4,Joseph William Abbott
+317fa8df,n1K5/1N6/1pk4p/1p2R3/1B2N2b/8/8/8 w - - 0 1,4,Gerke Luiten de Boer
+44fcc40d,8/B3p3/4Kp2/3N4/4k1B1/1pRpNpn1/1p1np2p/8 w - - 0 1,4,Dieter Müller
+c3b68a87,2k5/p1P5/2P1N2B/P1p5/2P1RK2/8/8/8 w - - 0 1,4,Heinz Däubler
+b63c4f85,3K1QBk/4p2P/5p2/8/2P5/2pb4/8/b7 w - - 0 1,4,Gerhard Paul Latzel
+c81aaf9b,8/8/8/4B3/4B3/4k3/4N3/4K3 w - - 0 1,4,Pál Benkő
+35e16bf9,8/8/2k5/8/6B1/3R4/3K1B2/8 w - - 0 1,4,Ladislav Knotek
+a88c82c3,8/4p1q1/2N1P3/3P4/1p3B2/bRp2k1P/1p4NP/1B1nK1Rn w - - 0 1,4,Hans Johner
+21a668d7,K6b/3p1pn1/Q2N2r1/p1kpNPp1/6P1/2p5/P4PP1/8 w - - 0 1,4,Josef Kerles
+076da102,8/3pp3/7B/3p4/3N1p2/1N1pkP2/5p2/2R2K2 w - - 0 1,4,Charles Callander
+19a8c359,7R/kp3N2/bp1KB3/1p2p3/1P6/8/8/8 w - - 0 1,4,Johannes van Dijk
+7fc9ea08,5K2/4R3/8/8/3k4/4p3/2R1P3/8 w - - 0 1,4,Fritz Karge
+007ff0d1,8/3Rp3/Q3P3/B4p1b/3P1p1k/5PR1/6P1/5K2 w - - 0 1,4,Steven B. Dowd
+f9433c53,4r3/8/4n3/2p3N1/1n1kN3/1B4P1/4K3/7R w - - 0 1,4,Antonio Fantacci
+d2536a4a,3R4/7p/5N2/8/5p2/3P4/5p1P/5K1k w - - 0 1,4,Karel Peter Traxler
+e205d3d5,4k2r/5ppp/b1N2p2/5Q2/8/8/8/R3K3 w - - 0 1,4,Mirko Degenkolbe
+c929358a,8/k1B5/B7/1K6/8/8/8/8 w - - 0 1,4,Wilhelm Karl Heinrich Maßmann
+80c3c8ca,k7/3p4/KR1P3p/2p1rp2/8/1P2b3/5P2/4Q3 w - - 0 1,4,Friedrich Martin Palitzsch
+5570b598,k7/P5p1/1K6/6p1/8/6P1/8/4N3 w - - 0 1,4,Josef Halumbirek
+736c0f66,8/8/8/2p3B1/2p1p3/2p2p2/2K1pkpp/4Rbrq w - - 0 1,4,Ernst Carl Schaaf
+899e997c,3N4/1p1pp3/nB1kn1R1/K7/3pPP2/pbp4R/qb6/8 w - - 0 1,4,Anton A. C. Trilling
+061d0a01,5n2/4B1p1/p2N4/p2b3r/2p1p3/Kpk5/4P3/1B1R4 w - - 0 1,4,Alfred Wornum Mongrédien
+b71d84d8,7K/1Q6/8/2p5/2k5/8/4N3/2B5 w - - 0 1,4,Loek van Rey
+22916417,8/2N5/1p2p3/1Pk1P3/PpNr2p1/1Q6/3P2K1/8 w - - 0 1,4,Johann Nepomuk Berger
+06515d35,2nbN1r1/4pp2/2K1kr1n/5p2/3P1p1N/8/5p1B/R7 w - - 0 1,4,Stefan Schneider
+0eacf475,8/8/4p3/8/5pN1/5B2/3K3N/6k1 w - - 0 1,4,Александр Константинович Калинин
+6fcd0d6a,B3K2R/p7/Pp6/PPP5/N2p4/p2P2P1/6rP/R5bk w - - 0 1,4,Sigmund Herland
+3230e62d,k2b4/1R6/2B5/8/8/4N2n/8/K7 w - - 0 1,4,Виталий Семёнович Коваленко
+d7bac042,2qN4/1p3p1r/n1rp1n2/2pk1P1R/1pN2p2/1QP1pP1b/1P2P3/K7 w - - 0 1,4,Peter Vogel
+19ff4398,1Q6/8/8/8/8/2bK4/p1B5/k7 w - - 0 1,4,Владимир Петрович Исарьянов
+55d870b7,8/1p3np1/pKB5/8/2P5/3kpp2/1Q6/4B2b w - - 0 1,4,Zoltán Labai
+8232787a,1k6/1P2N3/1K1pp2P/2pp4/3n4/8/7b/8 w - - 0 1,4,Julius Buchwald
+370c94e3,8/8/1PP5/k1P5/8/2K5/P7/8 w - - 0 1,4,Александр Петрович Олейник
+a668b2f0,n7/2n1N2p/P3p3/1P2k1P1/2R1Np1K/1r1P1p2/8/8 w - - 0 1,4,Robert Braune
+0452f92b,8/4B3/3R4/p1k3K1/p1P5/P2P3R/8/8 w - - 0 1,4,Theodor Siers
+99bc84e0,8/8/8/8/8/1RB5/1K3P2/3k2N1 w - - 0 1,4,Reinhard Zaiser
+5282d93e,3Q1R2/3p2K1/4N2p/3n4/1pN1k1p1/3ppp2/P7/8 w - - 0 1,4,Sámuel Gold
+dae40ba8,8/5n1b/2QP1pp1/3PpP2/p2kp1p1/1p2R3/4P3/b1B3K1 w - - 0 1,4,Виктор А. Николаев
+d4fff7c7,kn1B4/2P5/1K6/8/8/8/8/8 w - - 0 1,4,Saturnin Limbach
+352062b2,2RB2br/5p2/p2k4/1pp2BP1/n1p1K2p/q1p4Q/2N1P1pP/br6 w - - 0 1,4,Милан Радоје Вукчевић
+88c17d84,8/8/6Q1/8/4Bk2/5P2/3K4/8 w - - 0 1,4,Валерий Альбертович Сурков
+15f0112c,6k1/8/5P1P/5K1N/8/8/8/8 w - - 0 1,4,Сергей Владимирович Радченко
+a40f597e,2R4n/NN1k1p2/4p3/Pp5K/1B6/2p1p3/p4bp1/qB6 w - - 0 1,4,Ulrich Otto Ferdinand Auhagen
+c20ff857,7Q/2p5/1pP2p2/3B1p2/1P1P1P2/6PK/P1b4P/knRN4 w - - 0 1,4,Maximilian Feigl
+29babb8c,8/8/8/6K1/8/6pk/6b1/5NQ1 w - - 0 1,4,Alphonse Grunenwald
+cb5fb1fd,4r3/4p1Q1/4Kp2/2p2N2/2p1kb2/2n1p1p1/3n2P1/3bN3 w - - 0 1,4,Wacław Hebelt
+ac243063,8/1Q6/5K2/5p2/2k2N2/1N6/6P1/8 w - - 0 1,4,Gerhard Ohlerich
+16f2f327,3B1Nbq/4p1rp/4p1pP/4P1k1/1r4Pp/1p2P1RK/4BN2/6Q1 w - - 0 1,4,Григорий Леонтьевич Попов
+3cc3dc99,n7/2p5/1pQ5/1P6/8/4K2p/6rp/7k w - - 0 1,4,Josef Cumpe
+832d431f,4K3/8/3P4/1N1p1p2/3PpP2/4k3/1P4Q1/8 w - - 0 1,4,Александр П. Очкур
+f9cac6e3,8/8/7N/8/8/p1b5/p1K5/k1B5 w - - 0 1,4,Ernst Otto Martin
+0f56f1b3,k1B5/2P1p1rP/1Kb1p2n/2p1bnp1/1p6/7R/8/1R6 w - - 0 1,4,Fritz Emil Giegold
+4a1f34c6,2kNN3/4PP2/8/1K1P4/5n2/2p5/8/8 w - - 0 1,4,Владимир Викторович Кузьмичев
+4aae9e8b,8/pK2p3/2p5/1kr5/1Pp5/B1p5/pN1N4/1Q6 w - - 0 1,4,Ralf Krätschmer
+42497c8f,8/3R4/8/2PB4/N4P2/3kp3/4p3/4K3 w - - 0 1,4,György János Andor von Spóner
+ceeb4e1d,2K5/2P3k1/2R5/8/8/8/8/8 w - - 0 1,4,Hilmar Ebert
+ee3cd930,8/4p3/7r/4BPp1/1PN3R1/1P1p1k1P/3Pp3/R3K3 w - - 0 1,4,Henry Edwin Kidson
+531d0ea9,K2NN1b1/B1pp4/p1Pb2P1/1p1kP1Qn/3p4/1P3p2/2B4n/4r3 w - - 0 1,4,Леонид Иванович Загоруйко
+9f47c8c7,1rk4r/3R1R2/7b/8/8/3B1K2/8/8 w - - 0 1,4,Baldur J. L. Kozdon
+c4e63e77,8/8/8/2P5/1P1p2P1/p1pP4/k1P5/2KQ4 w - - 0 1,4,Martin Wolfgang Hoffmann
+f09b0e5d,4B3/7n/nN3p2/1P1PkN2/6K1/4B3/6P1/b7 w - - 0 1,4,Konrad Erlinger
+d16a7c08,6bB/2K1p2p/2N1k1qQ/1p6/3Pp2P/R3P1p1/1P4Bb/8 w - - 0 1,4,H. Tivendell
+a25da112,8/5p2/7Q/4pk2/8/4K3/4B3/8 w - - 0 1,4,Євгеній Михайлович Богданов
+892d5a27,8/8/4p3/1K1kP1P1/6P1/1N4R1/1P3P2/8 w - - 0 1,4,Edith Elina Helen Baird
+2da84f1d,k7/2RN4/3p1N2/1p5p/1r6/3R4/1P1n4/3K4 w - - 0 1,4,Otto Zipperlin
+d569fc65,5NKN/3p2p1/2b4p/3pP1bk/2rP2R1/3p3B/6PP/8 w - - 0 1,4,Walter John Wood
+2b828b96,2brB3/2p1r3/n1R3p1/1p2k1K1/7n/2PpNp2/3P1N2/8 w - - 0 1,4,Александр Николаевич Панкратьев
+efbb466a,3b4/6n1/1npp2Pk/8/6Q1/4p1N1/6NK/3R4 w - - 0 1,4,Franz Schrüfer
+9b1fe242,8/8/7p/4p3/4PkBK/5P2/3NR3/8 w - - 0 1,4,Silas Angas
+c25d18e4,k4r1q/pp3R1Q/1P6/8/8/1Kp5/8/8 w - - 0 1,4,Emil Radzuweit
+d294434f,5k2/Q5pp/2pN3P/4nP1n/8/1b6/8/4K3 w - - 0 1,4,James Pierce
+68a57c92,1K2N3/1R3p2/4PBP1/2P4P/7P/p2B4/pr5p/k6N w - - 0 1,4,Andrés Clemente Vázquez Hernández
+31fe825b,8/3p4/8/3k1P2/4N3/3K4/8/5Q1B w - - 0 1,4,Євгеній Михайлович Богданов
+96f64896,K7/8/8/Q7/N7/8/7k/N7 w - - 0 1,4,Hanspeter Suwe
+68f35de3,2B2K2/rn5b/2Pp1kp1/1q1np2p/p1p4P/Q1N4N/8/4r3 w - - 0 1,4,Johannes Kohtz
+c74c61b1,1r2r3/bbQ5/5pP1/1pN1N2B/4p1Pp/3Pk1PR/p3P2p/3nK2n w - - 0 1,4,Émile Léonard Pradignat
+db2c198b,3qr3/6n1/8/4p1Rb/1Np1k1B1/n3PNPp/1p1P3K/6Q1 w - - 0 1,4,Fritz Emil Giegold
+37ca4581,4N1Kn/8/1pB1pp2/b1p1k3/5ppB/2rp2p1/QR2N3/3q1r2 w - - 0 1,4,Valentí Marín i Llovet
+cdef0db1,n2K4/4nQ2/1pp5/1B3pNR/1b2Pk2/8/2Pp1P2/3r4 w - - 0 1,4,Adolf Christian Bayersdorfer
+788651a1,q5N1/n1B5/p1p3pn/K5Rp/3kp2r/P2pN3/2br4/3B2Q1 w - - 0 1,4,Luigi Dossena
+b8b17f26,8/1p3R2/1p1k2p1/1P6/1N1N2P1/1P6/3B2P1/7K w - - 0 1,4,Antonio Tarnawiecki
+519d71d3,6N1/p3p2r/KbB3p1/2p2p2/1kp5/2R1Bp2/1P4p1/4R2r w - - 0 1,4,Karl Schönberger
+8340112a,5K2/8/4b3/bPPk4/1BR2R2/2P5/4nN2/5r2 w - - 0 1,4,János Ármin Vész
+603e646d,kB6/8/2N3p1/6P1/5N1K/1R6/8/8 w - - 0 1,4,Horst Böttger
+3cbea127,1K3b2/pRNp3r/2kP1n2/3p1N2/1p6/nP2B3/5p2/5b1q w - - 0 1,4,Nenad Petrović
+dcf981b9,8/8/4N3/1n1N2q1/k7/1R6/1P3r2/7K w - - 0 1,4,Peter August d’Orville
+8da43fbb,8/8/8/4p3/2p5/2B3p1/2k5/Q3n2K w - - 0 1,4,Vladimír Kos
+771c7f04,8/p2p1B2/P2P2p1/3KR1P1/1k2P3/p1N1B3/rp2P3/bN6 w - - 0 1,4,Karol Mlynka
+4fa7468d,1N5K/4b1p1/6Pk/8/6Q1/8/8/8 w - - 0 1,4,Олег Евгеньевич Ефросинин
+0b2162d7,nB2Nbb1/3p1p2/r3k1p1/4P3/4Q1pr/npR5/1KB5/8 w - - 0 1,4,Lars Aksglæde Larsen
+b43be8d6,8/8/8/6B1/3p4/3k4/8/2R3KB w - - 0 1,4,Александр Николаевич Мельничук
+3a949837,6b1/1K4Q1/3pN3/4pk2/1p3b1p/n7/4NP1P/3B4 w - - 0 1,4,Joseph Alonzo Potter
+7b789e4f,8/1p6/8/1k1K4/1N1Q4/6p1/8/8 w - - 0 1,4,Otto Georg Edgar Dehler
+3e509926,r4Bb1/N1p2p2/p1R2P1r/2p1k2p/1b1p1R1K/7N/4PP2/7B w - - 0 1,4,Валерий Михайлович Шавырин
+f91c71c7,5K2/8/3p4/kBpN4/2P1Pp2/1P6/1PRP1p2/2Bbr3 w - - 0 1,4,Peter Heyl
+44d304af,B4N2/B3p2P/2r1P3/Rb1kP3/1Pp2P2/n1Pp1PKp/1p1p4/3n1N2 w - - 0 1,4,György Bakcsi
+056c14bc,4r3/q1p5/2p2QBp/1nN2Pp1/3np1kP/r4pP1/2b1pB1K/b2N4 w - - 0 1,4,Александр Сергеевич Кузовков
+8e153ec5,8/8/3K4/8/8/NP6/8/k1BRN3 w - - 0 1,4,Heinz Curth
+3a9750b9,7Q/8/8/8/1k6/pN6/K7/8 w - - 0 1,4,George Edward Carpenter
+edee3160,5b2/3Kp1p1/8/8/3pQ3/7k/8/5N2 w - - 0 1,4,František Richter
+b0b53809,8/p2Nb2K/b1Rppp2/3k2p1/Q2B4/3p2P1/6P1/8 w - - 0 1,4,Josef Pospíšil
+f917b384,8/4bp2/3k1p2/3N1P2/BP5P/p1BRpP2/P1P1P2P/R3K3 w - - 0 1,4,Bruno Oswald Sommer
+7c5007fc,6RB/4p1N1/4Pp2/2KP1pkN/7p/3P1p1P/5Pb1/8 w - - 0 1,4,Herbert Robert Engel
+57466e78,1b6/8/2B5/7R/8/5P1N/3p3k/3K3N w - - 0 1,4,Hans Schaffer
+713840be,8/2K5/8/1N6/6R1/1k2P3/6R1/8 w - - 0 1,4,Юрий Никитович Серёжкин
+c20a5a52,b7/4r3/1r1pp3/1n3kpP/2N1N3/1p2PB1P/2P2K1B/3R4 w - - 0 1,4,Joseph Graham Campbell
+04433759,2R4r/1B1pB1bb/1p6/2p1k1N1/5RP1/1PppP1K1/8/8 w - - 0 1,4,Max Petri
+009daa8f,8/pq1pnK2/8/1Pn2Q2/2P5/3Pkp2/8/2N1B3 w - - 0 1,4,A. Z. Huggins
+3538664d,8/8/5p2/8/Q3R3/K7/b5p1/7k w - - 0 1,4,Karl Junker
+f7750939,8/3Kpp2/Np3p1r/1p1kp3/6N1/1b1B2b1/1BPRp1n1/R2r4 w - - 0 1,4,Rauf Gadschiaga Aliovsadzade
+2ac9e1bb,3R4/2p5/R1N1k1K1/6P1/8/1p2p3/1P2P3/4b3 w - - 0 1,4,Karl-Heinz Ahlheim
+9cbe2db1,K6Q/2p1p3/4pp1p/5B2/7R/2p3p1/kbN5/8 w - - 0 1,4,Владимир Акимович Брон
+6466b72e,8/8/5p2/2K1N2R/4kBB1/5pnN/2P5/4n3 w - - 0 1,4,Hermann Weißauer
+66dab47d,8/1RN5/1N1k4/5R2/8/8/8/7K w - - 0 1,4,Julius Zdeněk Mach
+2a871283,3Q2K1/6n1/N3kP2/r7/3P2P1/7N/7b/2q5 w - - 0 1,4,Gerard Johan Bouma
+5e6cd903,3K4/8/1PP5/4R3/krP5/p1RB4/1pPP4/1b2B3 w - - 0 1,4,Alessandro Cuppini
+2732f02b,Q7/1n1r2n1/5PB1/1p1p3P/8/8/3NPB1p/2bKN2k w - - 0 1,4,Gabriel Léon-Martin
+1f82c2cd,6B1/8/P1p1rP1p/N1r1k2P/R1p1N3/4Q2P/K5P1/8 w - - 0 1,4,János Szirmay
+411418cd,8/7B/5p2/6P1/8/5P2/K4N2/2k2N2 w - - 0 1,4,Salvador Suratos
+32dfde1a,n7/K2pN2n/8/1pQ5/4kp2/8/2p5/6R1 w - - 0 1,4,Herbert Nikolussi
+6d154218,Q3B3/5pb1/P2Bkq2/1b1R2pn/p3p3/1p2P1r1/1P3PPn/2R4K w - - 0 1,4,Zsigmond Schuster
+1180a78e,4B3/8/4p3/4B3/8/2N1k1N1/8/4K3 w - - 0 1,4,Hartmut Brozus
+06e20904,5B1R/5B2/7p/1p5K/k7/8/8/8 w - - 0 1,4,Віктор Леонiдович Щербіна
+3222e01b,2K4b/5p1P/1p3p1B/1PPpk3/1p4Q1/pb1p1P2/P1p5/8 w - - 0 1,4,Александр Фёдорович Феоктистов
+f3f1e866,bK6/3N1Q2/3k4/NP4pB/r7/q5p1/3bP3/1R6 w - - 0 1,4,Edvard Johannes Gabriel af Hällström
+03205f4a,2q2nB1/3ppN2/1Qp1kp2/n1P2p2/4rb2/2P1rp1K/3P1N2/3bR3 w - - 0 1,4,Stephan Eisert
+7b8667f0,2K2b2/p1P1pN1n/8/Q1N3p1/2k1p3/7n/8/1B5b w - - 0 1,4,Percy Francis Blake
+fb0f1255,8/6N1/1p3pPp/1P1P1RpR/2P3k1/1N2P1p1/6b1/4B1K1 w - - 0 1,4,Miloš Maryško
+f660ef43,8/4p3/Q7/2k5/6K1/4N3/2B5/8 w - - 0 1,4,Carl Hartlaub
+ddd578d7,8/1p3p2/5p2/Q4K1k/8/6b1/p7/rn6 w - - 0 1,4,Ludwig Noack
+0677c4ac,8/3p4/2pPkBK1/2P3p1/p5P1/1P6/1P3PP1/3R4 w - - 0 1,4,Dieter Kutzborski
+531a3d13,1Bb1qRBb/5p1K/2pPp3/1p4P1/N3k1N1/1P2P1p1/2P3P1/1R4nQ w - - 0 1,4,Бошко Милошески
+55c8ecbe,2qn4/1b6/8/P1k5/3R4/3BN3/1N3QPK/r1b1n3 w - - 0 1,4,Robert Bownas Wormald
+e61c1783,8/8/R7/3N4/8/2pk1K2/5B2/8 w - - 0 1,4,Klaus-Peter Zuncke
+3cf1ec28,8/1kB3K1/8/8/8/8/1NR5/8 w - - 0 1,4,Karl Flatt
+1bac3b92,1K6/5R2/4p3/2p1k3/2P4B/2p1p3/3PPP2/8 w - - 0 1,4,Milenko Đukić
+d82b8249,1R6/8/k7/1p6/1P1K4/1NN5/8/8 w - - 0 1,4,Виктор Владимирович Кичигин
+00391e80,k7/8/8/B7/B7/B7/B7/K7 w - - 0 1,4,Edgar Dinwiddie Holladay
+7998cc75,6K1/3p4/3Q3N/B3p1N1/1n3k1p/5nb1/4p3/rr5B w - - 0 1,4,Jan Dobruský
+e80a38f4,8/8/8/8/n7/K7/2pB4/kbR5 w - - 0 1,4,Albert Renn
+408c35e8,n6K/5P2/2p1N3/3k1r1p/P2pN2Q/P2R1p2/4b3/2r2n2 w - - 0 1,4,Fredrik af Geijerstam
+592e5e9f,8/2K5/p3p3/1p2kNBP/1Rp1B2R/1p2Np2/8/r4b2 w - - 0 1,4,Jørgen Thorvald Møller
+0b5e150c,K5NN/3b4/1Ppkp3/2R1n3/2ppn3/1p6/8/4Q3 w - - 0 1,4,Franz Xaver Patzak
+675cc4bc,8/8/8/8/3K4/8/P1pkp3/2R1R3 w - - 0 1,4,Альберт Серапіонович Шахназарян
+5cf170e6,5b1k/4nPRp/7P/3p1pBN/2pPpP2/1pK1p3/1P1nP3/3N4 w - - 0 1,4,Théodore Adrien Louis Herlin
+6557a7be,qr6/kbbR1n2/8/2P1p3/PQ6/8/2NK2B1/8 w - - 0 1,4,Giuseppe Liberali
+69ac5100,2b2b1q/2rp4/2p2Rpn/2Pk1p2/2Npp2B/Q5P1/B5K1/8 w - - 0 1,4,Михайло Назарович Марандюк
+dd7e0085,N1bK4/b3p1Rp/p1p1P2B/k2p1p1r/2r2p2/2P5/1QBP4/7n w - - 0 1,4,Валерий Иванович Резинкин
+58d1fb2a,8/1p1k1pP1/n3b2K/3PB3/N5B1/r4Nn1/2R5/3r4 w - - 0 1,4,Charles Henry Stanley
+5a2af740,5n2/5pq1/1k2p3/4b3/2K1B1p1/p7/rP6/3QB2n w - - 0 1,4,Rudolf Heinrich Willmers
+c5078160,8/8/8/3p4/8/NK6/p2PP3/k7 w - - 0 1,4,Эрнест Левонович Погосянц
+168ad755,2K4Q/8/B2P4/3P1p1P/1Pp1k3/8/4P2R/8 w - - 0 1,4,Петрашин Петрашиновић
+12f4a677,8/6p1/6Pp/2nb4/3Ppk1P/4N3/5PK1/R1B5 w - - 0 1,4,Johannes Seeberger
+4046947a,8/4p3/8/p1KNkppP/B2pP1p1/8/3P1RP1/8 w - - 0 1,4,Artur Mandler
+a02b64e3,8/2r4B/2p5/p2kpR2/1Bp3p1/8/3pp1Kb/1Q2r1n1 w - - 0 1,4,Henry Turton
+9ac75f8f,8/3p4/2p5/K1k5/8/8/1N1Q4/8 w - - 0 1,4,Юрий Акимович Сушков
+0fad59ef,8/4p3/2Q1p3/4k3/4N1K1/8/8/8 w - - 0 1,4,Alberto Armeni
+6d9977af,r7/N2B1ppb/8/2R3B1/1k2N3/npp5/2rpK3/3n4 w - - 0 1,4,Сергій Іванович Ткаченко
+207c3d11,2N1K3/2pB3p/2p1p1n1/2PkPpr1/1R1p2pP/1N1P1n1r/4R3/8 w - - 0 1,4,Evgeni Bourd
+f0f5f70f,4R3/8/3N1k1K/8/p4p2/1B2b2b/1Nn3P1/B5r1 w - - 0 1,4,E. Grosdemange
+6782d483,8/B7/p7/3PK3/P1k5/8/8/4Q3 w - - 0 1,4,Владимир Владимирович Кожакин
+23788a56,7k/4pKp1/3rPpP1/P4P2/8/8/3P3P/R2R4 w - - 0 1,4,Wolfgang Pauly
+9353feae,8/1b2p2N/1r2P3/p1P3P1/4kB2/2p1PNP1/4P2K/Q7 w - - 0 1,4,Леонід Аврамович Любашевський
+2f657f89,4bQK1/2n3Np/3pppk1/1nrr2b1/3p2N1/1q1p1p1p/8/6R1 w - - 0 1,4,Фёдор Васильевич Давиденко
+b8ff7dff,2n2r2/6n1/Q3ppp1/p1N1k3/7p/B7/4K3/8 w - - 0 1,4,Mór Ehrenstein
+788475c5,4K3/2P5/7B/1B1p1P2/n2pk1P1/8/1b1pP3/3r1n2 w - - 0 1,4,Peter Polák
+8d013012,8/3B4/8/8/4Q3/8/r6n/k6K w - - 0 1,4,Eugène Ferber
+7c41c5c6,8/8/8/N7/8/1K6/1B6/1k6 w - - 0 1,4,Владимир Викторович Морозов
+2f86f93c,4k1K1/2p2N2/1pPp1P1p/6pP/8/8/8/4B3 w - - 0 1,4,Leonard Nicolaas de Jong
+2276788a,8/8/2N5/3K1k2/8/8/6R1/6B1 w - - 0 1,4,William Anthony Shinkman
+8bbfe968,1k4BR/1pp5/p3Q3/2P5/1q6/1Pp5/3n4/K1n5 w - - 0 1,4,Karl Ernst Adolf Anderssen
+9019ab19,5r2/R1b4k/5B2/2r5/4N1P1/1Q2P3/p7/1B1n2K1 w - - 0 1,4,John Augustus Miles
+46aa9342,8/8/8/5r1p/2p1N2p/1pP4k/1P6/1B4RK w - - 0 1,4,Carl Bilfinger
+eaa660d7,8/2p5/2k1p2N/2P3R1/4P3/4K3/1R6/8 w - - 0 1,4,Wolfgang Alexander Bruder
+0e585a36,8/4P3/2R5/p7/P7/1k1P4/1p2K3/bN6 w - - 0 1,4,Александр Васильевич Галицкий
+57ba9a33,2r2b2/Q4Npp/2B2k2/4p3/1P5P/1K1p4/5P1N/3nR3 w - - 0 1,4,Richard Ormond
+d9bc776f,8/N7/3kB3/3NnP2/1P1P1B1p/1P4P1/pKP1r2b/1b6 w - - 0 1,4,Géza Erdős
+4b597c12,8/3p1Q2/p2N4/P2N2P1/2pk2p1/2p3P1/2P5/7K w - - 0 1,4,William H. Coates
+34aa5c1d,1R6/8/8/2p5/2pk1P2/B1N5/2K5/8 w - - 0 1,4,Валентин Анатольевич Симонов
+60e44583,n1Q1b3/2p1pp2/N3r3/p1P3B1/Pp2P3/6k1/4P1P1/3B2K1 w - - 0 1,4,Vincente Maria Norberto Portilla
+bca18a54,8/8/8/3P4/8/pkNK1BR1/8/8 w - - 0 1,4,Ingemar Lind
+c8422272,8/1nK1p3/b3R3/1k6/8/1BB5/8/8 w - - 0 1,4,Werner Speckmann
+b55a87b5,N4k2/1p4R1/1K6/8/8/8/1B6/8 w - - 0 1,4,Николай Чистяков
+46b1095a,1K6/6pp/1PNpB3/R2npP2/2kp4/P1N4r/1PPp2qb/7b w - - 0 1,4,Eeltje Visserman
+3110a7f1,8/K2p4/P2B2b1/k7/1R3n2/3p4/3P1N2/8 w - - 0 1,4,Emil Palkoska
+3b4353a8,B6N/7n/5Pp1/3b2P1/P2k1B2/5p2/5P2/1QK2n2 w - - 0 1,4,Ferdinand Friedrich Möller
+0815985e,3R1n2/1KN2pp1/pn5r/2k1N3/5P2/2Bp4/5R2/r1b5 w - - 0 1,4,William Mitcheson
+43172552,3r2r1/2p2Q2/p1Pk2pp/6b1/1P1pPp2/3N3R/2pR4/1bB3NK w - - 0 1,4,Giovanni Batista Valle
+96cb57ba,4N2k/8/R4N2/B4P2/8/5K2/8/8 w - - 0 1,4,Владимир Афанасьевич Шматов
+7639e283,8/8/8/3Q4/p5K1/8/Np6/qk6 w - - 0 1,4,Walter Freiherr von Holzhausen
+6d1542c9,B2NK2R/8/3k4/8/3P4/8/8/8 w - - 0 1,4,Виктор Иванович Желтухов
+2130802f,1n4n1/6p1/p2NkpN1/4P3/4P1p1/BKpp3b/8/2Q1bR2 w - - 0 1,4,Charles Alexander Gilberg
+aff11f61,8/1Rppp3/2n2r2/2k2P2/2qrp3/2Q2p2/2N2N2/1bKR1nB1 w - - 0 1,4,Samuel Loyd
+d7d2b88f,2n5/8/7b/8/4N3/2Q5/1p2N3/nk5K w - - 0 1,4,Евгений Васильевич Фомичёв
+079e076c,8/pN6/2p5/8/k7/2Q5/8/5K2 w - - 0 1,4,Miroslav Havel
+24b7b55e,1rr5/3pp1R1/4R3/Q1P5/1n1p1k2/2N5/5pP1/2n2Kb1 w - - 0 1,4,Godfrey F. Heathcote
+6a64b4e9,k7/8/P1N5/8/6p1/6N1/8/2R2K2 w - - 0 1,4,Степан Павлович Цырулик
+62fe343f,8/1p1K4/8/1kB5/NP6/1B6/8/8 w - - 0 1,4,Николай Николаевич Акимов
+9c3ba653,8/6RP/5r2/8/5p2/5K2/7p/7k w - - 0 1,4,Oskar Blumenthal
+c07ca049,1b2K3/1P1ppB2/1r3P1N/2Qpk2p/1p2p1p1/Nb2B1p1/8/5r2 w - - 0 1,4,Леонід Аврамович Любашевський
+95644ae8,8/8/8/5kBK/8/2N1R3/8/8 w - - 0 1,4,Юрий Георгиевич Фокин
+bf03ef84,3r4/2N5/4BB2/3p2b1/2pNk2n/2R3P1/n4Pb1/K7 w - - 0 1,4,Thomas Smith
+1ddac77e,8/bp2p3/4n1B1/1Np2R2/K1N1k3/1PB3P1/6b1/6nr w - - 0 1,4,Imants Dulbergs
+e9cfdc35,8/qp6/1b6/p3n3/4kN1r/6Rp/3QBP2/n6K w - - 0 1,4,Josef Plachutta
+4e4a5577,b7/2p1N3/1p1p4/8/3k4/P1pP1pBp/2p2P2/2K1N2Q w - - 0 1,4,Валерий Николаевич Барсуков
+963b3bb1,8/K7/b7/kP6/6N1/P1N5/8/8 w - - 0 1,4,Wilhelm Hagemann
+296d956d,r5nn/1N4b1/6p1/1P1k4/P7/2p2N1R/2P5/3KRB2 w - - 0 1,4,Bo Waldemar Lindgren
+c3592c70,8/3p4/7p/1p1Q1p1P/1P1p1B1K/2prr1p1/2PkP3/6R1 w - - 0 1,4,Samuel Loyd
+6ab6c3eb,1n6/p1R1N1np/p7/4p1p1/1N1k2r1/4p1r1/1p5Q/1Kb5 w - - 0 1,4,Heinrich Friedrich Ludwig Meyer
+a5d42175,8/7p/1N3k2/p7/1P6/p5Q1/3p4/1BbK4 w - - 0 1,4,Ladislav Vetešník
+91930422,8/8/8/4n3/8/5pk1/8/3QKB1R w - - 0 1,4,Николай Крутоус
+d6a4c2ce,8/3p1Q2/8/3N4/3pk1p1/8/1N6/2K5 w - - 0 1,4,Євгеній Михайлович Богданов
+8ad0239d,k6r/B7/1K4R1/8/8/8/2R5/8 w - - 0 1,4,Gerhard Kaiser
+34b6a52f,4K3/8/8/8/7B/4N3/5Rp1/6kb w - - 0 1,4,Juri Jakowlewitsch Marker
+f65f2dc1,8/8/5p2/3p2p1/2pP4/4PPpk/2B2nNp/1K3Q1n w - - 0 1,4,Vladimír Pachman
+0bf27f98,8/pB4B1/6b1/2K1R3/NppN4/3kp2p/2pp4/3n4 w - - 0 1,4,Gerald Frank Anderson
+c4b5bdb9,8/8/8/8/8/1k6/3P4/R1B1KB2 w - - 0 1,4,Владимир Владимирович Кожакин
+007e040e,8/R7/3kp2p/4N2P/4P1P1/5KB1/8/8 w - - 0 1,4,György Szabó
+cc8ebb30,8/8/4p1K1/1NN1k3/2Bp4/1P2P3/8/8 w - - 0 1,4,Александр Васильевич Галицкий
+790dcb63,2NnB1nr/b4p1r/1p1P1P2/1Ppk2N1/pP1ppB2/P5Pp/2R3b1/K3Q3 w - - 0 1,4,Сергей Гарибович Хачатуров
+11e86662,K7/6pn/1P4Pr/3NR2p/pP1k1p2/1p5Q/3P4/2bn4 w - - 0 1,4,Cecil Alfred Lucas Bull
+2ab72372,2K5/5Bp1/6P1/PPNNk2P/P4p2/2p5/2P1p3/1nn1B3 w - - 0 1,4,Maxwell Bukofzer
+82560ddb,kbQ5/1p6/p1p5/5N2/Np3p2/4rppK/b7/8 w - - 0 1,4,Alois Johandl
+35a64910,8/p7/P2N2p1/3p2P1/NPpk1P2/4p2B/4P3/2K5 w - - 0 1,4,Józef Klemensiewicz
+167ee4d9,8/8/8/8/8/8/P2P4/1kB1KB2 w - - 0 1,4,Пётр Шалимов
+dc303b05,1R6/1Kp1b3/p1pp1p2/Q4P2/2Nk2b1/3P2p1/4p3/4N3 w - - 0 1,4,Moriz Henneberger
+2208086f,8/8/4Q3/6k1/8/3p4/3K2N1/8 w - - 0 1,4,Іван Іванович Сорока
+620d4e9f,8/4R3/8/P2k4/B4B2/8/4N1K1/8 w - - 0 1,4,Wladimir Wiktorowitsch Sokolow
+f120fb26,K7/8/8/8/2k5/1N1N4/2P3P1/2R5 w - - 0 1,4,Joseph Theodor Breuer
+1f49d1a1,6Bn/7p/pP1b1BkN/K2p2Pp/1pP1r2p/1R3P2/b1pPN3/8 w - - 0 1,4,Georg Ernst
+293ed02d,8/8/8/5B2/3k4/8/1P6/2Q3K1 w - - 0 1,4,Владимир Семёнович Гребешков
+fc0e7930,8/p2N3p/6bQ/B1Pp1r1p/2kp1p2/P2p4/1RnP2PK/5N2 w - - 0 1,4,James Stonehouse
+9a300222,8/4p3/2P2R2/6pR/8/1pB3P1/pP1p1p2/kb1QbK2 w - - 0 1,4,Владимир Иванович Желтоножко
+9915eee9,1K4bk/6pp/8/6Q1/7B/8/8/8 w - - 0 1,4,Eligiusz Zimmer
+d2cc7ec2,8/3Np3/4p2K/5kP1/4p3/B3P3/5N2/8 w - - 0 1,4,Karl Meck-Kienle
+1a4b9ca1,r1r2nq1/p1NP2nb/4p3/2B1kpP1/P1K2RPp/2PBP3/8/1Q5N w - - 0 1,4,D. Lamouroux
+9e6daf9a,4K3/2p2P1p/1p2Np2/4kBb1/1B2P3/6p1/3p2rr/8 w - - 0 1,4,Николай Христов Димитров
+fd4e685b,8/8/2PpP3/2pQp3/N1PpP1N1/3k4/8/3K4 w - - 0 1,4,Kurt Keller
+db9c1380,B7/8/5p2/6p1/3p2Pp/4pK1P/6rp/1Q4bk w - - 0 1,4,Theodore Hermann Keidanski
+3aacd202,8/1bQ1N2B/1pp2rp1/6r1/3Pk2p/B2NP1b1/2KP2P1/8 w - - 0 1,4,Stanislav Vokál
+5f0d8a65,8/K7/2p5/8/5kB1/P3N2Q/1P6/8 w - - 0 1,4,Петрашин Петрашиновић
+74c07e1e,7k/3R1K2/8/8/8/3pp1pp/5b2/5nrb w - - 0 1,4,Erwin Moritz Herbert Guttmann
+1f8f0236,1Nb3q1/b4rr1/1ppB4/3p1pp1/1R1Pk1P1/1BPpN2p/p2P1R1K/8 w - - 0 1,4,Abdelaziz Onkoud
+da3ba402,6q1/2b1p1p1/1p1p1p1r/N2bkB1p/n1Q2RnP/4p1K1/1P4P1/2Br4 w - - 0 1,4,Михаил Романович Костылев
+81921ae8,8/B1p4p/8/p5p1/8/K1kpNR2/P2p4/2nB4 w - - 0 1,4,Alfred Wilhelm Theodor Arnell
+790fc445,1Q5b/R2P2r1/2p3p1/1p3kP1/b5pP/2p1K2r/2N5/1BB1R1N1 w - - 0 1,4,Theodore Morris Brown
+9a94d72c,8/1K1pk3/3N4/2Bp4/8/5R2/6P1/8 w - - 0 1,4,Eugene Beauharnais Cook
+a9f03f0c,k2K4/BN5R/p7/8/n7/1p6/8/8 w - - 0 1,4,William Anthony Shinkman
+2f2e74ef,6R1/8/4N3/7p/7k/8/1b4K1/8 w - - 0 1,4,Friedrich Josef Blaschke
+07abdacc,1q6/PP1r4/1k6/8/2K5/8/3B4/Q7 w - - 0 1,4,Werner Speckmann
+ef86364c,7B/7p/7k/5K1p/8/8/3P2P1/8 w - - 0 1,4,Andreas Nievergelt
+68fa38fc,8/3K4/p2NN2p/3k4/3p2p1/6R1/rB2P3/2b5 w - - 0 1,4,Róbert Kintzig
+dc1406a1,3bq3/Q7/4p3/5rr1/2R1N1k1/6Bp/5p2/5K2 w - - 0 1,4,Conrad Bayer
+3c64c638,6Bk/2b2K2/3p2p1/3P2P1/1P3P2/R1r2p2/2n1nB2/Qb6 w - - 0 1,4,Charles Henry Wheeler
+84313268,4k3/8/4K3/4b3/8/4p3/4p3/4Q3 w - - 0 1,4,Erich Ernest Zepler
+61ac2269,qbb1KN2/3pp2r/pBPk1P2/4NP2/P3PQ1p/3p2P1/1p6/2n5 w - - 0 1,4,Виктор Иванович Чепижный
+e3b7d677,8/7r/8/6R1/5p2/5K2/5BPp/7k w - - 0 1,4,Wolfgang Pauly
+f068e35c,6B1/8/3N4/8/1K1k4/3N1Rp1/5p2/7n w - - 0 1,4,Isai Hillel Rozenfeld
+5317583d,8/6Nk/4BKN1/8/8/6p1/6P1/8 w - - 0 1,4,Ralf Chris Handloser
+b2ef2f71,8/8/8/8/4p3/1BPk2N1/1P3PKP/2B5 w - - 0 1,4,H. A. Krome
+1c1998eb,7Q/p5K1/pN1p4/3P4/Bk6/8/P2P4/8 w - - 0 1,4,Karl Lorenz Jesper Jespersen
+b636dbb2,6N1/8/5N2/4R3/3k4/8/1P6/2K5 w - - 0 1,4,Béla Majoros
+62d975f0,7q/4r3/1nB4R/2p2bn1/p1kpppN1/KR6/2PPN3/8 w - - 0 1,4,Андрей Яковлевич Лобусов
+509ecbe1,5B2/3b4/8/2N4R/2p3p1/b1P5/4R1p1/4K1k1 w - - 0 1,4,William Anthony Shinkman
+65586aa2,8/3pN1B1/8/7b/8/3k4/5Q2/K7 w - - 0 1,4,Валерий Геннадьевич Смирнов
+81dc3856,4R3/2kN2pp/1pPb4/1P1n1P2/4N1Pp/8/P2P3R/6BK w - - 0 1,4,Ангел Златанов
+3bbfcd71,5N2/7p/7P/4Pk2/2p5/6Q1/3P2P1/1NK5 w - - 0 1,4,Friedrich Köhnlein
+7a8d512d,8/8/2R5/2N1K3/ppk5/3R4/8/8 w - - 0 1,4,Владимир Владимирович Кожакин
+8b0e79a1,1Q6/4K3/8/6pB/2P4k/3P3P/8/8 w - - 0 1,4,Anton M. Dahl
+4f23fbe1,6k1/8/6N1/5BPN/6K1/6P1/8/8 w - - 0 1,4,Николай С. Зиновьев
+8bf35a6f,8/2pN4/3P4/1p2P3/1P1k4/4N3/3K2B1/8 w - - 0 1,4,Georges Legentil
+b1964e77,8/4B3/8/3p3p/3P3K/3B1k2/2P1R3/8 w - - 0 1,4,Frank Melville Teed
+73bb4354,2r3n1/2q2p1b/2n2p2/2bkr3/2NPN3/2K2B2/2P2P1Q/1R1R2B1 w - - 0 1,4,Илья Степанович Шумов
+762c0cd3,1n4K1/rp6/8/b6k/p4p2/5PpN/6P1/1B1N3R w - - 0 1,4,Volker Zipf
+af0480a1,2N5/1N6/p4p1p/3pk3/1p5P/P6P/4PPQ1/K4n2 w - - 0 1,4,Otto Fuß
+6c88b89f,8/8/8/6B1/3N4/5K2/8/3k3B w - - 0 1,4,Михаил Васильевич Матрёнин
+fb27085c,5B2/5p2/2pp4/2pk1K2/2p1p3/2P5/4P3/8 w - - 0 1,4,Frank Fiedler
+0a6b5670,8/4R3/3p2N1/3p1k1K/8/8/1N6/8 w - - 0 1,4,Глеб Николаевич Заходякин
+a5fc1bb8,8/3KNp2/8/2p1k1Pp/7P/2PPB3/2P5/8 w - - 0 1,4,Rudolf Leopold
+13f3a334,8/nQ6/6K1/1p2k3/3p3p/6pN/8/b3B3 w - - 0 1,4,Gregorio Menéndez
+df62fc10,8/7P/8/3p4/3p4/8/p7/k1K5 w - - 0 1,4,Adolf Herrmann Rudolf Ferdinand Kraemer
+292b6412,K3b3/3p4/3rpRp1/1P4Bk/Q1P1N1p1/p4Pp1/5P1b/6q1 w - - 0 1,4,Arthur Klinke
+f154a45a,1n6/4r3/4P1r1/P2N1p2/KpPk1B1b/1P3p2/8/5Q1b w - - 0 1,4,Conrad Bayer
+9b0b9752,8/2p5/2Q5/4Np2/3K4/6p1/6p1/7k w - - 0 1,4,Jan Smutný
+355e6c4c,1B6/8/R2N4/4r3/p7/k1r5/8/KR2N3 w - - 0 1,4,André Chéron
+c473a2e9,4B3/7p/8/5NkN/4P3/6K1/8/8 w - - 0 1,4,Ignaz Ernst
+c7111bae,b7/k2N4/1R6/2B5/3K4/5p2/1p6/8 w - - 0 1,4,Александр Павлович Гуляев
+0c1326cf,5n2/3r4/R1Pb1p2/2k1p3/2p1R3/K1N1P3/3P1B2/5b2 w - - 0 1,4,Josef Křivohlávek
+02638dfb,8/1R6/2p5/2kPP3/8/3K4/B7/8 w - - 0 1,4,Sophie Schett
+ffc4d4cf,4Q1Nb/n1r2pkp/6b1/2p2rN1/8/8/K4p1B/6R1 w - - 0 1,4,Hans Lepuschütz
+c8ec7b12,8/1p6/1R6/2k5/2N5/2KP4/8/8 w - - 0 1,4,Вячеслав Павлович Антипов
+6247ed60,8/8/p3p3/4Pp1p/P4K1k/7p/5N1P/5B2 w - - 0 1,4,Conrad Bayer
+4a163e5f,K7/5N2/8/1B1p4/3k4/3p4/8/2Q5 w - - 0 1,4,Александр Николаевич Варицкий
+e5164972,8/K7/2N3PP/1Q1p4/P3k1Pp/P2p3P/3P4/8 w - - 0 1,4,Joseph C. J. Wainwright
+6f99ca63,1n5r/2p4n/1R6/7b/7B/KNkPrp2/1p1N4/1B4R1 w - - 0 1,4,Alfred Ernst Sutter
+6240ed77,6B1/Kpn5/1pq3bR/np2pkpP/5pN1/3P1N2/2QBP2P/6R1 w - - 0 1,4,
+0bdd08ee,8/Q2B4/3p4/8/1pk5/8/2K5/8 w - - 0 1,4,Олексій Е. Файзулін
+d34eaae1,3nKBB1/b7/2p4p/4Nkp1/3p2N1/1n1P2P1/r7/1r6 w - - 0 1,4,Венелин Алайков
+ed60c1c5,4K3/B1pN2p1/3k4/p2Pp3/1b2P3/1PN1r1Pn/r4Rp1/nQ3b1q w - - 0 1,4,Benjamin Glover Laws
+4ad89b58,r3k3/1p6/3PK2P/1R2p3/8/8/8/8 w - - 0 1,4,Godehard Murkisch
+e4d64f6f,5kN1/3p4/1p6/3p1p1B/1p1B1N2/1b3pR1/1n4pK/q5n1 w - - 0 1,4,Jan V. Wenda
+2cd014a8,2B5/2p1p3/1pp1P3/P1P2k1p/2K4p/P1BPP2P/1P6/6R1 w - - 0 1,4,Hans Peter Rehm
+872a281b,8/Kp2bb1r/1B3R2/4k1p1/1PB2p2/3P4/3P1nN1/6Qq w - - 0 1,4,Luigi Sprega
+72b25f3a,Q7/8/8/8/p3p3/1B2p3/2p1K3/1bk5 w - - 0 1,4,Hugo Rohr
+cc12000c,8/6K1/8/5k2/R7/4p3/8/3R4 w - - 0 1,4,Андрей Васильевич Немцов
+467566ea,3B4/1KQ1p2n/1N3p2/3p4/1p1k4/1p1rp1Np/3rp3/3R1Bb1 w - - 0 1,4,Анатолій Володимирович Світильський
+b4571dc2,4R3/8/8/3pP1K1/4k3/3N4/3PP3/8 w - - 0 1,4,Віктор Олександрович Мельниченко
+731198ff,4R2B/3p3p/2p4k/4P2B/8/3pP3/3P4/1N5K w - - 0 1,4,George McArthur
+bd00fe5c,5NK1/5p2/2p2p2/RP2k3/2p4p/2N2P1p/5B1P/6R1 w - - 0 1,4,Günther Jahn
+203b67e1,7K/8/5N2/3ppk2/1R3p1B/8/4P2b/5Qnq w - - 0 1,4,Josef Kling
+dfb0fd18,3R2n1/2R5/3P1p2/1r6/p1Q5/b2N4/N4PPP/n2k3K w - - 0 1,4,Franz Sackmann
+c35e8131,7N/8/3p4/3P1kB1/3K4/8/4P3/1b4R1 w - - 0 1,4,Henri Gerard Marie Weenink
+2ed50cb2,5r2/2p5/2Kn1p2/p1RP1Pp1/r2pkpP1/2pR1N2/7P/2N2B2 w - - 0 1,4,Arieh Grinblat
+db7ff51b,8/8/8/8/3Q3K/3p4/1RnknR2/8 w - - 0 1,4,Čeněk Kainer
+4163e070,r7/6p1/3R4/2R5/8/8/2P5/k1K5 w - - 0 1,4,Gustav Herbert Hultberg
+efb941ef,4k3/8/8/3PP3/N7/3K4/8/Q7 w - - 0 1,4,Peter R. Jaeger
+50ab3134,3n4/5p1B/8/3PN1Pp/1P1k2P1/1pN1R3/5K2/8 w - - 0 1,4,Pavol Jankovič
+795639f7,k7/P4b2/Kp5r/nB1N1N1q/8/2B1R1b1/8/8 w - - 0 1,4,Авенир Николаевич Попандопуло
+1b89f5bb,8/4p3/8/2B3Q1/P7/1k6/8/4K3 w - - 0 1,4,Евгений Викторович Марков
+02bee518,8/4npN1/7n/1KR2p2/3kp3/2N5/2PP1P2/1B1b4 w - - 0 1,4,Josef Johann Breuer
+7ada9778,2nb2RK/2r2R1p/B6k/6p1/6P1/8/8/8 w - - 0 1,4,Hermann Rübesamen
+bc978280,8/8/8/8/8/kP1Q4/8/K7 w - - 0 1,4,
+510f3877,B7/p7/1p6/pk1p4/R2P4/8/KN2P3/8 w - - 0 1,4,Achille Campo
+7e5a4217,8/3p1B2/3k4/1Q4N1/7K/8/8/8 w - - 0 1,4,Валерий Алексеевич Иванов
+2768c70b,5R2/1b1p4/pKpkp1N1/3p2P1/Q1p5/1n4pp/7q/8 w - - 0 1,4,Charles W. White
+9fd558f1,8/8/8/8/p7/4K3/p1pp4/rbrkn1R1 w - - 0 1,4,Hannes Baumann
+baf0bf67,8/4Bp2/1p3P2/1B1p4/3k2P1/1p2RPP1/1P3K2/8 w - - 0 1,4,Luigi Bühler
+33a3359c,8/p6p/N7/5K2/3k4/8/2RB4/8 w - - 0 1,4,Виктор Сергеевич Лукашёв
+95ce5617,8/8/5p2/Kp2p3/8/3P4/bk6/NN4Q1 w - - 0 1,4,Friedrich Dubbe
+b2ad65e8,4rBk1/2N2pPp/1p6/1Knb1Nb1/r5P1/8/1P6/6RR b - - 9 1,4,
+1b5b9af1,5r1k/7p/p4q2/1p6/1P1pQ3/P6R/2r2PPP/5RK1 b - - 0 1,4,
+4d24f60c,8/pp6/6k1/5p2/2nn4/3N3R/PP2r1PP/2KN4 b - - 6 1,4,
+f21041e3,7r/ppp1k3/2n1pn2/3p4/8/1B3P2/PPP1RKPq/R3Q3 b - - 5 1,4,
+af800310,k4rr1/pp4q1/3N4/4p3/1Q1PP1P1/7P/PPP5/R1B3K1 b - - 0 1,4,
+1aa2354f,6k1/R4p1p/1p2np1K/p7/P5B1/1rp4P/5P2/8 w - - 0 1,4,
+48a1cc9f,r1b5/pp2k3/1np1p2Q/q2nP3/3P2P1/2PB1N2/rP3K2/8 w - - 3 1,4,
+db040188,r5k1/4b2p/p3pqp1/1P1R4/8/P3R2Q/B4PPP/6K1 b - - 0 1,4,
+3858f444,5r1k/Q5p1/5q1p/8/8/4R3/Pr3PPP/5RK1 b - - 1 1,4,
+c0a3e8c7,1Q6/2p1B2p/p1r5/kp6/3R4/5pPP/2r2P1K/8 b - - 8 1,4,
+4a9382fa,5rk1/pp3p1p/3N1p2/4p3/2Rn4/7Q/P4qPb/7K w - - 0 1,4,
+ac57b9f1,4R3/1b3pk1/2p2p1p/2bp4/1p5N/3B4/qP3PPP/6K1 w - - 0 1,4,
+2422392d,r7/4R2p/6p1/6N1/2B5/1P4PP/5k1K/q1r5 w - - 2 1,4,
+79f83090,8/pR3R1p/1p3pk1/4p3/4P3/r1r5/2P1K3/8 w - - 1 1,4,
+c19d14b4,6k1/6p1/4R3/3B2p1/8/6b1/3r3r/5RK1 w - - 2 1,4,
+f90bc2b0,2rr4/2q1kpQ1/p7/1p2p2P/8/P7/1PP3Q1/1K4N1 b - - 0 1,4,
+f8cc7550,r1r2b1k/1bq2p1p/3p1P1N/4p3/pp1pP2P/P2P4/1PP1Q1B1/R1B3K1 w - - 3 1,4,
+e95e141b,k5r1/bp2N3/p2Qp3/4p3/4P1q1/1N4P1/PPP2P1K/3R1R2 b - - 0 1,4,
+c6819b9d,r4rk1/p1pnq1p1/1p2p1P1/5p2/3P2P1/3Q4/PPP2P2/2Kb3R w - - 0 1,4,
+faea46cf,3Q1bk1/ppR1B2p/6p1/1q2Pp2/3P4/1P3NP1/r4PBP/6K1 b - - 13 1,4,
+725ae2c6,8/Rp6/6p1/2P5/1k4nP/1PR1p1P1/1P1r1r2/4K3 w - - 5 1,4,
+caafc765,2k5/7R/p1p1p3/2bp3N/2p5/1PKP1R2/P1P3r1/8 b - - 9 1,4,
+e946c9f3,2k1r3/1pp1rp1p/p2B1R2/7q/2QP2p1/2P3P1/PP3PKP/R7 b - - 0 1,4,
+7bf41ae5,1k1r1nnr/2N5/P2p1p2/3Pp3/4P3/5QP1/2P2P2/2q2NK1 w - - 2 1,4,
+3e321f23,2rq2k1/5ppp/8/p3N3/1n1N1Q2/R7/4rPPP/3b2K1 w - - 0 1,4,
+727eff53,r4r2/3n4/2p1Bp2/1p2pN2/p3P3/P2P1k2/1PP4K/2R3R1 b - - 1 1,4,
+f6951669,3B4/8/PP6/2R1pkpp/5n2/6KP/1r4P1/8 b - - 0 1,4,
+a70c7674,8/3Q1p2/pp3r2/2p1b3/2Ppqk2/BP5P/P7/6K1 w - - 4 1,4,
+ff4214f3,1k1r4/8/2p1p1p1/1pBr4/1P2pp2/P1b4R/4KPP1/1R4N1 b - - 3 1,4,
+c2b5c546,7k/p5p1/1n3b1r/4qB2/8/5Q2/PP3P2/1KR5 w - - 5 1,4,
+cbc9e45c,4k3/1p3p1p/3n1K2/2Q2B2/8/8/3q3P/3b4 w - - 32 1,4,
+96e8f24f,4k3/6R1/3pN1pB/pb1P1p2/2p5/7P/1P3qPK/4r3 w - - 4 1,4,
+6ff18537,3r1r1k/pQ4pp/8/5q2/4p3/4R3/PP3PPP/5RK1 b - - 0 1,4,
+8085a947,5k2/p4p1Q/2p1p1p1/3pP1P1/2b3P1/p7/q4PK1/1r5R w - - 1 1,4,
+4bc5987a,5rk1/2R2ppp/8/8/2Q5/1P6/r2q2PP/5R1K w - - 0 1,4,
+a650b4a3,2r2k1r/p4p1p/3q2p1/4Rb2/7Q/P1n5/2P3PP/4R2K w - - 10 1,4,
+524a01e0,1r4k1/5ppp/4bp2/Q3q3/8/1rR1P3/5PPP/2R3K1 w - - 0 1,4,
+0ce024a6,5rk1/RQ3p1p/4pp1B/8/2p5/6P1/P4PPK/3r1q2 w - - 2 1,4,
+c38ed728,2kr4/1pp5/p3pR2/3P4/Q1P4p/2N1n1rP/PP6/4R2K b - - 3 1,4,
+39ffcc90,r2r4/6RR/p1kb1N2/1p1Npp2/2Pn4/5P2/PP6/1K6 w - - 0 1,4,
+8172338d,2r3k1/4Rpbp/6p1/pp6/8/5Q1P/1q3PP1/6K1 w - - 2 1,4,
+3ba0effb,5k1r/p4p2/6p1/8/5b1q/2N2Q2/PPP3B1/R4RK1 b - - 1 1,4,
+ed3b4325,r4k2/pp1R4/2p4b/B7/4N2r/1P2nP2/1PP5/1K6 w - - 1 1,4,
+5a97fab1,5rk1/5ppp/R2p4/4q3/8/2P2Q2/1P1r2PP/5RK1 w - - 2 1,4,
+9db7f4e6,rn6/p1ppN1bk/1p2p2p/6pQ/8/3PK3/P6P/q7 w - - 0 1,4,
+ccceda3d,r6k/1bp3b1/1p6/p2np1P1/P1NP1p1p/1Q1P2pP/1P3P2/3RRBBK b - - 0 1,4,
+95626763,r4r1k/4qp1p/p2p3B/4nP2/4P3/2p3R1/PPP1b1PP/R5K1 w - - 0 1,4,
+92cc75d1,2r2rk1/6pp/R2Q4/1P3q2/8/8/5PPP/5RK1 b - - 0 1,4,
+1414cc9e,2r2kr1/pp1R2p1/5pnp/8/5N1P/4P3/qP3PP1/5RK1 w - - 0 1,4,
+62c57adf,8/1p1k1p1p/2nB1Qp1/p1P5/4P3/qB1r1P2/P1K4P/7R b - - 8 1,4,
+864f982e,5rk1/p3Q3/3p3p/4p3/2R4N/8/Pr1q1BPP/5RK1 b - - 0 1,4,
+63c112fd,6k1/3R1rpp/3n1q2/3QN3/8/1P2P3/r4PPP/5RK1 b - - 1 1,4,
+696ade78,2r2rk1/3b1qp1/p3p1Bp/1p1p3N/1P4Q1/P3P3/5PPP/2R2RK1 b - - 3 1,4,
+c7b337d0,6k1/5p2/2p3p1/1b5p/3bP2P/Q3B3/P1R2KP1/6r1 b - - 4 1,4,
+311edf40,2r3k1/p7/1bn5/4pQ1N/2q1P3/2P5/PP4PP/7K w - - 6 1,4,
+470a1b9f,Q3r3/7k/4q3/5p2/5Qpp/3P2P1/2P1rP1P/R1R3K1 b - - 0 1,4,
+521df877,3r4/pqn4k/1p3p1p/8/2p5/5Q2/PB3PPP/6K1 w - - 0 1,4,
+cc7dfdd0,Q2R4/p1r2pkp/1p3pp1/8/2q2P2/P6P/6PK/8 w - - 6 1,4,
+0f88a75c,r5k1/4p1rp/6p1/3P2P1/2q2P2/8/pQ5R/K6R w - - 0 1,4,
+9ce3d542,k1r3nr/p1q3p1/4p2p/2b1P3/2P5/8/P1Q2PPP/1RBR2K1 w - - 3 1,4,
+947351d9,6k1/pR3pp1/4p2p/3pP3/3P2QP/4nN2/5qPK/2r5 w - - 1 1,4,
+cfe0d4b6,4r1k1/p4ppp/8/2pQ4/2B1rq2/6RP/PP4K1/R1B5 b - - 1 1,4,
+9c4c9012,5qk1/pp3rp1/2p4Q/8/2N3R1/2PP2P1/PP3PK1/6n1 b - - 2 1,4,
+3809ca4e,2r1k2r/p1Q1nppp/1p2p3/3pP1B1/1q6/8/4BPPP/3K3R w k - 10 1,4,
+5508dbe0,r1b3n1/pp1k4/3Np3/2P5/6pB/8/q4PP1/2RK1B2 w - - 2 1,4,
+199d6733,r4r1k/pppb1P2/7p/n5p1/8/PBn1PNB1/5PPP/5RK1 w - - 2 1,4,
+4cb7476a,3r2k1/6p1/1p3pP1/p3P2Q/4pK2/1P1q3b/P4R2/8 w - - 1 1,4,
+9b26cbb1,rnk1bb1r/ppp3pp/5q2/7Q/8/1BN5/PPP2PPP/R5K1 w - - 0 1,4,
+897673b5,5rk1/pp6/1qp3p1/7p/4p1n1/1PPP1RPP/P7/5R1K w - - 0 1,4,
+fe3b3a42,7k/pp4r1/2p3Bp/8/3Q1pP1/1P1P2q1/P7/5K2 w - - 7 1,4,
+afabce6b,8/1p4kp/3P2p1/3q4/5Q1P/6PK/P7/8 b - - 4 1,4,
+9100f5c0,1rr3k1/1pR2pp1/p3b2p/4q3/7Q/3BP2P/1P3PP1/2R3K1 w - - 1 1,4,
+1b05b69a,7r/1p6/3P1k1r/pP1Qnp2/6p1/6P1/4PP2/2RR2K1 b - - 0 1,4,
+dc1f2f45,r1b5/kp4p1/p1ppn3/4q3/1N6/1Q6/PPP3PP/1K3R2 w - - 2 1,4,
+a26f53e8,r4rb1/pp4k1/5pp1/q1n3N1/7Q/8/P1P2PPP/R3R1K1 w - - 2 1,4,
+7c195c6a,6B1/3Q4/1p3pp1/p1p1b1k1/2P1P3/1P5P/q7/5K2 w - - 4 1,4,
+422b1205,1k1r3r/p4p2/7p/4R1b1/4n3/1B6/PP4PP/2R3K1 w - - 1 1,4,
+437915b3,r1b2k2/5p1p/p2p3P/qpnP1N2/2r1PPQ1/8/PKB5/3R4 w - - 2 1,4,
+d15157f5,r1q1r2k/4p2p/b1p1QppB/p7/2P1N3/8/P1B2PPP/3n2K1 w - - 4 1,4,
+ef835581,4r2k/2qb2rp/p2b4/1p1B4/4Q3/1P3RP1/P1P4P/5RK1 w - - 4 1,4,
+a27fc3de,3r1k2/1b1P2pp/p4p2/q3r3/2B1P3/2P5/6PP/3Q1RK1 w - - 1 1,4,
+6160e09a,7k/1R5p/8/5Kp1/8/1p3P2/8/1r6 w - - 2 1,4,
+2daa71ee,2Q5/p4prp/3P1k2/1P2p2q/8/5bP1/P6P/R4RK1 b - - 5 1,4,
+43abcc98,r4r1R/p3ppk1/1p2p1p1/6N1/1n2Q3/3b1KP1/2q2PP1/5B2 w - - 2 1,4,
+c4129773,6k1/5p1p/1Pq3p1/8/5PKP/4Q1P1/8/8 b - - 10 1,4,
+8ce33276,2r2k1r/pp1n1p2/4R3/3p2Q1/3b1N2/5q1p/P4P1P/5RK1 w - - 0 1,4,
+33c4a711,r7/pp3Bk1/2p5/4p1pQ/4Pq2/2Br3P/PP4P1/6K1 w - - 0 1,4,
+e7fd6412,6R1/5p2/7p/3p3k/8/1p1bBP2/6PK/5q2 w - - 4 1,4,
+a7c6c918,2r2r1k/pp3qp1/4p2p/4Q3/4B3/Pb1R4/1P3PPP/5RK1 b - - 4 1,4,
+2345a9ae,2Q5/5rkp/6p1/n3p1P1/1q1pPr2/p4P2/1PP2R1R/2K5 w - - 2 1,4,
+76606a6f,r2q4/1p2p2k/4br2/p2n2Rp/P1BP3P/5P2/1PP5/2K3R1 w - - 1 1,4,
+1e4e1ff6,1k4r1/ppp1p2p/4Qp2/2q5/4R3/2NP1nP1/PPP5/4RK2 b - - 0 1,4,
+260072a9,5r1k/7p/4Q1pP/1b1pP3/2pP4/2q1P3/2B1K3/R7 w - - 0 1,4,
+358422ac,r4k2/4n3/2p1B2p/1p2Q1pP/p2P4/q2P4/P5P1/1K6 w - - 6 1,4,
+610b2348,6k1/R5p1/p6r/P3P1R1/4K3/2r5/4n3/8 w - - 4 1,4,
+b405326c,5rk1/pRp2ppp/8/8/P2r1Q2/2q5/6PP/5R1K w - - 2 1,4,
+8ea1578e,6k1/1p1bn3/p3p2B/3pP3/2nP4/P1PQ4/5rr1/K5RR b - - 1 1,4,
+b363eb46,r5k1/p3Q1pp/1p2p1b1/3pP3/8/8/Pq4PP/2R4K w - - 0 1,4,
+3af9f8cf,6k1/2R2pp1/8/2P2KPP/2r5/p7/8/8 w - - 0 1,4,
+44ec4b9f,5rk1/R4ppp/1p1p4/3P4/5QP1/P3P2P/r1q5/5RK1 w - - 1 1,4,
+e604827a,2r3rk/p4ppp/q7/3pBb2/3P3P/6Q1/4RPP1/4R1K1 w - - 1 1,4,
+e017ecf9,5r1k/4r1p1/1q2ppQp/p2p4/1p1P1P2/2P1R2R/PP4PP/6K1 w - - 0 1,4,
+4c50034d,r1bqk2r/pp1nb1pp/2n5/2pp2N1/5p1P/2PBP3/PP1N1PP1/R2QK2R w KQkq - 0 1,4,
+ca6828e8,Q4n1k/p1p1q2p/1p6/3p4/3P4/1PPBP2P/r7/2K2RR1 b - - 0 1,4,
+d7f6cef4,2r2r1k/6pp/1p2P3/3P1q2/4R3/pQ6/P5P1/1K2R3 b - - 2 1,4,
+c1c55ee3,r4rk1/6pR/3q2P1/p1pPpb2/1pp1P3/2P2P2/PP1Q4/R3K3 w Q - 0 1,4,
+fe4bd550,3r2k1/4Rpbp/q2p2p1/P1n4n/5P2/2P5/Q2B1P1P/6K1 w - - 3 1,4,
+4b8d4f4b,8/p2B2kp/3P1qp1/8/3Q4/5p2/P2Rb1PP/6K1 b - - 1 1,4,
+142b300b,4k3/1p1rn3/8/p6N/8/r5PP/8/5R1K w - - 2 1,4,
+8b075d8f,5r2/p2R4/6kp/2p2p1N/4B3/7P/r4PP1/4b1K1 w - - 2 1,4,
+a2c295a5,Q7/5p1p/p5pk/P4p2/4rP2/7P/2r2qP1/R5RK w - - 0 1,4,
+8217c85c,8/1r3pR1/2p1pB1k/3pP3/3P2Pp/4n3/2r3PP/5RK1 w - - 5 1,4,
+a209e8c7,3r4/Bpk1q3/1NPp2pb/8/B3P3/1QP2rPp/P6P/1R4K1 b - - 0 1,4,
+b04a7d51,1r5k/4qpp1/p3p3/3pP1N1/3P1Q2/6P1/4bPK1/8 w - - 0 1,4,
+3b02e8e2,6k1/pp3rp1/3p1R2/3q4/4pQ2/PPr3R1/K4P1P/8 w - - 0 1,4,
+3168f3fb,r4r1k/5ppp/1p3b1B/p2q4/3pp1R1/7P/PP4P1/5QK1 w - - 0 1,4,
+7d8a2366,3r1r1k/1R2Q1pp/1p6/8/8/8/Pq3PPP/5RK1 b - - 3 1,4,
+a41757d3,5rk1/R5pp/4p3/3p1q2/1Q6/8/P1r2PPP/5RK1 b - - 1 1,4,
+b82ea7bf,6r1/8/5B2/5P1p/2R1Bk2/2P2Pr1/5KP1/8 b - - 0 1,4,
+f37a1f1b,6r1/7p/p3N2k/1p6/1n4Pp/1B6/Pr6/5RK1 w - - 0 1,4,
+5bc7af7f,5r1k/p5pp/1qp1Q3/3rp2N/8/2B5/PPP2PPP/5RK1 b - - 9 1,4,
+9e0fee12,3R4/6pk/6pp/p3p3/1b2N2P/5P1K/q1r3P1/3R4 w - - 5 1,4,
+fdca14ff,4q2k/Q5bp/8/3P4/8/2P4P/PP4P1/3N2K1 b - - 0 1,4,
+2f206e53,k5r1/pppN1Q2/2q3r1/8/2p5/6P1/PP5P/3R1RK1 b - - 0 1,4,
+9256bae5,6k1/5pp1/2p4p/4b3/1p2P3/2q2QPP/3R1P1K/r7 w - - 0 1,4,
+e0039283,4Nr2/p4p1p/5Qbk/6p1/8/4P3/q4P1P/6K1 w - - 2 1,4,
+9d4e545a,1k6/pp1P1N2/1bp1r1p1/2p3B1/8/2P2Rp1/PP4P1/6K1 b - - 0 1,4,
+a87a437c,6r1/kp1n4/2p5/3pP3/1Q1P1B2/2P5/1p1K1PP1/1q6 w - - 4 1,4,
+d85a134f,2rr1k1b/5p2/2q1p1p1/4P3/ppp1NP1Q/4p3/PP4K1/7R w - - 0 1,4,
+45ebac00,8/2Q5/3p2k1/3P2p1/2P3Pn/1P3rnP/P7/R5K1 b - - 2 1,4,
+530edefc,5Q2/5p1k/6p1/2B1P1bp/3P4/8/r2q1PPP/5RK1 b - - 10 1,4,
+79d69e3e,7r/RQ2R2p/6pk/7r/1P1q4/5PK1/5P1P/8 b - - 2 1,4,
+b80ab799,k7/P5p1/1K2p1p1/8/3P3p/4P3/2p3r1/2R5 w - - 1 1,4,
+bbd40159,8/2pkb1QP/p4p2/2p5/4P3/BPq2P2/K1PnN1P1/7R b - - 0 1,4,
+0e2559eb,6rk/1p2bp2/4p1p1/3pP3/1P1q1PQ1/4r3/6RK/1B4R1 w - - 0 1,4,
+8c607461,4Q3/6bk/p3B2p/1p2n1p1/1P6/5qPK/7P/8 w - - 0 1,4,
+4986a83a,6k1/4npbp/p3p1p1/1p2P1NP/1Pqr2P1/P4QK1/5P2/8 w - - 0 1,4,
+8f7e2538,2r2k2/pp3p2/1nq1pB1p/2p5/2P3Q1/1P5P/P4PP1/5K2 w - - 1 1,4,
+416b6ea9,2k3r1/1bp2Q2/1p3B2/2q1P3/3R1P2/P1P5/6RP/6K1 b - - 0 1,4,
+ab2b63e9,3Q1R2/6pk/7p/6r1/4q3/P1N5/1P2r1PP/6RK b - - 6 1,4,
+54bcd869,4r3/5k1p/1nn2p1B/4pP2/pp2b2N/7P/1P5K/6R1 w - - 4 1,4,
+5d0f2619,3r3k/p4ppp/2p2R1B/q3p3/3rP1Q1/1BN5/PPP3PP/7K b - - 0 1,4,
+f1f61289,2r2k2/pp3pp1/4p1p1/3pq3/QP6/PN3KP1/5P1r/2R5 w - - 0 1,4,
+a90c3119,5rk1/p4p2/2p4p/3p4/6qp/3PRbP1/PPPN1P1K/R3Q3 b - - 1 1,4,
+b3785678,8/2q2r1p/4Q3/p4ppk/8/5R1P/1p4P1/6K1 w - - 0 1,4,
+0b84aa6d,r4rk1/p3p2p/2pp3P/2q3p1/4P1R1/2PB4/P1PQ2P1/R3K3 b Q - 0 1,4,
+3d57d6bf,2QQ4/6pk/3qrp1p/pp3P2/7P/7K/P5P1/8 b - - 0 1,4,
+af683a0b,4r1r1/k1p2p1p/p4p2/pqPP4/8/P6P/R1Q2PP1/6KR b - - 4 1,4,
+d01fc142,3r4/Q4p2/2q1kPp1/8/p1p5/2P1P1B1/1p4P1/6K1 w - - 4 1,4,
+e6615253,6k1/r5b1/6P1/5K2/8/8/8/q6Q w - - 0 1,4,
+d4a5fb91,Q2Q4/6pk/6rp/8/8/5P1K/6r1/8 b - - 0 1,4,
+1b8e72cf,8/8/R5pp/1p6/2k2N2/4K3/PP5r/1b6 w - - 4 1,4,
+e976c931,6k1/6p1/8/8/5rQ1/7P/4rqB1/6RK w - - 12 1,4,
+ea5b3927,8/2R2p1k/p2p1Ppp/1p6/5N2/P2r1r2/7K/8 w - - 2 1,4,
+15d00576,4r1k1/5ppp/8/QR6/4P3/5B2/2rq1PPP/1R4K1 b - - 0 1,4,
+7a925ef6,rn3rk1/p1p2ppn/1p1pp1b1/3P4/2P5/2Bq4/PP3P1Q/2K3RR w - - 0 1,4,
+f4666598,Bk6/p5p1/5b2/7p/2P5/1KP2Q1P/P3r3/4r3 b - - 4 1,4,
+e5a5791f,k1r5/pbQ3pp/7q/Pp6/1p2p3/2P1P3/2B3PP/5R1K w - - 2 1,4,
+2804bb58,5B2/7p/2p3p1/1b3p1k/1P3K2/P3R2P/3r2P1/8 w - - 19 1,4,
+cefb7cba,5rk1/Q4ppp/1pp5/8/8/3R2P1/P1q1rR1P/6K1 w - - 0 1,4,
+e26dacdd,r7/1p1b4/p2q2kB/3p4/4nQP1/7P/PP6/5R1K w - - 5 1,4,
+df54debb,5rk1/5ppp/R3p3/1p2P3/1P3Q2/7P/1qr3P1/5RK1 w - - 2 1,4,
+c0c4d1b6,4rr1k/1ppP2p1/p6p/7Q/4nq2/P7/BP3PPP/3RR1K1 b - - 0 1,4,
+f013999f,3r1rk1/pp5p/2p3p1/8/4Pq2/P1Q2nR1/1PP2P1P/6RK w - - 3 1,4,
+64fc958c,r4r1k/6pp/5p2/2Q1p3/1pP1PP1P/1P1q2P1/1K1B4/3R3R b - - 0 1,4,
+d2f7831c,4n1k1/4qppp/8/3p4/5Qb1/1N4P1/PP3K1P/1RB5 b - - 0 1,4,
+2a556460,4r1k1/1R5p/Q2p2pq/3P1p2/2P5/7P/P3rPP1/3R2K1 b - - 0 1,4,
+1137a19c,r1r3qk/5ppp/4p3/pp2P1R1/3P3Q/7R/2p2PPP/2n2K2 w - - 0 1,4,
+3aefd4db,3r2k1/1p3ppp/pq6/4Q3/5nP1/1N3P2/PPP4P/5R1K b - - 0 1,4,
+fb0ad1f8,8/1R4R1/5p1p/7k/8/5P1P/r4r2/7K w - - 1 1,4,
+5f8add63,1kr5/p1p2R1p/Bp6/4Q3/4P1p1/2P1P1P1/P5KP/1q1r4 w - - 0 1,4,
+9bab86f2,5rk1/p1Q2ppp/8/8/2P5/8/P1q1r1PP/3R1R1K w - - 1 1,4,
+e0285e85,6k1/pppb1pp1/2nq3p/3p2N1/1r6/4Q2P/PPB2PP1/4R1K1 w - - 0 1,4,
+5b9cb1c2,4B3/1p4pk/7p/2P2b1P/5N2/5pP1/1r1r4/R5K1 w - - 0 1,4,
+770c2eea,r4rk1/5qp1/2N3Q1/1p1p4/1P4Rp/8/5PPP/5RK1 b - - 0 1,4,
+197e8050,r3qk2/p1n1p1b1/bp3nQ1/3p2N1/5B2/4P3/PpP2PP1/1R2K2R w K - 8 1,4,
+8fcbe373,4rr1k/1p3p2/p1pp3p/6q1/4PRQ1/6R1/6P1/7K w - - 0 1,4,
+49f4b8e8,5rk1/1R2R1pp/8/p2p4/6P1/2P3K1/P4r1P/8 b - - 5 1,4,
+ee0b69ce,5rk1/p1r4p/3Np3/2qpP2Q/1p5P/7R/PPB3P1/1KR5 b - - 0 1,4,
+0e3588fe,6k1/5pp1/3R1n1p/2r2PP1/1n5P/8/p7/1B5K w - - 0 1,4,
+c55966eb,1k6/1ppn1p2/1p1p4/3PpP1p/P1P1nq2/2N2N1P/1P4Q1/6K1 w - - 0 1,4,
+28b0caf7,2r2rk1/3RQ1p1/p3p2p/1p6/8/1P6/1P2qPPP/5RK1 b - - 1 1,4,
+3f708a9f,1k6/1p1R1p2/2p1p1n1/Q4b2/1P5q/2P3p1/P5P1/4R1K1 b - - 2 1,4,
+23616088,5rk1/pp3r2/n1p1Q3/q3P2P/2PP4/P7/1P6/2K4R w - - 2 1,4,
+aa82c920,3r1rk1/6p1/p1R4p/8/4Q3/1P6/Pq3PPP/5RK1 b - - 0 1,4,
+2c48fc40,r4rk1/p4p2/bp2p1N1/3p2N1/5PP1/2P4P/P6K/1Q3q2 w - - 0 1,4,
+4b7fcacc,5rk1/1p5p/p3pqpQ/2p3N1/P3R3/1nPr4/1P3PPP/5RK1 b - - 1 1,4,
+74f0b92c,3k3r/4bppp/1p1pp3/1Q1q4/8/1P6/P4PPP/2R3K1 w - - 0 1,4,
+7d55534f,6R1/2q2p1k/4b3/6R1/5PP1/4B1K1/8/1q6 w - - 0 1,4,
+b1896ba0,7Q/pppk1p1p/2qp3B/8/8/1B6/PP2RP1P/K7 b - - 0 1,4,
+49d24642,6k1/6pp/6r1/p2pp2K/3Pb1P1/2P1P3/PP1R4/R7 b - - 2 1,4,
+55a95239,8/p1rRN2p/1b3p1k/8/6PP/6K1/8/8 w - - 3 1,4,
+0a4f79a2,R7/8/6p1/1P1r4/P4k2/2n4P/6P1/6K1 b - - 0 1,4,
+bcc8b67d,Q1b1r2k/6pp/R4p2/8/1b3B2/1P1B4/2P2qPP/2K2R2 b - - 1 1,4,
+053c5fdf,8/1R6/5ppp/6k1/2B5/p4PP1/3K3P/r2b4 w - - 0 1,4,
+569a1778,8/p5R1/k1p1R3/P2n4/1PKP2rr/8/2P5/8 w - - 0 1,4,
+6bba40c9,5rk1/1p3ppp/p7/1q6/3pPQ2/3Pr2P/PP4P1/2R2R1K w - - 6 1,4,
+ebf59116,1R6/1R6/p2B1kp1/2pP4/3b4/8/r3r1PP/7K w - - 4 1,4,
+eb0431a4,8/5ppk/RP4rp/2Qb2q1/8/5P1P/6PK/6R1 b - - 2 1,4,
+ac5d260f,1Q6/R4rk1/3p1p1n/1P2p2p/4P1qN/3P2Bp/5PP1/6K1 b - - 2 1,4,
+e1c5b242,5r1k/2p1q1r1/3p2p1/p1n1p1Np/1nB1P3/4P2Q/P2K3R/7R w - - 0 1,4,
+80a375b1,8/2p1k3/4ppQ1/3n3p/2q4P/P7/2P3P1/1KR5 b - - 1 1,4,
+42122b23,2Q5/5Npk/4p2p/3p4/3PnP2/q3P3/1r4PP/4R1K1 b - - 0 1,4,
+24c908ae,8/2p4p/5Qpk/3n4/8/1P1P1KP1/P1q4P/8 w - - 3 1,4,
+758b6fd3,r4rk1/2p2pp1/p1n4p/1p1B4/3P1b2/2P4q/PP3P2/RNBQR1K1 b - - 5 1,4,
+62a776bc,5Q2/3k3p/r1p3p1/p2P1p2/3qn3/B7/P5PP/R4R1K b - - 2 1,4,
+92fb766b,6k1/2p1brpn/pp3r1p/3Pp3/4PpQ1/P1Nq4/1P3PRB/6RK w - - 0 1,4,
+8b1af257,8/5k2/4ppp1/pp6/4qPK1/P2R3r/8/3R4 w - - 0 1,4,
+ef8ef95a,5rk1/5ppp/2p3r1/3nq3/R7/5Q2/6PP/5RBK w - - 0 1,4,
+6bf814be,5K2/P1Q3pp/4p1k1/3b1p1n/7P/8/rp6/8 w - - 0 1,4,
+356a63a1,8/1p3kbR/p3p3/P1p1Pp2/2P2P2/1P2r3/2qrNK1P/6R1 w - - 0 1,4,
+b99c841a,5r2/pp3pkp/1bq3rN/3pPQ2/3p3R/8/PP4PP/5R1K w - - 6 1,4,
+b217ef40,3r1rk1/pp3p2/6p1/3p4/5q2/2PQ2R1/PP6/1K1R4 w - - 0 1,4,
+5b881647,4r1k1/6p1/4pbP1/3n1P1p/pp1qQ2P/8/PP6/1KR4R w - - 0 1,4,
+3d96f5a6,6RQ/4qk2/5p2/1P5P/n3P3/3P1P2/8/1K6 b - - 0 1,4,
+23d4cd50,3r2k1/pp3rp1/5qp1/2Q5/2P5/4R3/P4PPP/5RK1 b - - 0 1,4,
+6a30ae41,2b5/5r1p/p1p5/P1Pn1N1k/3BK2P/4P3/5P2/5B2 w - - 3 1,4,
+f94b7fe1,1k1r3r/1p6/1Pp2p2/Q2q4/P2n3p/5pP1/7P/2R1R2K w - - 1 1,4,
+0bb16b49,2k5/4n1R1/p3p3/B2pP1b1/B1bP2P1/8/1P3KR1/7r b - - 16 1,4,
+0bba3447,r4nk1/p1q2b1p/2p3p1/2Pp1NP1/8/1PbB4/PB6/1K5R w - - 0 1,4,
+65ce573d,2r3r1/ppp2Qpk/3p4/4p3/1P4R1/P6P/6PK/2q5 w - - 0 1,4,
+2b9924b0,1r3r1k/6p1/p1R1Q2p/3p4/8/P3P3/2q2PPP/5RK1 b - - 0 1,4,
+bb58937c,Q3r2k/7p/7r/6p1/5b1q/1BPP2Nb/1PQ2PP1/R4RK1 b - - 0 1,4,
+fcce9e2b,1r4k1/p1p3p1/2p1r2p/q2b3Q/4N3/1P1Bp3/P1P3PP/5R1K w - - 3 1,4,
+94910d21,6r1/2R4Q/p4p1n/2pPp1k1/3qP3/5PK1/P3B1P1/7r w - - 5 1,4,
+f3555757,8/1r5k/R7/3r4/5pR1/B7/5PP1/6K1 b - - 0 1,4,
+977be913,3r3k/pp2q1p1/4PpQp/5P2/8/7R/PP5P/3r2RK w - - 6 1,4,
+2747fa82,2k1r3/5r2/1p3q2/2bp4/4pQPp/2P4P/5P1B/1R4K1 w - - 0 1,4,
+95c23b38,Q3Rb1k/8/7p/8/7q/P1P3p1/1P1r2B1/1R4K1 b - - 0 1,4,
+831d5273,7r/1b1p1pk1/p4Np1/1p2Pp1P/7R/8/PbrB2P1/6K1 w - - 0 1,4,
+8666ba87,4r2k/1b1Q2bp/pq1p4/1p4B1/8/P1P5/BP2r1PP/3R2RK b - - 2 1,4,
+7bb0db34,8/R5p1/6kp/5p2/8/7P/p1rn2PK/B7 w - - 0 1,4,
+b1394ef9,7k/7p/6Pq/P2Pp2n/5p2/P1N2Pb1/2Q2BP1/2R2RK1 b - - 0 1,4,
+5a03c296,8/pR2R1p1/6kp/2rppp2/6PP/5r2/P2K4/8 w - - 0 1,4,
+5da79233,6k1/p2P1pb1/2Q3pp/8/8/1P2r1qP/P5N1/3R2K1 b - - 1 1,4,
+1cf005ea,1r4k1/7p/p2pN1p1/3P4/3B1p2/2P2PqP/PR4P1/5b1K w - - 7 1,4,
+c4a92859,8/ppr1k1p1/4pp2/3nN2Q/3P4/3R3P/1qr2P2/3RK3 w - - 8 1,4,
+c6ad1c87,5r1k/qR4p1/P6p/8/4Q3/2BP2PP/6K1/8 b - - 2 1,4,
+039a088d,Q7/5pkp/6p1/1pb5/4BP2/6qb/4R1P1/5R1K b - - 2 1,4,
+50db538d,5r1k/p6p/1rp2p2/8/4q3/2Q5/PP6/K2R2R1 w - - 4 1,4,
+b28c4e76,2R1Qbk1/5pp1/4p2p/q1PpN3/3P4/2nBP2P/5PPB/6K1 b - - 0 1,4,
+1180e10e,4k3/2r2r2/3Q2pR/4p3/4q3/8/PPP5/1KR5 b - - 0 1,4,
+a7050e11,6rk/2p4p/1p1p1b1r/2BPp3/p1P1Bp2/P4PqP/1PQ1R1P1/5R1K b - - 0 1,4,
+61f58778,r3r1k1/5p2/p6Q/q2p1B2/8/1P6/3p2P1/1K6 w - - 6 1,4,
+1b06320a,2kr1b1r/2p2p2/Pp2p3/4P2p/6p1/q5P1/2PpB1QP/1R4K1 w - - 1 1,4,
+b26b8eac,r4r1k/4p1bp/3p1np1/q1p5/1pBP1B2/1P2Q2R/2P2PP1/1nK4R w - - 0 1,4,
+bfc17f43,3R1rk1/1Q5p/6p1/8/2r1pn2/8/PR2N1PP/6K1 b - - 0 1,4,
+6b5d4e02,1Q6/1Q5p/4p1pk/3p4/P1r1q3/6PK/7P/2q5 w - - 3 1,4,
+b4196187,8/3r2k1/8/6Bp/R4KpP/P7/1P4R1/4r3 b - - 2 1,4,
+1b2d2991,6k1/5pnp/2R5/3Bp1PP/3bP1K1/8/8/r7 w - - 1 1,4,
+6e9fca66,6r1/5k1p/p2bp2Q/Bb3p2/2pP4/8/P1B2P1P/R6K b - - 0 1,4,
+6ab7bf3b,2r2rk1/1p4p1/3p3p/pP1Pp3/P2NP3/1R1Q2Pq/5P1P/5R1K b - - 0 1,4,
+fba33fd7,2k5/1ppr1ppp/1P2pn2/2Q5/3n4/P4P2/1P2q2P/1KR5 w - - 0 1,4,
+f8a9bad3,r2qr2k/ppp1b2p/3p2pB/3P4/6QP/2P5/PP3PP1/4R1K1 w - - 2 1,4,
+0e95c8e2,2r5/R4pk1/5np1/1Pp3p1/2Q2P2/1P2q1PK/3r3P/8 w - - 0 1,4,
+23625ace,1r6/6bk/3P2p1/5BQp/3q4/7P/P4PP1/q3R1K1 w - - 0 1,4,
+d80e384c,Q4r1k/5Ppp/8/3p4/1Bp1n3/P3q3/6PP/2R2R1K b - - 1 1,4,
+bb9697f7,1r1r4/5p1p/k1pq2p1/2Q5/1P1p4/1R4P1/K4P1P/2R5 w - - 0 1,4,
+44e78cb7,3rr1k1/1p3ppp/p2p4/3Q1R2/4q3/2P5/PP4PP/5RK1 w - - 0 1,4,
+30276f11,2r5/7p/2PB1kp1/3P4/4R1K1/r7/6PP/8 b - - 2 1,4,
+11c09e52,1kr5/ppp3pp/7r/1P4q1/P5p1/3P4/2Q2PP1/2R1R1K1 w - - 3 1,4,
+b24b159a,4rk2/1p3p1Q/p2R1q2/2p1r2B/2P5/1P5P/P4PP1/2R4K b - - 0 1,4,
+8fecdca4,5rk1/5ppp/4p3/3p3P/8/1R3QP1/1P1q2P1/2r2R1K w - - 1 1,4,
+d0a2d415,r2r2k1/4R1pp/b7/p7/P1p5/2q4P/1p2QPP1/4R1K1 w - - 0 1,4,
+d1f2cb49,5k2/5pp1/p2rp2p/8/P1R2P1P/4K1P1/1PRr4/8 b - - 4 1,4,
+604ba387,5r1k/4Q1pp/p7/1p6/2pP4/P1P3RP/1P1q1PK1/8 b - - 6 1,4,
+c2a60564,2k5/pp3Q2/4p3/1q1pr3/1b1p1B2/1P5P/P1PN1PP1/R2K3R b - - 8 1,4,
+e3fa85a9,r1b2rk1/p5b1/2pp1q2/1p4pQ/3P4/2PB4/PP4PP/RN4K1 w - - 0 1,4,
+5b2332e2,7r/1p2R3/2k4p/3p2p1/3P1p2/pP5r/P7/1K2R3 w - - 2 1,4,
+93910e56,8/R1P5/8/7P/P5P1/5k2/1r6/7K b - - 6 1,4,
+c9ee5c09,4k3/2p5/p5p1/1p2Pp2/7q/P1P3b1/1P1Q2P1/3R2K1 b - - 3 1,4,
+71bd5d5a,2rq1rk1/1b1n2p1/2n1p2p/p2pP2P/3P4/3Q1p2/PP2NP2/RB3RK1 w - - 0 1,4,
+1a4b730f,r1br4/ppp3bk/6p1/n3p3/8/1QPqP1B1/PP1N1PP1/2KR4 w - - 0 1,4,
+96394400,5r2/pp1qrp1k/2pp2p1/6Qp/4PR1P/1P1P2R1/1PP3P1/7K w - - 13 1,4,
+43a1c929,3r3k/pq1r2pp/b1p2p2/2b2P2/4P1QP/2N2K2/PPP5/3R2R1 w - - 0 1,4,
+e92807ec,r1b2rk1/p4ppp/2p5/4q1BQ/4P3/P1N4P/1n4P1/3R1R1K w - - 0 1,4,
+1466cf65,r1r4k/p4Qbp/6p1/6q1/2Pp4/1P6/P3RPPP/4R1K1 w - - 0 1,4,
+68f3123b,3r2k1/pp2Qpb1/2p3p1/5bNp/5P2/7P/P2q2P1/4R2K w - - 0 1,4,
+013b5c0b,1R3Q2/5ppk/p6p/5P2/6P1/5PKP/q1r5/8 b - - 6 1,4,
+645d4b6f,2r2r2/7k/bp2pp2/p7/P1pR4/8/1P3n1P/1K1R4 w - - 0 1,4,
+8cd87ef4,2k4r/1br2Q2/pb2p3/1p2P1B1/1P1p3P/P1qB4/5Rp1/1R4K1 w - - 1 1,4,
+aa33d3ac,2r3k1/pp4p1/4p1rp/4B3/5Pq1/P2Q4/P5RP/6RK b - - 0 1,4,
+aada792f,R7/2kb2pr/p2N3p/4P3/2Np2nq/3P4/PP4PP/R2Q2K1 b - - 0 1,4,
+1ad3b8ba,2b1r1k1/1p3ppp/p7/3p2q1/5N2/1P2Pp1P/PB1Q1P2/2R2K2 b - - 3 1,4,
+959dae17,8/5ppk/4p2p/4N3/PQ1P4/5PPK/4q2P/8 b - - 2 1,4,
+a1462352,6rk/1p4rp/8/4Q3/P1R3R1/b1K1P3/8/7q w - - 14 1,4,
+ab1614d3,1k1r2r1/1pp3q1/8/1pQ4p/1P3P2/P7/2P1RPBP/6RK b - - 0 1,4,
+c498ab6f,1r4k1/p3ppbp/3p2p1/2P5/1r2NNPP/qP2B3/P1P5/1KQR3R b - - 2 1,4,
+a66aaf4f,r1b2rk1/pp3ppp/8/2P4Q/4q3/7P/PP4P1/3R1R1K w - - 0 1,4,
+50a4889e,r4r1k/1p4p1/p1np2Q1/2p1bP2/2P2RP1/3P3P/P5BK/q7 w - - 1 1,4,
+0b326d96,5n2/4qpk1/4pNp1/4P1RQ/2p2P1P/2p3R1/6PK/r2r4 w - - 2 1,4,
+b5cd0403,3r2k1/1Q3ppp/3q1n2/2b1R3/2B5/2P2Q2/P1PB1PPP/1RK5 b - - 0 1,4,
+44443c4c,1rb2r2/6QR/p1kqp1P1/K2p4/8/2Nn4/PPN5/8 w - - 0 1,4,
+d315118b,6kr/pp3pp1/2n5/2Q3p1/3P4/2P5/3K1Pq1/4R3 w - - 0 1,4,
+4f0b5e45,8/R5p1/6kp/1p2Bb2/8/3p3P/1Pr1n1PK/8 w - - 0 1,4,
+021998a0,5q1k/6pp/2p5/p2P4/3QP3/8/PBP3nP/3K4 b - - 0 1,4,
+4b4b4067,2r2rk1/Rp4p1/8/8/3PQ2p/8/1q3PPP/5RK1 b - - 0 1,4,
+7e971a10,r4k2/ppp2r1p/1b1pR3/3q2pQ/8/1P6/P7/2K1R3 w - - 0 1,4,
+989499e6,1knr3r/1p3p2/2p1pnp1/Q3N2p/3PP3/3R1P2/PP3P2/2K2Bq1 w - - 0 1,4,
+3d4d632f,8/pp2N1bk/6np/4p1p1/4Q1n1/P4rPq/1PP2P2/3R1RK1 w - - 0 1,4,
+eb88da01,1r6/5ppk/1q1p1b1p/p1p5/P3P3/1r1P4/K1PQ3R/7R w - - 0 1,4,
+94ff9d56,5rk1/1Q4pp/1p6/2r2q2/8/P3R3/1P3PPP/5RK1 b - - 0 1,4,
+85e2d9c9,R4bk1/2q2ppp/2p2n2/4pN2/4P3/3P1Q1P/1r3PP1/6K1 w - - 3 1,4,
+5a23fab4,2rk4/3b1pQ1/1p2p3/4P3/3P3R/2P4P/r2q2P1/1R4K1 w - - 1 1,4,
+5fa84977,2kr4/ppp3p1/3q4/8/8/1QP1PRP1/PPB2P2/2K5 b - - 0 1,4,
+2ac9c13a,1k4B1/pbq5/1pp3p1/3pn3/1P1P4/P1N5/2P3PK/R2Q1R2 b - - 0 1,4,
+606a49c6,2k4r/ppb3R1/2p1p1Q1/7r/2PPp3/6P1/PP1q3P/6K1 w - - 0 1,4,
+59464cbc,5rk1/R2Q1ppp/1p1B1b2/2pp4/8/2PP3P/3q1PPK/8 w - - 6 1,4,
+ce60a82a,2kr3r/ppq2pp1/2p1pN2/8/3P1bB1/2N2Q2/PPP2PP1/R4RK1 b - - 0 1,4,
+9d1b6d0f,8/2RQ2nk/4p1p1/p3P2p/Pn1p4/BP4PK/4q2P/8 b - - 3 1,4,
+df36b80c,7k/pp4p1/2p3B1/3pP3/1P1q4/P6P/4QrP1/7K w - - 1 1,4,
+ccbda066,5rk1/p1R1Q1pp/4p3/P7/3q4/8/1r3PPP/5RK1 b - - 1 1,4,
+faa2f0d1,r1bk3r/1p4Q1/p3p2p/2npP3/7q/P2B4/2P1K1PP/5R2 w - - 2 1,4,
+cf44b73f,r6r/ppRbk1b1/3p2n1/1N1Pp3/QP2Pp1q/3N1PnP/P4BBK/R7 b - - 7 1,4,
+5e326c7d,8/p2r1r2/3k4/1R1PRp2/P3p1p1/6P1/5PK1/8 w - - 1 1,4,
+9dc9ddcf,2B3k1/5pp1/1r5p/Rp6/1Pb4P/8/5P1P/R5K1 b - - 6 1,4,
+aecdec3a,1k1r1r2/pp4pp/8/1N2P1Q1/8/3p4/PPPB1qPP/R2K3R b - - 1 1,4,
+f15af259,8/3Q1ppk/4P2p/3P4/6P1/5qBK/7P/8 b - - 0 1,4,
+50119bc7,4r3/1p1q2kp/p1pp3n/4b2p/P3P3/4Q2P/1P3RK1/5R2 w - - 0 1,4,
+05494d05,r4r2/1bp1qp1k/4p1p1/pp1pP3/8/P2B4/1PP3Q1/2K3R1 w - - 0 1,4,
+34d432a9,5rk1/R3Q2p/3p2p1/2pP4/P1P5/8/1rq2PPP/5RK1 b - - 2 1,4,
+f2fee4bd,4q1rk/1pb1p2p/pn2N1p1/3p4/P7/1P3QPP/5P2/7K w - - 0 1,4,
+ec64ced1,r6r/p3k2p/1p1Npnpb/5p2/1QPP4/P7/KPq5/3n4 w - - 0 1,4,
+9bba555f,8/5k2/3p1pp1/p2P3p/P1R1P2P/1q1n4/6P1/K1R5 w - - 2 1,4,
+ba28a42a,6rk/5Qp1/5p1p/pp2p2K/6P1/2R5/PP5q/8 w - - 0 1,4,
+b63f0e8c,2r2rk1/p4ppp/1pP1pq2/2b5/8/2P3P1/PPQN1nBP/R1B2RK1 b - - 0 1,4,
+b12c4635,r5k1/6q1/p2p2Q1/1ppr4/P3NPb1/2P5/1P6/4RK2 w - - 0 1,4,
+c0b0205b,2r1rbkn/1p3pp1/p6p/2pp3q/5B2/2P1PPQ1/PP2KPR1/4N1R1 w - - 0 1,4,
+d8c063d6,R7/Qpkr4/6p1/1p1pP2p/2qPn3/8/2P3PP/6K1 w - - 6 1,4,
+7aba0566,5rk1/ppp2qpp/2n5/3r4/4Q3/P1P5/2P2PPP/R1B2RK1 b - - 0 1,4,
+c007aad6,5rk1/pp3ppp/1q6/6r1/8/5Q2/PP4PP/2R2R1K w - - 4 1,4,
+e81f25e7,8/5k2/p3p1R1/Pp2P3/4P3/r1p5/7r/1K4R1 w - - 0 1,4,
+b5a6e022,rr4k1/5p2/4p3/3p1p2/3Q4/3NP3/p2q1P1P/4R2K w - - 0 1,4,
+9748ddd4,r4r2/ppq2ppk/3bp2p/3p4/1n1PN2Q/4PN2/PP1K1PBP/R1B3R1 b - - 0 1,4,
+62cf8202,5r1k/8/3Q4/1p1Np3/1N2q2P/P7/KP6/5R2 b - - 0 1,4,
+1d1ec723,8/pR6/4p1pk/3pNnp1/P1pP4/2r5/6K1/8 w - - 2 1,4,
+137bda0a,8/3b1rkp/3p4/2p1pPB1/3nP2Q/6P1/1r2q1BP/5RK1 w - - 3 1,4,
+c06ee01a,Q7/p2N3k/1p1P2pp/2p2p2/2P2P2/4r3/P7/4qBK1 w - - 3 1,4,
+d45d8171,6r1/5b2/R5r1/2QpB1qk/1P1P1p1p/3B1P1P/4R1P1/6K1 b - - 1 1,4,
+0d440bdd,5r1r/1R3pbp/B1Qp1kp1/3P4/4P3/5P1P/q7/6K1 w - - 5 1,4,
+3663f6f3,r4r2/1Q1Rbq1k/6pp/4B1p1/3P4/4P3/5PPP/5RK1 b - - 6 1,4,
+a688b847,5k2/p2p4/3N2Q1/4p3/6P1/6K1/Pq3r2/3R4 b - - 1 1,4,
+35d47c00,3r2k1/pb4p1/6P1/2q2p2/1pP1pB2/1P2Pn2/P2r1PK1/RB5Q w - - 2 1,4,
+43aa737c,8/p2r1rpk/4Q2p/5P1N/4pP2/1P3q1P/P6K/3q2R1 w - - 0 1,4,
+240dae29,5rk1/Q4ppp/8/p7/P7/1r1q3P/6P1/2R2R1K w - - 0 1,4,
+d986b3b0,1r5r/p6q/4R2p/1pkB4/3pPp2/2p2P2/PP3P2/6RK w - - 3 1,4,
+d3976812,1Q6/pp4pk/2p1p2p/8/6P1/1P1q2BK/P4P1P/8 b - - 2 1,4,
+4c7f594f,2r2k2/pb3p2/1p2pQ2/3qP1pN/8/6B1/PP4PP/6RK b - - 4 1,4,
+36a08826,7k/3Q2p1/6Kp/p7/P4qPP/8/8/8 b - - 9 1,4,
+93aa87a0,5bnr/5pp1/p3p3/kp6/5B1p/5P1P/N4P2/1R5K w - - 0 1,4,
+31b54a29,5rk1/pR3ppp/2p1p3/2P1P3/1P3Q2/8/q2r2PP/5RK1 w - - 3 1,4,
+82b174da,Q7/pp2kpp1/3bp3/6PK/5q2/8/P6P/3R3R b - - 1 1,4,
+0d2832b5,8/6R1/8/1r2p3/2p2P2/2Pn3k/1PKR4/8 b - - 0 1,4,
+99dc60c3,k7/p4r1p/4N3/4n3/6n1/4P1P1/2P1NPKP/1R1R4 b - - 4 1,4,
+ab205244,Q1b3k1/2p1qppp/p7/1p6/3P4/1BP4P/PP4Pb/RNBK3n b - - 2 1,4,
+d83ba248,5k1r/pp3ppp/4p3/1B2P3/1P1Q1P1q/P7/8/Knr5 w - - 2 1,4,
+38199b9f,4k1r1/8/1Q1P1pp1/2p2b1p/P1P2b2/6q1/1P6/7K w - - 2 1,4,
+14b70a57,3r1rk1/7p/p3b1p1/1p6/2p5/3B2Q1/qPP5/2K3RR w - - 0 1,4,
+c031cb32,4k3/pp2nppQ/4p2p/3pN3/3P4/P1r1P1P1/1qBK1PP1/2r5 w - - 0 1,4,
+0294a386,6k1/2p2pp1/Q1p3rp/P7/4P2q/1P3P2/2P2R1P/7K b - - 0 1,4,
+b318d65b,r5kr/p1R1Qpp1/1p2p1b1/3pP3/3P1P2/7p/3q1NPP/2R3K1 w - - 0 1,4,
+372c6efd,3rk1nr/4b1pp/p7/1p1N1pq1/3RQ3/2P4P/PP6/3K4 w k - 0 1,4,
+6f00635d,4r1k1/2RR4/p3pbrp/1p3p2/5q2/7P/PP2QPP1/6K1 w - - 0 1,4,
+ce202dd3,1k6/pbr3pp/Bp1r4/3P4/1P6/P7/1q4PP/2R2R1K w - - 0 1,4,
+338291ec,3r1r1k/p1R4p/4Q1p1/8/8/8/Pq3PPP/5RK1 b - - 3 1,4,
+d2c77208,2b2rk1/2R3pp/2nB3q/2Pp1p1Q/4p3/6N1/3p1PPP/2rR2K1 w - - 4 1,4,
+b269e802,1k4r1/pb5p/1p3Q2/2p1p3/B2R4/8/PP3PrP/4RK2 b - - 0 1,4,
+f8d8ada9,7k/6p1/2p1Qp1p/1q1p3N/2pP4/1r2P2P/5PP1/5bK1 w - - 2 1,4,
+2e68b7eb,rnb2rk1/ppppq2p/6pP/6p1/8/2Q1P3/P1P2PP1/4KB1R w K - 0 1,4,
+06b47798,4r1k1/3R3p/1Q2p1p1/4Ppq1/8/2P5/r5PP/1R4K1 w - - 0 1,4,
+fcea6dc6,5q1k/p5pp/1pp5/3p4/1P4Q1/P2P4/1BPNr1PP/3R2K1 b - - 1 1,4,
+f1fb05d0,5rk1/5ppp/1R6/2p2Q2/7P/1prq2P1/6PK/5R2 w - - 1 1,4,
+3f0667b4,2kn4/pppbq1p1/4p3/3p4/3P1P2/2PBP1p1/PP1N2P1/R2QR2K b - - 0 1,4,
+7752c3ad,5rk1/5ppp/2pp4/4p1b1/4q3/2rNP3/2P2QPP/R4RK1 w - - 2 1,4,
+10044b62,5rk1/pQ3ppp/8/3R4/8/5RPP/Pq2rPK1/8 w - - 0 1,4,
+0918a222,r6k/p4p2/2p1pPrp/1p2PRpQ/3P2P1/2PNn2R/P2q3P/6K1 w - - 6 1,4,
+ff84d459,4r1k1/1Q1R1ppp/2p1r3/p5q1/8/7P/PP3PP1/1R4K1 b - - 2 1,4,
+72936137,5r1k/6pp/5q2/P1Q5/3Pp2n/4P1KP/5P2/R4R2 b - - 2 1,4,
+d07e4cd1,1q1k3r/2p3p1/3BQ3/4P3/7P/6P1/P3KP2/1r6 w - - 3 1,4,
+9e153986,rn4k1/pp3rpp/2p4b/8/Q3N3/7b/Pq3PPP/3RK2R w K - 0 1,4,
+e0867eb6,4r2k/1b5p/pP4pb/5p2/2N2n2/5P2/P2Br2P/1R1B1R1K b - - 4 1,4,
+8396f325,2k4r/ppp3p1/3q4/5p2/3P1Pn1/6P1/PPPQR1P1/4R1K1 b - - 4 1,4,
+e2715d54,5rk1/1pp2ppp/3r4/1P1P4/2Pq4/5Q2/6PP/R4R1K w - - 3 1,4,
+12c5a9df,rnb2rk1/1p3ppp/p7/4q3/3R4/1Q2B3/P1P3P1/5RK1 w - - 0 1,4,
+2c2bd41d,6k1/2r2pp1/4p3/R2p2P1/2pPn1R1/2P1r2P/8/7K w - - 0 1,4,
+b744d9da,2r3rk/p4p2/3N3p/8/1B1Pb3/P3P3/1P4PP/6RK b - - 4 1,4,
+5ace2383,7r/2R2p1p/p2Rpqp1/1kr5/8/2P5/PP3PPP/6K1 w - - 0 1,4,
+a138c76b,6k1/p2r2bp/2Q5/8/3q4/1P6/P5PP/3q1R1K w - - 0 1,4,
+4b3289ff,4Q3/1R3Rpk/3p3p/2p3q1/4P1P1/r4PP1/2P5/7K b - - 2 1,4,
+2adfc148,7k/3q2pp/p1p5/1p1R2r1/5p1n/1QP2P1P/PPB2RPK/8 b - - 0 1,4,
+b8c5ed1c,rr3k2/8/3NBp2/3Pp1b1/8/Pq3P2/1P6/1Kn3RR w - - 0 1,4,
+8b58d672,8/1pQ5/p1p3k1/P1Pp2p1/3P4/2P3PK/5q2/8 b - - 7 1,4,
+943746b1,5k1r/pQ6/8/4pb2/7q/5R1P/P2BnbPK/5R2 b - - 1 1,4,
+27b10197,1Q6/p4pPk/q3p3/r2p3P/8/Pp2P3/1P3P2/K2R4 b - - 0 1,4,
+bfb2a2c9,5rk1/pR3ppp/2p5/3p1Q2/8/2q5/P1P3PP/4rR1K w - - 4 1,4,
+b9e20578,R4Q2/6pk/7p/5b2/3q4/8/6P1/5K2 b - - 18 1,4,
+327cbf2e,2k4r/pp6/3pp1p1/2P1b1p1/1R5q/P2P1P2/2P1QPKP/7R b - - 1 1,4,
+4c146e72,4b1k1/5p2/4p1p1/4P1K1/3nN1PR/1r6/8/8 w - - 0 1,4,
+c469a01e,3r2r1/k1p2R2/pp1q1P2/8/2P5/4Q3/P1P4P/5R1K b - - 0 1,4,
+ca027083,1r3nk1/p4p1p/1r4p1/3pP1P1/3P3Q/2P1P3/P6R/2K5 b - - 0 1,4,
+cd37edaf,6k1/5rpp/p1p1p3/3p2R1/2p4P/2P1qr2/PP5Q/1K4R1 w - - 2 1,4,
+e082f186,r2r4/pp5Q/4kp2/2p5/q1P5/2PP3P/P4PP1/n2R2K1 w - - 1 1,4,
+98c65885,4r2k/6pp/2b5/5p2/5P2/Q7/P4qPP/2R2B1K b - - 5 1,4,
+00a68318,6k1/R5p1/5n1p/4NB2/3PpP2/3nP1K1/7P/1r6 b - - 10 1,4,
+a12bd54c,4r3/6R1/5R2/1p4B1/6kP/1P2P3/1P4r1/K7 b - - 6 1,4,
+e914a85a,4r3/6bk/3P1n2/p1Q2P2/1P4p1/3b2np/1P1N1P1P/R5KB b - - 4 1,4,
+3f1d06f5,7k/1b3p2/p2ppNp1/1p4P1/4PR2/r2n4/2P4P/6K1 w - - 0 1,4,
+eca8d677,b5qk/4Q2p/4p3/4N1r1/3Pp3/2P2pP1/PP3P2/3RR1K1 b - - 0 1,4,
+448254db,r5k1/pp3pb1/6p1/8/5BQN/1Pq5/P4RPP/4R1K1 b - - 0 1,4,
+01ab321b,5b2/Q4pkp/6p1/4N3/5P2/4PK2/1q5P/q7 w - - 0 1,4,
+eddf8f8c,RR6/5pk1/1r2bp2/8/1r5p/4K3/8/8 w - - 0 1,4,
+5b7636d7,1r1k3r/4pR2/1qBp2p1/3P1nP1/2Q5/5P2/PPP5/KR6 b - - 4 1,4,
+71cc4e5d,1rr3k1/5p1p/p3p3/P4p2/2P2P2/1qNQ3P/8/4R2K w - - 0 1,4,
+af928893,8/6p1/4R3/5pkp/1pB1p3/1P3qP1/P4P1P/6K1 w - - 0 1,4,
+8e10f185,3r3k/p1p1Q1pp/8/2n1P3/8/2Pqb3/P2PN1PP/R1BK1R2 b - - 4 1,4,
+980838f6,Q7/2p3pk/3q3p/8/4PP2/2P1Q3/2r5/R5K1 b - - 0 1,4,
+6bf0aeae,3q2k1/p5pp/1p1bp3/3n1p2/2QP4/P4PN1/1P3P1K/4R1R1 b - - 0 1,4,
+9d3059e4,5rr1/3b1pbk/p2p1q1p/1p1PnP1B/1Pp1P2R/P3Q2R/2P3PP/6K1 w - - 13 1,4,
+1525dad4,3Rr3/1p2P1pk/p3Q2p/5p2/4bP2/1P4KP/P1r5/3R4 b - - 5 1,4,
+962ca606,3r2k1/ppp2ppp/3b4/8/1P1P3q/P3Q3/1B4B1/R4RK1 b - - 0 1,4,
+0e71877e,5rk1/1p3ppp/p7/3rP2Q/1P2q3/P7/6PP/2R2RK1 w - - 2 1,4,
+3f26f01d,rn3r1k/4n2p/p4ppP/2q1p3/1pB1P3/5Q2/PPP3P1/2KR3R w - - 6 1,4,
+a2998550,5rk1/pp5p/4pppP/4Q3/8/1P1R1P2/q4P1K/8 w - - 0 1,4,
+669d696e,8/4kpp1/4pn2/2p1b1B1/7P/8/rrPR1PP1/3R2K1 w - - 6 1,4,
+84e6ee95,4r2q/ppk5/2bb4/2p5/P1Q5/1PP1P1P1/5P1P/RNB2RK1 b - - 0 1,4,
+b6974de0,k3r3/1pB1q2p/pP4p1/2b2p2/4pP2/1Q1rP3/6PP/R4RK1 w - - 2 1,4,
+f16dded2,8/7p/8/5p2/R5p1/5k1b/3pr2P/6RK w - - 2 1,4,
+c45c5aaa,7k/1q5p/pp1nQ1p1/1np3b1/2P2R2/3P4/PP3P1P/6K1 w - - 0 1,4,
+37b9a333,5rk1/Q6p/2p1p1p1/4n1b1/8/2N5/PPP3PP/3KRR2 b - - 3 1,4,
+775612a7,6k1/5Rp1/7p/p3p2n/Pp6/1P5P/1q2rQP1/7K w - - 0 1,4,
+b23ed36a,2k2r2/7p/1p2p1p1/p2b4/P1pP4/2q5/5QPP/5RK1 w - - 0 1,4,
+45d102a5,4Q3/pR6/5r1p/5kp1/4p3/4R2P/P4PPK/2qr4 b - - 4 1,4,
+c6f1f263,8/p6k/1p5p/3r3P/1PK5/6r1/P5P1/6RR b - - 2 1,4,
+69fc2cba,2qr2k1/1p2bpp1/1Nr1p2p/pN2P3/P3Q3/4B3/1P3PPP/R5K1 b - - 8 1,4,
+99122835,2r3rk/1p5p/pb2pP2/3pP1p1/3Pq1P1/7R/P4Q1R/5K2 w - - 8 1,4,
+67c08633,8/6k1/3p4/P1p1q1pQ/5p2/1P5P/5R1K/8 b - - 0 1,4,
+bfd26931,r6k/pp3B2/1bnp2QB/8/2Pp2b1/8/PP4PP/4rRK1 b - - 2 1,4,
+9706df47,4r1k1/p6R/1p4BB/3b2N1/1n6/7P/Pb3PP1/6K1 b - - 0 1,4,
+5e4638da,2q5/p4Qpk/7p/4Np2/3Pn3/2n1P3/P4PPP/5RK1 b - - 7 1,4,
+e9952ec8,7k/4Np1p/4p1p1/3p4/1B3P2/P2p4/r5PP/5K2 w - - 0 1,4,
+d521ec2f,q4k1r/5Ppp/8/1b6/4P1Q1/1p2BP1P/2p2KP1/2b5 w - - 1 1,4,
+4e59ba1e,4q3/1b2r2k/pp1p1Qpp/3P4/PPP2p2/5NnP/5RP1/1B4K1 b - - 1 1,4,
+e3285340,3R2nr/p1p3p1/2p3b1/1k4p1/N3P2p/5qBP/PPP2P1K/3R4 w - - 4 1,4,
+1922aff1,2kr2rq/Q1p2p2/2p5/3b4/5B2/6P1/P1P2P1P/2R1R1K1 b - - 0 1,4,
+0b54b922,1r3rk1/2R1Q1pp/p3p3/3bPp2/4pP2/P5B1/6RP/7K b - - 0 1,4,
+100ec0d2,r5r1/ppp1qp1k/3pb2p/2b1p3/2B1P3/2PP1PQ1/PP1N2K1/R6R w - - 5 1,4,
+015ba763,6k1/5p2/3R2pQ/4p1Np/8/6PK/P3br1P/5r2 b - - 1 1,4,
+e744f6c0,8/p2Q3p/3N2pk/1B3p2/1P6/6KP/6P1/2r3b1 b - - 3 1,4,
+d439e3e2,3r1r1k/4n1p1/p3Q2p/2q5/1Pp5/8/PP3PPP/RN3RK1 b - - 0 1,4,
+b2394725,8/R5p1/p1r1p1kp/1p3p2/4N1PP/r7/4PPK1/8 w - - 0 1,4,
+7b41d41b,r4r1k/pp1b2pp/3P4/2p1B2Q/2B1p3/1P5P/P1P3PK/4q3 w - - 1 1,4,
+93586c99,5Q2/5p1p/b7/B3P1p1/3k4/2N2P2/5KPP/7q b - - 0 1,4,
+b71d254c,4R3/pNQ2pk1/2p2pq1/8/8/8/PPb2PPP/5K2 b - - 0 1,4,
+b704344a,2r4r/1n5p/pk3p2/3KpP2/1P2P2P/8/4B3/R5R1 b - - 5 1,4,
+58ef8a0c,r5k1/ppp2qpp/1n3pN1/2bP1P1Q/4r3/2N2R2/PP5P/n1B4K w - - 0 1,4,
+61ad11c4,3r4/1bq1kpQ1/p1n1p3/1p2P1N1/5B2/8/PP3RPP/6K1 b - - 0 1,4,
+3a4b6f88,r4r2/pp3p1p/4n3/6k1/4BN2/3PK3/PPP5/7R w - - 11 1,4,
+6d4a7c8e,8/5k2/3Rb2p/6p1/2pBPP2/2R3KP/rr4P1/8 b - - 0 1,4,
+8e126676,2krr3/1p3pbp/p1bQ1n2/2p5/4qNp1/1NP3B1/PP4PP/R4RK1 w - - 1 1,4,
+361a2480,8/1b3kpp/p1q2p2/2BnpP2/1P6/P4BP1/7P/3Q2K1 w - - 8 1,4,
+f0aae4ac,3r1k2/1R3pp1/B3p2p/8/5n2/R4N2/5PPP/6K1 b - - 0 1,4,
+2e7ed28d,5rk1/2q3p1/4p1P1/2Pp4/1r2n3/8/1B5R/1K4Q1 w - - 0 1,4,
+63471f83,b1k3r1/2pp4/Pp2p1r1/1P6/3Q4/3B1PN1/5P1p/3R1R1K b - - 1 1,4,
+f6b2a94c,r1b2rk1/pp3p1p/1n4pP/4q3/2Q1p3/4P3/P1P3P1/3R1RK1 w - - 3 1,4,
+4f74568f,4r2k/pp1R1Q1p/6p1/4rp2/7q/2P4P/PP3PP1/3R2K1 b - - 4 1,4,
+41221999,4r1k1/p3rpp1/2Q5/3P3p/3q1RnP/1B6/PP4P1/5R1K b - - 0 1,4,
+500dbd36,5rk1/1p3p2/p5pQ/7r/5R1P/1P1pq3/1PP3P1/5R1K w - - 4 1,4,
+8ece720b,6r1/pR6/3k1p2/3Np3/2BbP3/6r1/PPP5/R1B2K2 b - - 0 1,4,
+2ee4f6d9,6k1/5pp1/4p1b1/4B1Qp/3P3P/1R6/1P4PK/r3q3 w - - 3 1,4,
+ac7de290,2r1r1k1/5p2/p1p5/3p2pn/3B4/2P2P2/PPBQq2P/7K w - - 0 1,4,
+68e4e960,6k1/p5pp/2ppq1r1/4p3/2P1Pp2/1P3Pb1/P1QRN1P1/5R1K b - - 0 1,4,
+e81b186d,R4bk1/3b1p1p/1r1p2p1/2qP4/4PPn1/2NB4/RP1Q2PP/5K2 b - - 2 1,4,
+66145777,3q2kr/5p1p/p3p2B/1pb5/3r1p2/2R1R2P/PP3PP1/6K1 w - - 0 1,4,
+775a4b82,6kr/1rp2pp1/5B1p/4R3/P1BP2b1/8/5PPP/b5K1 w - - 0 1,4,
+e5a49617,5rk1/p4ppp/4p3/3pP1P1/3P3P/r1q1PQ2/8/1R3RK1 w - - 1 1,4,
+2f561ac1,2k1r3/1p5Q/p2P4/1b4p1/2Bprp2/1R6/1P3PPP/3R1K2 b - - 0 1,4,
+5f01d075,k6r/p4p2/Q7/2B5/4q1n1/1P2P1P1/P1P3P1/3R1RK1 b - - 12 1,4,
+f50d7c69,2Q2R2/6pk/7p/3p2q1/1P1bp3/8/3r2PP/6RK b - - 5 1,4,
+87870f33,5k2/P5pp/4Q3/5p2/1b1P4/4P3/2qNKPPP/8 b - - 0 1,4,
+0fc9201c,r1b2r1k/1p5p/1p3p2/7q/5Q2/6R1/PP3PPP/3R2K1 w - - 3 1,4,
+371f02e3,5rk1/5ppp/1q1p1b2/2pN1P1n/p2nP3/Q3BP2/KP5P/1R1R1B2 b - - 15 1,4,
+a7441670,r1b2rk1/p1q1n1p1/2p1pnQ1/1p4N1/1bpPB3/5RP1/PP3P1P/R1B3K1 w - - 5 1,4,
+0e44d183,3r4/4R2p/B5pk/2P2p2/1PN2K2/P4PP1/3R3P/4rb2 b - - 12 1,4,
+f893662d,1r3rk1/5pp1/2qbp1np/3p2N1/1pnP2N1/2P3PQ/5P1P/1RR3K1 w - - 0 1,4,
+39efe408,7Q/6p1/p3pb1p/3bNk2/qp3B2/3P3P/1P3PP1/6K1 w - - 5 1,4,
+4bb514d0,3q2k1/pR4p1/2p1p3/4Pb1p/8/PNQ5/1P3PPP/3r1BK1 b - - 0 1,4,
+4759c77f,r2krQ2/pp3p2/3p3p/2pP1N1P/2P2P2/6R1/P4q2/7K w - - 5 1,4,
+44776121,2k4r/5p2/Pqp1p3/4P3/7r/5PK1/4Q1P1/R4R2 b - - 3 1,4,
+bc7fe5a0,r1b5/pp1p3p/3R2pn/1NpR4/P1k5/5P2/1PPK2PP/r7 w - - 4 1,4,
+d6ec133e,4nk2/5q2/5N2/3pPBQ1/2b5/2P2P2/1P4PP/6K1 b - - 4 1,4,
+d87ee179,1q3rk1/8/3Npnp1/p1P1n3/3p3P/P7/1r3PR1/2Q3RK w - - 0 1,4,
+cda7af81,5r1k/p4rpp/8/3QR3/3P3q/2P5/PP1N2PP/R5K1 b - - 0 1,4,
+052f5572,r3k3/pp1n2p1/2Nbpn2/q6r/3P2p1/2N5/PPP1QPP1/R1B1R1K1 b q - 0 1,4,
+8aaed642,1r3rk1/p4ppp/b2p4/4p3/1RQ5/1P2P3/1P1q2PP/4NRK1 w - - 4 1,4,
+aa3e1464,4r3/5ppk/3q2p1/QPBP4/P5Pn/8/5P1P/2RR1K2 b - - 0 1,4,
+019ef0bd,r2q1r1k/p7/1pR3RN/3pP2p/6n1/1P1B3p/PB3PP1/3Q2K1 b - - 2 1,4,
+abcf3561,8/3R2R1/3p3k/4p1p1/3nP1Pp/5P1K/5r1P/8 b - - 4 1,4,
+bece9950,8/5ppk/2R5/5KP1/1p3P2/1R6/2prr3/8 w - - 6 1,4,
+b86e317f,r4r1k/2p3p1/4p1B1/Np2Pp2/1Pn1bP1b/1Q5R/P5PP/q1B2K2 w - - 0 1,4,
+47106c55,5rk1/1Qp2ppp/2Pp2q1/8/1P1NP3/6Pb/r1R2P1P/4R1K1 b - - 4 1,4,
+22c1e224,4Qbk1/pp3p2/1q3pp1/4p1P1/8/2r5/b1P1B3/2KR3R w - - 2 1,4,
+b223829b,3b1k2/1R5p/2pNp2r/P1PpBp2/3P1P2/P1q3pP/6Q1/6RK b - - 0 1,4,
+49034210,1r3rk1/pp3p1p/3pBQpP/2p1q3/7P/8/5R2/6K1 w - - 6 1,4,
+258e98c9,4r1k1/2pn1ppp/2p5/p4P1N/3pq3/7P/Q5RK/1r6 w - - 0 1,4,
+35e7bd31,1r6/R1Q5/3P1qk1/3ppp1p/3P2pP/4P1K1/5PP1/8 b - - 1 1,4,
+fbc1a3fc,2b4k/pp5p/6p1/3Bq3/4PP2/7P/P3Qb1K/4R2R b - - 0 1,4,
+7ac3c379,5rk1/p2n1r2/1p2R2B/2pP4/2PbQ1p1/6P1/PP4KP/3R4 b - - 2 1,4,
+bde07762,1R1b3r/3P1pk1/1B6/8/3PP1KP/r7/8/1R6 b - - 0 1,4,
+43b28bf2,8/R5p1/p1r1p1kp/2p1p3/1n1pN1PP/3P4/4PPK1/8 w - - 1 1,4,
+f75a0f25,4r1k1/2q3pp/R3p3/2Pp4/3r4/5R2/4Q1PP/6K1 w - - 0 1,4,
+5d566118,2Q5/6pk/p3p2p/3pP3/P2PbB2/2P3KP/1P2r1P1/8 b - - 4 1,4,
+712b3803,4b3/3q1kbQ/4p1p1/3pP3/2pP2P1/1pP4R/r3BPP1/3nK3 w - - 2 1,4,
+3d89468e,5rk1/ppp2p2/1b1r1p1p/4N3/5P2/2P5/PPBn1P1K/4RR2 w - - 0 1,4,
+4de26c18,1k4q1/ppp5/8/P3nQ2/4P1r1/2P4P/1P3P1P/R2R1K2 b - - 0 1,4,
+87235a85,3k4/3n4/2PK4/5Pp1/6Pp/8/8/8 w - - 0 1,4,
+f65d6d69,2r4r/p2n1pp1/1p2p3/4P3/3P4/4BkN1/P4P1P/R5RK b - - 10 1,4,
+6c0f9dae,2k4r/ppp2ppp/7r/P1Np1q2/1P1R2n1/2P1P1P1/4QPP1/R5K1 b - - 10 1,4,
+4a9f0f31,3r2r1/p3RQ2/2k1p3/8/8/P1p5/2P1q1PP/6RK b - - 0 1,4,
+9f0f696a,r5r1/1Q6/8/1pkpq3/5n2/2P1N3/P4PPP/RN3RK1 b - - 0 1,4,
+0e58ce1c,8/p5rp/1pR3p1/5k2/5P2/6P1/P5KP/8 w - - 0 1,4,
+e7ce9d0b,2r2r2/4p3/2qp2k1/6P1/pp5Q/7P/PPB5/1K3RR1 b - - 0 1,4,
+b6a1cf09,2r2rk1/Q2R2p1/1p2pq1p/8/8/8/PP3PPP/5RK1 b - - 0 1,4,
+0db0bad1,2r1r1b1/6k1/4pbPR/1p1p1P2/3P4/pNq5/P1P5/1KQ4R w - - 3 1,4,
+b987fd6e,7k/p1p2p1p/2Qb1p2/5R2/4PN1r/4q1P1/PPP2R2/6K1 b - - 0 1,4,
+4296a7e0,5r2/6k1/4Qp2/3BpP1p/3bP3/3P3P/5qPK/8 w - - 0 1,4,
+fa8b9c88,8/4k3/2b5/8/2pK1QP1/2P4q/8/5R2 b - - 12 1,4,
+43672f1e,2rq1k1r/4pp1p/1P2P1p1/1Q6/2pb1Pn1/2N2N2/1P4PP/R1B1K2R b KQ - 0 1,4,
+6a2a6760,4r2k/7p/5pp1/8/4QP2/1P5P/r4qP1/4R2K w - - 0 1,4,
+ca237c4f,5rk1/p1r4p/1p3qp1/8/3p4/3R3Q/PP3PPP/5RK1 b - - 3 1,4,
+c9c92a45,4r2k/1p3R1P/1b6/p7/P7/1r1p2B1/7P/2R2K2 w - - 0 1,4,
+5b90bb0a,2r3k1/4qpp1/p3p1P1/1p1pP3/8/1Pr5/PKP1QPP1/7R w - - 0 1,4,
+987aa3a7,r4k2/1b6/p5Q1/2b3B1/Pp1p1q2/1Pn5/5PPP/R4RK1 b - - 2 1,4,
+0033f7bd,5r1k/pp4pp/2nQ4/2P5/8/2P1N3/P2q1rPP/4RRK1 b - - 5 1,4,
+1c36adab,4r1k1/pp3p1p/2p3p1/3p4/1P3bP1/P1P1rP2/3K2P1/3R1Q1R b - - 0 1,4,
+1b50e96b,2kr3r/1pp1qpb1/3p2bp/Qp1P2p1/6P1/5P2/PP2B2P/2KR3R w - - 0 1,4,
+c6f57613,8/1pp3r1/p7/3R4/3Pk1r1/P7/6P1/3R2K1 w - - 4 1,4,
+38c76331,2r1r2k/pp4pp/q4pn1/3Q4/3P2P1/1PP3K1/P4P2/2R4R w - - 1 1,4,
+8b043143,7K/5k1P/8/P1p5/1pP5/8/8/8 b - - 0 1,4,
+bd2abfee,4nk2/1b3NpQ/p3ppP1/3p1P2/6q1/2r5/P5P1/4R2K w - - 2 1,4,
+06fbec70,rnbq3k/p6n/1b3r1R/4Q3/1P6/P1p4P/5P2/K5R1 w - - 2 1,4,
+596b2ab9,6k1/pb3ppp/1p1Np3/8/1B3n2/P2P1P2/2r4P/RN3R1K b - - 3 1,4,
+654b5193,3r1r1k/ppp1bBpp/4P3/2q5/5P2/2B2PP1/PPP5/1K1R3R w - - 1 1,4,
+ed3d3e54,Q7/2prr1pk/1p1p1pRp/p4q1P/8/2P5/PP3P2/K5R1 w - - 6 1,4,
+4a5efe7d,R7/1r2BNpk/4p2p/3p1b2/3Pn3/2b1P2P/5PPK/8 w - - 1 1,4,
+5ff7e491,r1br3k/pp3pp1/1b6/8/3qN3/3B1Q1P/2P2PP1/4R1K1 w - - 0 1,4,
+9ff612b0,2r5/7k/5BpP/pb2p3/1p2q3/8/PPPQr3/1K1R3R w - - 0 1,4,
+8dd75a06,3b1rk1/5ppp/3N2P1/p3pB1P/1p6/4r3/PP6/K2R4 w - - 0 1,4,
+d10d7eb4,5k2/8/8/pp2N3/n7/3P2Q1/PPK5/5q2 b - - 3 1,4,
+a1651e20,r3r1k1/pq3p1p/2p1p1p1/5B1Q/3B2R1/6P1/P1P1bP1P/6K1 w - - 2 1,4,
+5e1c667d,3r1k2/1p1n1p1n/2p1p2P/8/3P2Qb/4R1N1/1q3rP1/4R1K1 w - - 0 1,4,
+8ebf0dbb,3b2rk/p4Q1p/2qr1ppB/1pp1p3/7N/P4N1P/1P3PP1/4R1K1 w - - 4 1,4,
+7f5375c7,8/kppQP3/p7/8/2N2rpp/2P3qP/PP4P1/R5K1 b - - 2 1,4,
+3b0a9118,r7/kq6/Bp2p3/3pP1b1/1Q1P4/2N3P1/1PP3P1/R5K1 b - - 0 1,4,
+b3f888ab,4Q3/4qrpk/p2p2Rp/1p3b1P/2rp4/P7/KP3P2/6R1 w - - 4 1,4,
+67dd0640,3r1rk1/1p3p2/2p3pB/pnP1pNQ1/6P1/P1P4q/8/RB2K2n w Q - 2 1,4,
+4c14f0cd,6rk/1p3ppp/p1b5/4p3/6QP/1BP3R1/Pr3qP1/3R3K w - - 0 1,4,
+13778819,r1b1r1k1/ppp3pR/3p1p2/4B3/2P1P3/3K1P2/P5PQ/2q5 w - - 0 1,4,
+cf7fcdea,2br2k1/5pp1/pq2pb1p/1p6/3N4/P2QP3/1P3PPP/1B1R2K1 w - - 0 1,4,
+e6e08df4,5rk1/5rb1/p1qp2Q1/1p2p1Bp/1P4P1/2P3P1/P3NP1K/3R1R2 b - - 0 1,4,
+1b0724aa,2rq1rk1/5np1/4Q1Bp/1pb3N1/p4P2/P6R/1P1p2PP/7K w - - 0 1,4,
+4ad927e2,3R1r1k/pb4pp/1p6/2p5/P4nQ1/1P6/1B3RPP/4qBK1 b - - 2 1,4,
+6588c61f,rn3rk1/pp3ppp/2b5/2p5/8/PQN1P1qP/1P3RP1/3R2K1 w - - 0 1,4,
+bb3b5ac9,2r3k1/pp2R3/6qp/3PQp2/4bP1P/6p1/PP4P1/3R2K1 b - - 5 1,4,
+0fd56fff,2r1qr1k/6pp/pb2Bp2/np1P1P2/6QR/1P3n2/P5PP/1K1N4 w - - 0 1,4,
+1954d10e,r7/pp3k1p/3Rn1pb/q2NB3/2P1P3/p6P/2P2PP1/1N1K4 w - - 0 1,4,
+d5d94150,3r2k1/1QR2ppp/p3p3/1p2n1q1/8/4P1BP/PP3PPK/8 b - - 6 1,4,
+8f30a145,3r4/2R2R1p/p5pk/1p3p2/5K2/P2r4/BP3PP1/8 b - - 3 1,4,
+2dc10a66,5bk1/pp3p1p/5P2/8/2p1RKPQ/2Pr3P/P7/q7 w - - 0 1,4,
+360803e4,r5k1/pp1r1p1p/1np3p1/4Rpq1/1Q1P4/P7/P4PPP/4R1K1 w - - 0 1,4,
+0b338354,8/5p1Q/p3q3/4p1p1/5kP1/7P/Pr3r2/R3R1K1 w - - 0 1,4,
+1a74363a,r6k/1p2RQbp/p1b3p1/3p1p2/5P2/3B4/1q4PP/4R2K w - - 4 1,4,
+88894d21,k7/1b6/4r3/3p3R/1P1P4/1NP5/1P3PPP/5K2 b - - 2 1,4,
+5f4fb675,2r2r1k/pQ2R2p/6p1/1p1p4/7q/3P4/PP3PPP/5RK1 b - - 1 1,4,
+004220bf,8/1P3R2/5p2/6p1/5k2/7P/1r4P1/7K b - - 10 1,4,
+6001c067,5q2/4R2p/p3Q1pk/1p6/4B3/2r4P/P4PP1/6K1 b - - 2 1,4,
+c088ba31,r4b2/1p1k1pr1/4pQ2/3pP1p1/3q3p/pPR5/P4PPP/2R3K1 w - - 0 1,4,
+f691aeaa,r2q1r1k/5pR1/p7/1p2p3/3B4/2P2b2/PPBK1P1P/R7 w - - 0 1,4,
+ebc05db7,5rk1/3R1ppp/p1q5/1p2PQ2/8/P7/1r4PP/5R1K w - - 3 1,4,
+e1f63edf,5rk1/6p1/p4q2/4p2Q/2p1P3/7R/r4PPP/5RK1 b - - 3 1,4,
+aaffe359,8/5rpk/6rp/p5q1/2QN4/1PPP2PP/1P2RP1K/5R2 b - - 0 1,4,
+2ac07200,1r4k1/4Rpbp/p5p1/P7/1pQq3P/6P1/6BK/8 w - - 3 1,4,
+c9c532a6,6rk/5p1p/2p2P1q/1b1p4/p2Q2R1/7P/5PP1/6K1 w - - 6 1,4,
+6c4040d1,6rk/5Qp1/b5Pp/2R2P2/q3p3/8/4r3/2R3K1 w - - 1 1,4,
+8fe47a51,4Br1k/2R5/p7/1p2p2p/1P2P1p1/3q3P/PQ4PN/5R1K b - - 0 1,4,
+449a7b79,4rk2/1pR2ppp/p2p4/3N4/8/1q4P1/6B1/4R1K1 w - - 2 1,4,
+12913b94,2r1r1k1/2b2p1p/p1Rq1pp1/1p1n4/3P4/PQ2P2P/BP1N1PP1/2R3K1 b - - 0 1,4,
+8eb55471,r3r1k1/2q3pR/2p1NbP1/2p1nP2/p7/5P2/pPPQ4/2KR1B2 w - - 0 1,4,
+971ec9d5,8/ppQ2p1k/5bpp/8/4n3/q2r2P1/6K1/2R4R w - - 0 1,4,
+796ae689,4r1k1/4nr1p/p3R1pQ/1p3pP1/1Pp2P2/2B5/P4q1P/4R2K w - - 1 1,4,
+dea2650d,6Q1/8/4B3/8/1kP5/4K1R1/1q4P1/1r6 b - - 2 1,4,
+bb5a3499,2r3k1/ppr5/5P1p/6p1/1Q1p2P1/7P/PP3q2/1K3R1R b - - 2 1,4,
+5443e319,6rk/4RQpp/5r2/8/3q1P2/4p2P/6RK/8 w - - 2 1,4,
+78bcba45,5r2/6pk/5qbp/2R1Q3/Pr1P4/4P3/5PPP/5RK1 b - - 2 1,4,
+c34a9782,6rk/3R2pp/p7/2q1P3/6QB/7P/1rp2PP1/6K1 w - - 0 1,4,
+31e634c0,4n1k1/ppqn1p2/3b3Q/2pp4/3PB3/1N4P1/PPP2P1P/6K1 w - - 4 1,4,
+53b41379,4k3/R5pp/5p2/1p3N2/2rNP3/4K2P/2p3r1/8 w - - 4 1,4,
+116a99e1,2r2r2/p3kp1R/3bp1p1/1p2q1P1/3pb3/3B1R2/PP3Q2/1K6 w - - 0 1,4,
+a03a877b,7Q/p4k2/1p1K1P2/8/4q1P1/1b5P/8/8 w - - 6 1,4,
+b00faa26,8/k1p5/P4R2/8/4P1b1/3nr3/P2r2PP/2R4K w - - 1 1,4,
+f57e62f8,8/6k1/p2p1ppp/3P4/1N2bPP1/P1Q3KP/4r3/8 b - - 2 1,4,
+bb3c2388,5rk1/p4pp1/3qb3/2pNp2R/3pP3/1r6/PPP2P2/1K1R4 w - - 0 1,4,
+0d731eda,2r2r2/1n2qpk1/p3pNpp/1p2P3/5Q2/1R6/2P2PPP/5RK1 w - - 2 1,4,
+1d7deee8,2kr4/1p3p1r/pb2pN2/4N3/1P1p1n2/P7/R1P2PPP/5RK1 b - - 1 1,4,
+6dd6a475,4k3/1N6/p3p3/8/1B6/P2P3r/1r5b/2Q2K2 b - - 3 1,4,
+ed5d0635,5b1k/1p3p1p/2p5/p5Q1/P3r3/1BPP3P/1q4P1/7K w - - 4 1,4,
+8c69dc70,6rk/pp1NRQp1/7p/5p2/5P2/1P4PK/P6P/2q5 b - - 0 1,4,
+285294e7,8/5k1p/Q3b1p1/1BB5/8/P2q3P/1b1pnPP1/3N3K b - - 0 1,4,
+f996e122,6k1/p4rPb/4p2R/4B3/3P4/1K6/P4r2/7R b - - 1 1,4,
+1039c998,1k5r/ppq2pp1/8/7p/2PNn3/PQ2p2P/4B1Pb/1R3R1K b - - 2 1,4,
+a9aff11d,6n1/4p1k1/p2p2p1/1bpP2P1/5N2/1r3BK1/7Q/2q5 w - - 0 1,4,
+77d36d70,r2q3k/4rQp1/2p3P1/3p2b1/pp3P2/8/PPP5/1K1R2R1 w - - 1 1,4,
+a637f40a,8/2p2r1k/1p1p4/p2Q4/2P1p3/PP2PqRP/5P2/6K1 b - - 0 1,4,
+e54dccca,8/ppk1r3/2pb4/4nB2/P7/q5P1/2PQ3P/5R1K w - - 1 1,4,
+5adac533,3N2k1/b5pp/6r1/2Pp4/1P1Qn3/1B2P3/5qPP/R5RK b - - 2 1,4,
+45628774,4kr2/p4r2/1p1P2Q1/4Bp2/3Pb3/2P5/Pq4PP/5RK1 w - - 6 1,4,
+d9e3efcc,5bk1/2q2p1p/4pBp1/p1p1P1P1/3nR3/4N2Q/r4r1P/4R1K1 w - - 0 1,4,
+46f94c38,Q1R5/6pk/P4q1p/1P1B4/8/4r2P/6P1/6K1 b - - 0 1,4,
+a6d5b468,3q2k1/2p3pp/4p3/4p3/1P6/2PP1Bb1/6P1/Q1B4K b - - 0 1,4,
+8437c49b,6k1/6pp/3R4/2p5/n1P5/K4BBP/6P1/1q6 w - - 0 1,4,
+3d4f0518,r3rk2/ppq1p1b1/2p1B1p1/2P2b2/3Pp3/2B4Q/PP3nP1/2KR3R w - - 0 1,4,
+91f5e1ed,8/2p1R2p/2r2p1k/5K1P/5PP1/8/2p5/8 w - - 0 1,4,
+54511972,3k4/5pp1/2PK4/3P4/8/6p1/8/8 w - - 0 1,4,
+47b420df,3r3k/pp4pp/8/8/5q2/2Q1RBNb/PP3P1P/7K b - - 4 1,4,
+324ec16e,4Rrk1/2p3pp/2Qp4/2nN4/8/8/Prq2PPP/5RK1 b - - 1 1,4,
+3c292f76,r7/2nr3p/2p2p2/p2p1p2/1p1Pk3/1PP2RR1/P4P1P/1K2Nb2 w - - 4 1,4,
+ded5e617,r4rk1/p4ppp/bp2p3/4Qq2/3R4/2B1R3/P1P3PP/7K w - - 10 1,4,
+a116c37f,2rR1q2/1QP3bk/7p/p7/8/4p2P/P5B1/4R1K1 b - - 2 1,4,
+bd48918b,r1nr4/pb3p1k/1p2pPp1/1P1qP1Qp/7R/3p4/1BP3PP/R5K1 w - - 2 1,4,
+49d8d78b,8/1Q3Bp1/1ppk2q1/7p/1P1pP1b1/P2P4/5PK1/7R b - - 0 1,4,
+c54d186c,5rk1/R1Q2ppp/2p5/3p4/3P4/3qr2P/6P1/5R1K w - - 2 1,4,
+915bf68d,3qr2k/6p1/1ppB1p2/1b3R2/1Q1P2p1/7P/1P4PK/1r6 w - - 0 1,4,
+b21f32e5,5r1k/1Qp3pp/p2p4/7n/1P2P1q1/P5P1/2P4P/5BRK b - - 2 1,4,
+6fe12575,5rk1/3Q1ppp/1p2p3/4q3/1r6/R4R2/6PP/6K1 w - - 0 1,4,
+d1892bb4,rnb2r1k/pp1p3p/2pP4/2P2p2/4p2q/4Pp2/PP2NP2/R1BQ1RKB b - - 1 1,4,
+b964a2db,r2q2k1/ppp3p1/3p2P1/4p1PQ/8/1P2Kb2/P7/n1B5 w - - 0 1,4,
+5510b59e,r4r2/p1n1ppb1/3p3k/1p1P1bN1/2p2P2/5QR1/P2q2PP/5RK1 w - - 0 1,4,
+f4cde486,2rq1rk1/pn4p1/1p2p2p/3pP3/1P6/3Q4/P1B2PPP/4R1K1 w - - 2 1,4,
+c1d6a512,r3r1k1/2p5/4N1p1/p2P1p2/4pK2/4B3/q7/3R2R1 w - - 2 1,4,
+bdfb1268,5rk1/pR3ppp/8/4p3/4q3/PQ6/2r3PP/5R1K w - - 0 1,4,
+5fec3c8d,8/3q1k1p/pR4p1/4Q3/2P1P2P/3r1pP1/5P2/6KB b - - 3 1,4,
+3f8536d8,3r2k1/6p1/p2q1pP1/1p2pP2/8/7Q/P2B3N/3K2b1 w - - 3 1,4,
+a208bc90,6k1/1pR2p1p/5rp1/p3Q3/4P3/P7/1r1q1PPP/5RK1 b - - 0 1,4,
+b66c728d,6R1/8/7p/5p1k/3q4/8/4r1PP/5R1K w - - 10 1,4,
+89c1efab,1r6/2bkn1Qp/2p5/7B/4PP2/8/PPP3PP/RNBr1RK1 b - - 0 1,4,
+b2042a35,r7/3qN1bk/7p/2pPp1p1/p3P3/2B2pP1/Q2RbP1P/1R5K b - - 0 1,4,
+287f6d43,5rk1/1Q3ppp/4p3/3p2b1/3q4/1P6/P5P1/2R2R1K w - - 2 1,4,
+c9606ee0,5rk1/R4ppp/4p3/3pP2Q/3Pq2n/4BR2/P1r3P1/6K1 w - - 1 1,4,
+9cb32e8a,1r4k1/Q1P2pp1/7p/3p4/3Nq3/2P1P1PP/5P2/R4K2 b - - 0 1,4,
+9bbe46da,rn1b3k/ppp2r1p/2q4B/8/8/6Q1/PPP2PPP/2K1R3 w - - 0 1,4,
+6e3aca01,1k3r1N/ppp5/4p2p/3q2p1/Q2P1n2/2P5/PP3RPP/5RK1 b - - 0 1,4,
+df3adeb7,8/4PR1p/1R6/8/3kP1p1/2rn2P1/5P1P/6K1 b - - 0 1,4,
+c79892c9,1r1q1rk1/p5p1/4p2p/4P3/1bb1Q3/6P1/P1B1pPP1/3R2K1 w - - 0 1,4,
+725f659b,6rk/p1Q1R3/5p2/6q1/8/8/PP1r2PP/6RK b - - 6 1,4,
+e12ae835,5r1k/pp4pp/2p4r/8/5Pbq/1BN3N1/PP3QP1/4R1K1 b - - 2 1,4,
+fbfb7ec4,r5k1/1b1n3p/p2q2p1/2p3N1/1p3rnQ/8/PPP2PP1/2K2B1R w - - 0 1,4,
+d836a200,2Q5/6pk/4p3/1P2p1q1/4P3/3K4/6r1/2R2R2 b - - 2 1,4,
+28ed3507,8/p1p5/2p1R2R/4N1k1/6p1/2K3pP/PPbr2r1/8 w - - 1 1,4,
+3297332d,8/ppp1R1rk/5Q1p/5p2/8/5qP1/PPP2P1K/4R3 b - - 2 1,4,
+be2ea0fc,3k4/1p1P4/3K4/p3p1n1/P6P/8/8/8 w - - 0 1,4,
+87659eb8,5r2/4pk1p/4N1p1/3P1p2/2p5/3n1R2/q5PP/5Q1K w - - 2 1,4,
+1b620109,2r3k1/Q4ppp/2rp4/7b/3p1q2/3P1P1P/PPP1B3/1KR3NR b - - 0 1,4,
+0d2dbe2d,3q2k1/1Q3pp1/4P2p/2p1P3/2B5/2n2N2/5PPP/6K1 b - - 0 1,4,
+45022c9a,5rk1/pp3pp1/8/4q1N1/6b1/4r3/PP3QP1/5K1R w - - 0 1,4,
+643e0433,2r5/6kP/6P1/5PK1/8/8/8/8 w - - 5 1,4,
+f69ebe49,3r1rk1/p6p/1p2b1p1/2p5/2P1pq2/P1QB2R1/1P3P1P/1K4R1 w - - 0 1,4,
+a3691213,4rr1k/pp2Qq1p/2p2Pp1/8/8/7P/PPP5/1K2RR2 w - - 4 1,4,
+d2858fc0,r3k1nr/p1qnpp2/3p4/1Pp2P2/1P6/3BB1pP/PN2QbP1/R1R4K b kq - 2 1,4,
+50caa664,6k1/1p4pp/1q1p1r2/3Pp1Q1/rpP5/6R1/1P3PPP/5RK1 b - - 3 1,4,
+f97c6d18,3r1rk1/ppp2ppp/3p4/5Q2/2Bq4/8/PP6/K4R2 w - - 0 1,4,
+0e97eabf,8/pp2kr2/7Q/2r2p2/3nqP2/1P5B/PBP5/1K1R2R1 b - - 0 1,4,
+a05a86a3,3r4/5R2/Q4n2/1pkpq1p1/p1p5/PnP5/1P4PP/7K w - - 2 1,4,
+093706ca,2kr4/pbpp4/1p6/3Pp3/P1P1PqB1/2P2nN1/5PR1/R2Q3K b - - 0 1,4,
+14c7c161,1k4r1/8/Q1Pb3K/4r3/8/8/P1B3P1/RN6 b - - 10 1,4,
+586f1bf9,2r3k1/pR2p2p/1q2prp1/8/4Q3/8/PP3PPP/5RK1 b - - 0 1,4,
+b9dfc8f1,3r1k2/pb2bpp1/1p2pn2/3q4/3P3R/2r2PBQ/P1B3PP/R5K1 w - - 2 1,4,
+88d56251,5bk1/5p2/2q1b1pP/p1p1P3/PpNr3Q/1B6/1PP5/2K4R w - - 2 1,4,
+6982e79b,6rk/p4p1p/1p3PpQ/2b5/3B4/2P5/P1q4P/4R2K w - - 6 1,4,
+0fae9313,6rk/1pR3pp/p4p2/3p1P2/3B4/2P3QP/PP4PK/1q2r3 w - - 1 1,4,
+8803a6f5,5rk1/p4ppp/8/3pq3/4pbB1/P1N2P2/1PP1K3/3R1QR1 b - - 3 1,4,
+a0d174fa,8/kpQR4/pq5p/8/2B5/7P/PPP2bP1/2K5 b - - 0 1,4,
+6d0c3293,8/3RQ3/6pk/2p2r1p/2P5/1P2P2P/P3qP1K/6R1 b - - 5 1,4,
+2ff36fea,4Q3/1b3p1k/p6p/1p3rp1/2p5/P1B2P1P/BPP2KP1/3q4 w - - 0 1,4,
+314d62dd,r7/2p2kpR/4ppn1/p1B4N/K2P1P2/8/1P1nq3/8 w - - 4 1,4,
+b80f6247,3r4/3k2p1/Q1prp2p/2p2p2/2Pq1P2/PP1PRBP1/7P/1K6 w - - 3 1,4,
+acd842f9,8/4R1pp/5pk1/1p1b4/2p2PPP/8/2r2B2/6K1 w - - 0 1,4,
+cd58e509,5k2/pQp2pp1/7p/7b/2B2K2/4r2P/P2N2P1/6b1 b - - 4 1,4,
+27ee3a95,2b4k/6p1/p2ppqB1/8/3P2QP/5N2/p1P2K2/6r1 w - - 0 1,4,
+b15b2173,r6r/p1pNkpp1/8/2PP2q1/Qp2Pn2/5P1p/PP2BR2/R1B4K b - - 0 1,4,
+087eaabe,r5k1/ppp1R1bp/3p2p1/3P4/2P2QP1/1P1K1B2/1q6/8 w - - 6 1,4,
+f23fad33,4Q3/k5rp/p3p3/1PN1P3/6q1/5rP1/7P/1R3RK1 b - - 0 1,4,
+7147f109,6k1/ppqP2p1/6p1/8/5RPp/P2QP2P/1r1n2BK/8 b - - 2 1,4,
+c6ad4c20,2k2b1r/ppp2Bpp/4p3/8/5q2/1Q6/PP1r1PPP/5RK1 w - - 0 1,4,
+627669ca,5r1k/1p2N1pp/p2N1p2/1b3P2/8/4n3/Pr4PP/R2R2K1 w - - 4 1,4,
+3f80e542,6k1/p4pp1/7p/1P6/8/P4QKP/5PP1/2qRr2q w - - 0 1,4,
+5f7891cd,5r1k/1pbb1qp1/2p1p2p/p4n2/P1PP2n1/2BB3P/1P1QRPP1/4R1K1 b - - 0 1,4,
+30c608d8,6r1/p1q4k/2p4p/2Pp3Q/8/2P1Rp2/PP3P2/4RK2 b - - 2 1,4,
+c705d5ec,2r3kr/pp3p1p/5Qp1/6P1/n2pB1P1/1PqP3R/P4P2/1K5R w - - 1 1,4,
+0d4bbec1,r2qk3/ppp2pQ1/1bnp4/4p3/2B1P2r/2PP4/PP1N1RP1/R1B3K1 b q - 0 1,4,
+775805e8,1k2r3/1p6/p4Qp1/8/P2P4/1P1bB3/5PPP/q2RK2R b K - 6 1,4,
+d19b61cb,3b3r/p2R1pk1/8/2p1N1P1/4P3/1Pp5/P1P2P2/2K5 b - - 4 1,4,
+f798b659,1r4k1/p1p2rb1/1p1p2p1/3P2Nn/2P3qP/1P1N4/P4Q1K/4R3 w - - 0 1,4,
+eaa3f52e,r5k1/pp4p1/8/3N2qp/3nB3/1P1n3Q/P5PP/5RK1 b - - 0 1,4,
+b174efd7,8/6bk/p5p1/1p6/2n2Q2/5N1P/5PPK/q7 w - - 2 1,4,
+54f1c2b2,7R/5Q1p/r2q2pk/3pN1n1/2p1P3/1p5P/1P5P/6K1 w - - 8 1,4,
+6da23574,2r5/5p1k/2p1pPp1/6Qp/p7/7R/q2r1PKP/8 w - - 2 1,4,
+3d688744,6k1/1ppn2pp/p2r4/6Q1/2Pq4/1P1PRP1b/P4P2/4R1K1 w - - 8 1,4,
+9b7a91ae,2r4k/np3rpp/p4p2/n4P2/4PN1Q/3R4/1qP3PP/7K w - - 0 1,4,
+6cf60c41,k3r3/1p3P1p/pP1Q4/8/q2P4/2P2p2/3K1P1P/2RR4 b - - 0 1,4,
+c2704ec3,5rk1/5ppp/8/1R2p3/7q/3P1Q1P/r5P1/5R1K w - - 0 1,4,
+20bc0f2f,2nrk3/pQR2p1p/4q3/8/8/4NpP1/PP3P1P/6K1 b - - 6 1,4,
+c1a7c393,8/p1k5/4p3/Kp1p4/1QqP2P1/5P2/P5P1/7R b - - 1 1,4,
+3015b579,4R3/5kp1/p6p/1pq5/2p2N2/2P5/2B2bPP/7K w - - 1 1,4,
+a9419d7e,5r1k/pp1Q2pp/2p5/4R1B1/2PP1N2/2P5/P1q2rPP/R5K1 b - - 0 1,4,
+de24312a,8/2b1r3/6p1/1pkp1nNp/pNp4P/P1P3P1/1P1Q1PK1/4q3 w - - 0 1,4,
+6af79259,2r2rk1/1Q1R3p/6p1/p3p3/1P6/8/q4PPP/5RK1 b - - 1 1,4,
+eba2545f,6r1/kp3R1p/2Q5/p2Np3/P3P3/2Pr4/1q4PP/6RK b - - 0 1,4,
+85119702,6k1/pbpB2pp/1p2p3/4P1q1/3P1r2/6PQ/PPP1p2P/R5K1 w - - 0 1,4,
+db3bdea4,5rrk/1b5p/p1n2Pp1/1p2p3/3pP3/P2P1NK1/1P1q2B1/R6R w - - 0 1,4,
+f6e319f0,6Q1/ppk2p2/3b1p2/8/4q2P/5N2/PP4K1/R1B4R b - - 1 1,4,
+f6a81ab0,1k1r3r/pPp3p1/7p/2Q1p3/q7/P1P1Bp2/2P2P1K/R6R b - - 1 1,4,
+91842db4,r7/pp5k/2p2Bp1/3p1bQ1/3P4/2P5/Pq3PP1/5K2 w - - 0 1,4,
+f25dcb0e,3r1bk1/pp4p1/4p1Qp/2q2p2/7R/2B3P1/PP5P/3r1R1K w - - 2 1,4,
+a114e769,5rk1/4bp1p/1p2p1p1/8/2qBbP2/1R5Q/6PP/6K1 w - - 4 1,4,
+2fac5901,5r1k/1pp2r2/1pnp2Qp/4p3/6R1/PPP2q1P/5P1K/6R1 w - - 0 1,4,
+217a7dc2,1k2r2r/Rp2B1Qp/2b3p1/4p1P1/3Pp3/1qP3P1/7P/1N4K1 w - - 1 1,4,
+cd0c5438,r3r1k1/pp3ppp/2p5/3p1Q2/1Pn2R2/P6P/2P1q3/1K3R2 w - - 0 1,4,
+ebc29c03,5Q1R/2k5/p2pp1p1/1pn3PP/2r5/K7/P7/8 b - - 2 1,4,
+35db9f95,3r1rk1/1pp2pp1/2b3p1/p1b5/P1BP3R/1P2R3/7P/6K1 w - - 0 1,4,
+8d32dc00,2r5/6pp/1R2Pk2/p1p5/2P1PK2/PP1r4/6P1/2B5 b - - 2 1,4,
+cfd713d9,2kr4/pp3p2/2b5/6p1/8/2Q1P1Pp/PP2NP1P/R1Br1RK1 b - - 7 1,4,
+a632b484,5rk1/p4ppp/1p1N4/n2p1N2/Q2P1nq1/8/PP3PPP/4R1K1 w - - 0 1,4,
+cafa3c77,kr6/1p4pp/p1p5/2bp4/5q2/7P/R3QPP1/1R4K1 w - - 2 1,4,
+60488321,r3r2k/ppq2B2/2pb1nQ1/8/3Pn3/7P/PPP2PP1/R1B2RK1 b - - 0 1,4,
+bbbc0168,6k1/7R/r4pP1/4p3/p4bP1/2P2N2/1r6/3K3R w - - 0 1,4,
+f458c2c9,7k/p4Qp1/1p5p/2rP4/2q2p2/8/Pb3PPP/4R1K1 w - - 0 1,4,
+fcb0cffa,3Q1Rrk/7p/p3R3/2p2p2/3p4/3P2qP/PPP1K3/6q1 w - - 0 1,4,
+22f20698,r6k/3q1pr1/p1p2Q1p/2Rp4/8/1P2PN1b/P4PP1/6RK b - - 1 1,4,
+4dd583a0,r4rk1/7R/2p1pp2/3b2p1/1P1P4/4P3/p6R/1B4K1 w - - 0 1,4,
+f6350556,7r/1p3p1k/5Pp1/1p2pqQ1/2p3R1/2P2P1P/PP5K/8 w - - 0 1,4,
+e379d7a1,8/2p5/2k3bp/2r3p1/3K1p1P/P1P2P2/6P1/R1B5 b - - 0 1,4,
+4b7c3b93,5r1k/p5pp/5q2/8/2R5/2Q5/PP1r1PPP/5RK1 b - - 4 1,4,
+b58a5fa5,3R2rk/1Q4p1/P2p3p/1p1P4/1B2p3/4PbP1/1P3P1q/2R1K3 b - - 0 1,4,
+dc4fa332,7k/pp1Q1p1p/4qPrp/3pP3/8/P4r2/7P/2R4K w - - 2 1,4,
+b68faa78,3RR3/5rkp/p4p2/1p4p1/r5PP/3P1P2/8/6K1 w - - 0 1,4,
+d9151ec9,1Q6/3Q4/P4kpp/8/3p1P1K/6P1/7P/7q b - - 0 1,4,
+fbb3319a,rnb2rk1/ppq3pp/2pb4/3p2Bn/3PP3/2N1N2P/PPP1B1P1/R2Q1RK1 b - - 0 1,4,
+579657c1,r1r3k1/4ppb1/3p2p1/6Pn/3qPQ2/1B1P1P2/P7/1K2N2R w - - 1 1,4,
+5e2b144a,r7/5k2/p1b5/6B1/8/2N3bB/2P2qP1/R4R1K b - - 4 1,4,
+15bafd7a,r4r2/pp2R1pp/3R4/1kp5/6n1/1PP5/P4PPP/6K1 w - - 1 1,4,
+3f9d7721,5rk1/pb5p/4p1pP/1p2P3/2p3Q1/2P1qPP1/P5K1/3R4 w - - 0 1,4,

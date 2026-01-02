@@ -8,6 +8,7 @@ uscf_piece_theme = function(piece){ return chsspieces["uscf"][piece][0]; };
 wikipedia_piece_theme = function(piece){ return chsspieces["wikipedia"][piece][0]; };
 wisteria_piece_dreams_theme = function(piece){ return chsspieces["alpha"][piece][0]; };
 sakura_whisper_piece_theme = function(piece){ return chsspieces["wikipedia"][piece][0]; };
+maestro_piece_theme = function(piece){ return chsspieces["maestro"][piece][0]; };
 
 chess24_board_theme = ['#9E7863', '#633526'];
 metro_board_theme = ['#FFFFFF', '#EFEFEF'];
